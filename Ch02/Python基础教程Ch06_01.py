@@ -8,9 +8,11 @@ def lookup(data, label, name):
     
 
 def store(data, *full_names):
+    '将名字存储在'
     for full_name in full_names:
         names = full_name.split()
-        if len(names) == 2:names.insert(1,'') # 如果名+姓只有两个单词，
+        if len(names) == 2:
+            names.insert(1,'') # 如果名+姓只有两个单词，则插入一个空字符作为中间名
         labels = 'first', 'middle', 'last'
         for label, name in zip(labels, names):
             people = lookup(data, label, name)
@@ -23,7 +25,8 @@ def init(data):
     data['first'] = {}
     data['middle'] = {}
     data['last'] = {}
-                
+
+
 if __name__ == "__main__":
     Mynames = {}
     init(Mynames)
