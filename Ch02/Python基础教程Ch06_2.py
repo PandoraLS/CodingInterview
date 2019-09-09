@@ -21,6 +21,8 @@ def interval(start, stop=None, step=1):
         i += step
     return result
 
+    
+
 if __name__ == "__main__":
     print(story(job='king', name='Gumby'))
     print(story(name='Sir Robin', job='brave knight'))
@@ -43,4 +45,11 @@ if __name__ == "__main__":
     print(interval(1,5))
     print(interval(3,12,4))
     print(power(*interval(3,7))) # 输入四个参数: 3,4,5,6  实际只接收两个参数，3,4  后面的5,6是多余的，最终计算3^4=81
+
+    print("-------------------------------------")
+    x = 1
+    scope = vars()
+    print(scope['x'])
+    scope['x'] += 1
+    print(scope['x'])
     
