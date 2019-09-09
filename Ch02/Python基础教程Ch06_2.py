@@ -21,6 +21,11 @@ def interval(start, stop=None, step=1):
         i += step
     return result
 
+def multiplier(factor):
+    def multiplyByFactor(number):
+        return number * factor
+    return multiplyByFactor
+
     
 
 if __name__ == "__main__":
@@ -52,4 +57,9 @@ if __name__ == "__main__":
     print(scope['x'])
     scope['x'] += 1
     print(scope['x'])
+    print("-------------------------------------")
+    double = multiplier(2) # 根据multiplier的返回，double是一个函数，有输入的参数
+    print(double(5)) # double的输入参数是number=5
+
+
     
