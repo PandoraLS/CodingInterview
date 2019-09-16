@@ -13,49 +13,45 @@
 # 方法二：二分查找的变形，如下，时间复杂度O(nlogn)，空间复杂度为O(1)
 
 class Solution:
-    
-    
-    
-    def duplicate2(self, numbers):
+    def duplicate1(self, numbers):
+        '方法一：利用哈希表，时间复杂度O(n)，空间复杂度O(n)'
         if not numbers or len(numbers) <= 0:
             return -1
-        start = 1
-        end = len(numbers) - 1
-        while start <= end:
-            middle = (end - start) // 2 + start
-            count = self.countRange(numbers, len(numbers), start, middle)
-            if end == start:
-                if count > 1:
-                    return start
-                else:
-                    break
-
-            if count > middle - start + 1:
-                end = middle
+        usedDic = set()
+        for i in range(len(numbers)):
+            if numbers[i] < 0 or numbers[i] > len(numbers) - 1:
+                return -1
+            if numbers[i] not in usedDic:
+                usedDic.add(numbers[i])
             else:
-                start = middle + 1
+                return numbers[i]
+        return -1
+
+    def duplicate2(self, numbers):
+        '方法二：二分查找的变形，如下，时间复杂度O(nlogn)，空间复杂度为O(1)'
+        if not numbers or len(numbers) <= 0:
+            return -1
+        start =1 
 
         return -1
 
     def countRange(self, numbers, length, start, end):
         '''
-        计算数组中的元素大于start，小于等于end的元素个数
+        计算数组中的元素大于等于start，小于等于end的元素个数
+        统计start（含）到end（含）之间的元素个数
         :param numbers:
         :param length:
         :param start:
         :param end:
         :return:
         '''
-        if not numbers:
-            return 0
-        count = 0
-        for i in range(length):
-            if numbers[i] >= start and numbers[i] <= end:
-                count += 1
+        
 
         return count
 
 
 if __name__ == '__main__':
     Array = [2, 3, 1, 0, 2, 5, 3]
+
+    print(Solution().duplicate1(Array))
     print(Solution().duplicate2(Array))

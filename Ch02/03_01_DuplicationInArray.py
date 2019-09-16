@@ -51,13 +51,13 @@ class Solution:
 
         for i in range(len(numbers)):
             while (numbers[i] != i):
-                if numbers[i] == numbers[numbers[i]]:  # 如果第i个数等于i
+                if numbers[i] == numbers[numbers[i]]:  # 如果第i个数所对应的数等于i
                     duplication[0] = numbers[i]
                     print(duplication[0])
                     return True
                 else:
                     temp = numbers[i]
-                    numbers[i] = numbers[temp]
+                    numbers[i] = numbers[temp] # numbers[temp]这里对应的是书中的第m个数字
                     numbers[temp] = temp
         return False
 
