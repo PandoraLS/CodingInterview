@@ -109,8 +109,8 @@ venv.bak/
 
 
 # C/C++
-/C++Study/bin/
-/C++Study/obj/
+C++程序设计原理与实践(基础篇)/C++Study/bin/
+C++程序设计原理与实践(基础篇)/C++Study/obj/
 *.cbp
 *.exe
 *.o
