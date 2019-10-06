@@ -109,10 +109,6 @@ venv.bak/
 
 
 # C/C++
-*/bin/Debug/
-*/obj/Debug/
-*.depend
-*.layout
-*.cbp
+*/.vscode/
 *.exe
 *.o
