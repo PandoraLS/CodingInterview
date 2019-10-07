@@ -20,8 +20,7 @@ using namespace std;
 //     return 0;
 // }
 
-int main()
-{
+int main() {
     cout << "enter:";
     string first_name;
     double age;
