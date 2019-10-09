@@ -21,7 +21,7 @@ int main() {
     cout << "ÅÅĞòÇ°µÄ×Ö·û´®:" << endl;
     for_each(studentName.begin(), studentName.end(), PrintF);
     sort(studentName.begin(), studentName.end());  //ÅÅĞòº¯Êı
-    cout << "\nÅÅĞòºóµÄÃû×Ö£º" << endl;
+    cout << "\nÅÅĞòºóµÄ×Ö·û´®£º" << endl;
     for_each(studentName.begin(), studentName.end(), PrintF);
     return 0;
 }
