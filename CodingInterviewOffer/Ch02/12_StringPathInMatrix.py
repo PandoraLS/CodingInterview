@@ -14,6 +14,7 @@
 // C F C S
 // J D E H
 """
+import unittest
 
 
 # -*- coding:utf-8 -*-
@@ -63,15 +64,122 @@ class Solution:
                       self.hasPathCore(matrix, rows, cols, row - 1, col, path, pathIndex, markmatrix) or \
                       self.hasPathCore(matrix, rows, cols, row, col + 1, path, pathIndex, markmatrix) or \
                       self.hasPathCore(matrix, rows, cols, row, col - 1, path, pathIndex, markmatrix)
-            if not hasPath: # 如果上下左右仍未找到对应的点
-                pathIndex -= 1 # 回到上一步
-                markmatrix[row * cols + col] = False # 回退之后，走过的路mark为false
+            if not hasPath:  # 如果上下左右仍未找到对应的点
+                pathIndex -= 1  # 回到上一步
+                markmatrix[row * cols + col] = False  # 回退之后，走过的路mark为false
         return hasPath
 
+
+class TestSolution(unittest.TestCase):
+    def test1(self):
+        matrix = 'ABTGCFCSJDEH'
+        string = 'BFCE'
+        rows = 3
+        cols = 4
+        solution = Solution()
+        expected = True
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+
+    def test2(self):
+        matrix = 'ABCESFCSADEE'
+        string = 'SEE'
+        rows = 3
+        cols = 4
+        solution = Solution()
+        expected = True
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+
+    def test3(self):
+        matrix = 'ABTGCFCSJDEH'
+        string = 'ABFB'
+        rows = 3
+        cols = 4
+        solution = Solution()
+        expected = False
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+
+    def test4(self):
+        matrix = 'ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS'
+        string = 'SLHECCEIDEJFGGFIE'
+        rows = 5
+        cols = 8
+        solution = Solution()
+        expected = True
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+        
+    def test5(self):
+        matrix = 'ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS'
+        string = 'SGGFIECVAASABCEHJIGQEM'
+        rows = 5
+        cols = 8
+        solution = Solution()
+        expected = True
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+        
+    def test6(self):
+        matrix = 'ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS'
+        string = 'SGGFIECVAASABCEEJIGOEM'
+        rows = 5
+        cols = 8
+        solution = Solution()
+        expected = False
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+        
+    def test7(self):
+        matrix = 'ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS'
+        string = 'SGGFIECVAASABCEHJIGQEMS'
+        rows = 5
+        cols = 8
+        solution = Solution()
+        expected = False
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+    
+    def test8(self):
+        matrix = 'AAAAAAAAAAAA'
+        string = 'AAAAAAAAAAAA'
+        rows = 3
+        cols = 4
+        solution = Solution()
+        expected = True
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+
+    def test9(self):
+        matrix = 'AAAAAAAAAAAA'
+        string = 'AAAAAAAAAAAAA'
+        rows = 3
+        cols = 4
+        solution = Solution()
+        expected = False
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+
+    def test10(self):
+        matrix = 'A'
+        string = 'A'
+        rows = 1
+        cols = 1
+        solution = Solution()
+        expected = True
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+
+    def test11(self):
+        matrix = 'A'
+        string = 'B'
+        rows = 1
+        cols = 1
+        solution = Solution()
+        expected = False
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+
+    def test12(self):
+        matrix = ''
+        string = ''
+        rows = 0
+        cols = 0
+        solution = Solution()
+        expected = False
+        self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
+
+
+
 if __name__ == '__main__':
-    matrix = 'ABTGCFCSJDEH'
-    string = 'BFCE'
-    rows = 3
-    cols = 4
-    a = Solution()
-    print(a.hasPath(matrix, rows, cols, string))
+    unittest.main()
