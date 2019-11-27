@@ -106,7 +106,7 @@ class TestSolution(unittest.TestCase):
         solution = Solution()
         expected = True
         self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
-        
+
     def test5(self):
         matrix = 'ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS'
         string = 'SGGFIECVAASABCEHJIGQEM'
@@ -115,7 +115,7 @@ class TestSolution(unittest.TestCase):
         solution = Solution()
         expected = True
         self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
-        
+
     def test6(self):
         matrix = 'ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS'
         string = 'SGGFIECVAASABCEEJIGOEM'
@@ -124,7 +124,7 @@ class TestSolution(unittest.TestCase):
         solution = Solution()
         expected = False
         self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
-        
+
     def test7(self):
         matrix = 'ABCEHJIGSFCSLOPQADEEMNOEADIDEJFMVCEIFGGS'
         string = 'SGGFIECVAASABCEHJIGQEMS'
@@ -133,7 +133,7 @@ class TestSolution(unittest.TestCase):
         solution = Solution()
         expected = False
         self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
-    
+
     def test8(self):
         matrix = 'AAAAAAAAAAAA'
         string = 'AAAAAAAAAAAA'
@@ -178,7 +178,6 @@ class TestSolution(unittest.TestCase):
         solution = Solution()
         expected = False
         self.assertEqual(expected, solution.hasPath(matrix, rows, cols, string))
-
 
 
 if __name__ == '__main__':
