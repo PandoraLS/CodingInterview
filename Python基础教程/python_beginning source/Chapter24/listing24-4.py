@@ -18,7 +18,7 @@ class ChatSession(async_chat):
         line = ''.join(self.data)
         self.data = []
         # Do something with the line...
-        print line
+        print (line)
 
 class ChatServer(dispatcher):
 
