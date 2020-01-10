@@ -7,6 +7,7 @@ https://blog.csdn.net/u013908099/article/details/87807591
 题目2：队列的最大值
 请定义一个队列并实现函数max得到队列里的最大值，
 要求函数max、push_back和pop_front的时间复杂度都是O(1)。
+
 思路
 和题目1一样，在队列中维护一个保存最大值的队列，
 当pop和push操作的同时也对最大值队列进行维护。
