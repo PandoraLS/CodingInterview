@@ -18,5 +18,4 @@ class Solution:
             min_price_so_far = min(current_price, min_price_so_far)
             best_possible_profit_if_sold_now = current_price - min_price_so_far
             max_profit = max(best_possible_profit_if_sold_now, max_profit)
-
         return max_profit
