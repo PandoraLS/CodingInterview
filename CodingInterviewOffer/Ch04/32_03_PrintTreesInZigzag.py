@@ -18,7 +18,7 @@ class TreeNode:
 
 
 class Solution(object):
-    def zigzagLevelOrder(self, root):
+    def Print(self, root):
         if not root:
             return []
 
@@ -70,4 +70,4 @@ def createNodes():
 if __name__ == '__main__':
     root = createNodes()
     so = Solution()
-    print(so.zigzagLevelOrder(root))
+    print(so.Print(root))

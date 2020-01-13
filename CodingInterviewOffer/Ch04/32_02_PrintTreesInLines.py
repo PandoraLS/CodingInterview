@@ -20,7 +20,7 @@ class TreeNode:
 
 
 class Solution(object):
-    def levelOrder(self, root):
+    def Print(self, root):
         if not root:
             return []
         ans, level = [], [root]
@@ -63,4 +63,4 @@ def createNodes():
 if __name__ == '__main__':
     root = createNodes()
     so = Solution()
-    print(so.levelOrder(root))
+    print(so.Print(root))
