@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
 # Author：sen
 # Date：2020/2/20 20:58
-"""
 
-class Solution:
-    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-"""
 from functools import lru_cache
 
 
