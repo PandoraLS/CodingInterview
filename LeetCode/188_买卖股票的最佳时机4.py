@@ -4,7 +4,6 @@
 class Solution:
     def maxProfit(self, k, prices) -> int:
         return self.max_profit_k(prices, k)
-
     def max_profit_inf(self, prices):
         # 当k>=n/2(总天数的一半)，此时k可以理解为最大交易次数没有限制，
         # 此时k不会影响到profit，此时题目退化为[122_买卖股票的最佳时机2]
@@ -17,18 +16,15 @@ class Solution:
             hold = max(hold, not_hold - prices[i])
             not_hold = max(not_hold, prev_hold + prices[i])
         return not_hold
-
     def max_profit_k(self, prices, k):  # 最大交易次数为k时所获得的profit
         n = len(prices)
         if n == 0 or k == 0:
             return 0  # 当n=0(天数为0时)，或者k=0(没有交易次数，无法交易)时
         if k >= n / 2:  # 此时题目退化为[122_买卖股票的最佳时机2]
             return self.max_profit_inf(prices)
-
         # hold和not_hold分别表示当前[持有]或[不持有]时的profit
         hold = [[0 for i in range(k + 1)] for j in range(n)]  # 当前持有shape([n*(k+1)])
         not_hold = [[0 for i in range(k + 1)] for j in range(n)]  # 当前不持有 shape([n*(k+1)])
-
         for i in range(n):  # 天数
             for j in range(1, k + 1):  # 交易次数k(可以理解为剩余交易次数)
                 if i == 0:  # base case
