@@ -7,7 +7,6 @@ import requests
 from random import choice
 from bs4 import BeautifulSoup
 
-
 socket.setdefaulttimeout(30)
 user_agents = [
     'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
@@ -183,6 +182,7 @@ if __name__ == '__main__':
     # html = get_html('https://baike.baidu.com')
     html = get_html('https://baike.baidu.com/item/' + urllib.parse.quote('强制休息令'))
     from pprint import pprint
+
     res = extract(html)
 
     pprint(res)
