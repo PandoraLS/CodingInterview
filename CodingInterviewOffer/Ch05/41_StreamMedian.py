@@ -104,7 +104,7 @@ class Solution2:
         lastParent = (n - 1) // 2  # (层序遍历)最后一个父节点
         for i in range(lastParent, -1, -1):
             self.minHeapfy(alist, n, i)
-   
+
 if __name__ == '__main__':
     t = Solution()
     t.Insert(5)

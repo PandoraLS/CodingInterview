@@ -1,0 +1,4660 @@
+panlongen128.wav
+trans: "GU  WAY TO
+refer:  GOING 047
+WER: 5     CER: 2.538461538
+
+/minhang_std900_seen/test/wav/zhouxingyuen213.wav
+trans: DREST FROST REMO FOR OLDY ATTEGATE
+refer: REQUEST DE-ICING
+WER: 3     CER: 1.533333333
+
+/minhang_std900_seen/test/wav/panlongen125.wav
+trans: "UNABLE TWO OATIEY FI A T2O
+refer:  RMEQUEE FORH BF  RUNWAY"
+WER: 1.666666667     CER: 1.03030303
+
+panlongen184.wav
+trans: GOING LO OW LOACET FRO SAY ATION
+refer: "GOING AROUND
+WER: 1.5     CER: 0.5
+
+chenxiaodaen235.wav
+trans: SQUAWKS5 6C 3
+refer: SQUAWK 7563
+WER: 1.5     CER: 0.2
+
+liuxinpengen282.wav
+trans: TRANSPONNR S PUARM
+refer: TRANSPONDER UNSERVICEABLE
+WER: 1.5     CER: 0.541666667
+
+xujiahongen184.wav
+trans: "FLENAY4
+refer:  GOANR AROND COCALEZER  FULAK
+WER: 1.5     CER: 0.625
+
+chenxiaodaen285.wav
+trans: NEGATIV R 8DSB
+refer: NEGATIVE ADS-B
+WER: 1.5     CER: 0.230769231
+
+zhoukaihangen282.wav
+trans: CONFORR ON SVTABLE
+refer: TRANSPONDER UNSERVICEABLE
+WER: 1.5     CER: 0.583333333
+
+qiujinzhuanen164.wav
+trans: JN RIGHT HED BOE DE WND  RUNWAY34
+refer: "JOIN RIGHT-HAND DOWNWIND
+WER: 1.4     CER: 0.35483871
+
+/minhang_std900_seen/test/wav/zhaoyizeen283.wav
+trans: ADD -B TRANSMITR 10 L0 10A DA LINK
+refer: ADS-B TRANSMITTER 1090 DATA LINK
+WER: 1.4     CER: 0.25
+
+/minhang_std900_seen/test/wav/limingnanen072.wav
+trans: LEAVE J L F K V 1OR HDADING 210
+refer: LEAVE JFK VOR HEADING 210
+WER: 1.4     CER: 0.142857143
+
+yinnanen399.wav
+trans: "OFFSET CANCEED
+refer:  TNT TRJOIN A1ON DEAFOBKM VO 0 V OR WEATHER
+WER: 1.363636364     CER: 0.918367347
+
+liuzhilinen152.wav
+trans: "NB TO
+refer:  EPOPPING GIN "
+WER: 1.333333333     CER: 0.722222222
+
+yinnanen381.wav
+trans: WE LEC EERS TIM
+refer: "WILCO
+WER: 1.333333333     CER: 0.625
+
+huoguangen051.wav
+trans: "SIY NOT K MILES T HD B  FLL290
+refer:  TRACKINTO JM U4
+WER: 1.333333333     CER: 0.441860465
+
+koujiahuien226.wav
+trans: CONFI EENTI FL RET
+refer: CONFIRM IDENTIFICATION LOST
+WER: 1.333333333     CER: 0.52
+
+linjialiangen093.wav
+trans: "REATINY 
+refer:  REEST START"
+WER: 1.333333333     CER: 0.523809524
+
+/minhang_std900_seen/test/wav/suntianqien242.wav
+trans: "NOTIMETER 1003
+refer:  8000TN FEET"
+WER: 1.333333333     CER: 0.368421053
+
+/minhang_std900_seen/test/wav/liuxinpengen220.wav
+trans: REQUESTD DEPURTUR IN FRUCTION
+refer: REQUEST DEPARTURE INSTRUCTION
+WER: 1.333333333     CER: 0.185185185
+
+/minhang_std900_seen/test/wav/zengyunianen280.wav
+trans: FOND VIGH TASPONDER COBIITY
+refer: ADVISE TRANSPONDER CAPABILITY
+WER: 1.333333333     CER: 0.407407407
+
+/minhang_std900_seen/test/wav/chenxien206.wav
+trans: CONFIRM THE DES DPOINT RVR ORE THAN 5E 30D 500 A MIRS
+refer: CONFIRM MIDPOINT RVR MORE THAN 550 METERS
+WER: 1.285714286     CER: 0.428571429
+
+heshuchangen202.wav
+trans: UNA RUNWY 27 IC TOMETER
+refer: CONFIRM RVR RUNWAY 27
+WER: 1.25     CER: 1.055555556
+
+/minhang_std900_seen/test/wav/zhangyizeen286.wav
+trans: REAGER D SPICAFT ADENNI GITION
+refer: RE-ENTER ADS-B AIRCRAFT IDENTIFICATION
+WER: 1.25     CER: 0.428571429
+
+zhaoyizeen298.wav
+trans: "DESCENDING TO O COW TH  FAD QH 105
+refer:  ESPACT INDI VL SGAR  APPRACH RUNWAY"
+WER: 1.2     CER: 0.433962264
+
+/minhang_std900_seen/test/wav/lilinshenen037.wav
+trans: MAINTAING QO 50 NOT BO GEATER
+refer: MAINTAIN 250 KNOTS OR GREATER
+WER: 1.2     CER: 0.28
+
+chenxien296.wav
+trans: "DIREECTOR TWO J O
+refer:  DECENT TO FL F50"
+WER: 1.166666667     CER: 0.291666667
+
+/minhang_std900_seen/test/wav/chenxien267.wav
+trans: REQUEST PETED THO 00 F NOTS DUE T TPS
+refer: REQUEST SPEED 250 KNOTS DUE TURBULENCE
+WER: 1.166666667     CER: 0.484848485
+
+/minhang_std900_seen/test/wav/yinnanen378.wav
+trans: BETHER GEA WE MA TH OUNE PRATS MITION
+refer: "DISREGARD
+WER: 1.166666667     CER: 0.555555556
+
+/minhang_std900_seen/test/wav/qiujinzhuanen196.wav
+trans: FOIN AIRBOLE RECE A F FRUNCA MAITIS CONTINBAE
+refer: CONFIRM AIRPORT RESCUE AND FIRE FACILITIES CATEGORY
+WER: 1.142857143     CER: 0.6
+
+/minhang_std900_seen/test/wav/panlongen162.wav
+trans: PRACI WIA A TO TRACK AHE LIN R RUNWAY18
+refer: "TAXI VIA A2
+WER: 1.125     CER: 0.432432432
+
+caolangen044.wav
+trans: "LM AN0 2 DEPARTU POCIN 200050N FET
+refer:  CLIMBING 290000 FET"
+WER: 1.111111111     CER: 0.387755102
+
+/minhang_std900_seen/test/wav/panlongen161.wav
+trans: "LIVAT AND VAITION
+refer:  ANDER STAND W AIRAT TO E PAT 4O A DUDE"
+WER: 1.090909091     CER: 0.489795918
+
+yinnanen394.wav
+trans: "REQUEST ESE TIME E REOUTE 2O FRL COFINLNHE
+refer:  VE CHEC LISST"
+WER: 1     CER: 0.404761905
+
+hanzhihaoen093.wav
+trans: "BA24
+refer:  REQUEST START UP"
+WER: 1     CER: 0.095238095
+
+wuhaoen368.wav
+trans: NEGATIVE R NALES
+refer: NEGATIVE RNAV
+WER: 1     CER: 0.25
+
+chenxien264.wav
+trans: PRESOME NORMALH SPEET
+refer: RESUME NORMAL SPEED
+WER: 1     CER: 0.235294118
+
+zhangyuen230.wav
+trans: OLBITLEFT TO4O DELY
+refer: ORBIT LEFT FOR DELAY
+WER: 1     CER: 0.294117647
+
+guanweihanen100.wav
+trans: IREADIUE F
+refer: I READ YOU 5
+WER: 1     CER: 0.444444444
+
+wuwenjieen115.wav
+trans: TATTING NMBERNE
+refer: STARTING NUMBER ONE
+WER: 1     CER: 0.235294118
+
+yuweiweien387.wav
+trans: MIGT TAINING FL310 NT TATLIST
+refer: MAINTAINING FL310 UNTIL ADVISED
+WER: 1     CER: 0.357142857
+
+xuziaoen188.wav
+trans: TAXIT STANDA 2O7 WIATX WEA
+refer: TAXI TO STAND 27 VIA TAXIWAY A
+WER: 1     CER: 0.333333333
+
+liuxinpengen277.wav
+trans: "NOUM SAG PLEADDT OT F 0E VAY V5 SERVICEABBLE
+refer:  CONFIRM"
+WER: 1     CER: 0.452830189
+
+zhangyuen265.wav
+trans: SNO SPEE ATRACTINS
+refer: NO SPEED RESTRICTIONS
+WER: 1     CER: 0.368421053
+
+yemaochenen102.wav
+trans: CEAD PE SLIEE
+refer: CAN YOU SPEAK SLOWER
+WER: 1     CER: 0.647058824
+
+qiujinzhuanen151.wav
+trans: RODING PODITION
+refer: HOLDING POSITION
+WER: 1     CER: 0.2
+
+yemaochenen101.wav
+trans: DOARE 0R REOMD
+refer: YOU ARE UNREADABLE
+WER: 1     CER: 0.625
+
+xuziaoen150.wav
+trans: "HOLND O VETUINT
+refer:  CO HO TAKEOFF
+WER: 1     CER: 0.36
+
+liulongfeien169.wav
+trans: HOLPI T RI NUMBER TO
+refer: "ORBIT RIGHT
+WER: 1     CER: 0.4
+
+liulongfeien139.wav
+trans: LINFL IMMDIAE DEPARTUR
+refer: READY FOR IMMEDIATE DEPARTURE
+WER: 1     CER: 0.384615385
+
+wuwenjieen103.wav
+trans: HAWTDIRURCE
+refer: HOW DO YOU READ
+WER: 1     CER: 0.666666667
+
+liuxinpengen231.wav
+trans: NOOKING OT
+refer: LOOKING OUT
+WER: 1     CER: 0.2
+
+zhouxingyuen216.wav
+trans: RES TIME CHECK
+refer: REQUEST START ENGINE AT THE GATE
+WER: 1     CER: 0.703703704
+
+chenshunlongen070.wav
+trans: REST LEVEL THE LV THE HOLDING PATTEN
+refer: REQUEST LEAVE THE HOLDING PATTERN
+WER: 1     CER: 0.344827586
+
+zhoukaihangen245.wav
+trans: TUR RIGHT TO CONTA GREES
+refer: TURN RIGHT 20 DEGREES
+WER: 1     CER: 0.444444444
+
+yemaochenen154.wav
+trans: "STAIN BIRS
+refer:  POSSIS BLE VIRCATIN  RANAL"
+WER: 1     CER: 0.472222222
+
+huoguangen093.wav
+trans: "BRAY 24
+refer:  REQUEST"
+WER: 1     CER: 0.428571429
+
+yinnanen342.wav
+trans: "CLIMB TO FLL210
+refer:  LEVES SGRATIONS OR KOD A P 01 DEPARTURE
+WER: 1     CER: 0.175438596
+
+yuanhaoen103.wav
+trans: HOLDINGREAD
+refer: HOW DO YOU READ
+WER: 1     CER: 0.416666667
+
+yemaochenen129.wav
+trans: HEDING WIAHY T BO7 47 TACING FORM LEFT DO RIGHTE
+refer: GIVING WAY TO B747 PASSING FROM LEFT TO RIGHT
+WER: 1     CER: 0.378378378
+
+yuanhaoen197.wav
+trans: RIS THEWATHIRHO DETER E REATING
+refer: IS THE WEATHER IMPROVING OR DETERIORATING
+WER: 1     CER: 0.416666667
+
+zengyunianen201.wav
+trans: IXSMID POINT RVRVAILABLE
+refer: IS MID-POINT RVR AVAILABLE
+WER: 1     CER: 0.130434783
+
+weiqingyaoen104.wav
+trans: Q 997  SI GAING T8H 97IN
+refer: "QNH 997
+WER: 1     CER: 0.565217391
+
+zhangyuen259.wav
+trans: COF DBR AI 24OR
+refer: CROSS DG AT 24 OR EARLIER
+WER: 1     CER: 0.65
+
+liuzhilinen101.wav
+trans: YOUL ON RIABLE
+refer: YOU ARE UNREADABLE
+WER: 1     CER: 0.4375
+
+lilinshenen072.wav
+trans: NEAAE DA-I 44K VO HONLLNG 210
+refer: LEAVE JFK VOR HEADING 210
+WER: 1     CER: 0.619047619
+
+yemaochenen183.wav
+trans: INSIE GOIN
+refer: "WIND SHEAR
+WER: 1     CER: 0.619047619
+
+koushuaien099.wav
+trans: RADO HECKO118.3
+refer: RADIO CHECK ON 118.3
+WER: 1     CER: 0.176470588
+
+zhaoyizeen231.wav
+trans: LOOKINO
+refer: LOOKING OUT
+WER: 1     CER: 0.3
+
+qiujinzhuanen152.wav
+trans: STOPKING ANTIN FI
+refer: STOPPING ENGINE FIRE
+WER: 1     CER: 0.333333333
+
+zhangyizeen283.wav
+trans: "ADS B
+refer:  TRANSMIT 1090 DALNK"
+WER: 1     CER: 0.285714286
+
+chenxien213.wav
+trans: REQUEST DU ICING
+refer: REQUEST DE-ICING
+WER: 1     CER: 0.133333333
+
+yuweiweien380.wav
+trans: "STANDB
+refer:  W AN TEARVI OT PROCEDORS"
+WER: 1     CER: 0.352941176
+
+liuxinpengen281.wav
+trans: CTRANSPEONMDER CHEARIE
+refer: TRANSPONDER CHARLIE
+WER: 1     CER: 0.277777778
+
+weihaodongen104.wav
+trans: QUEHT 997 E SIYDGN 9997
+refer: "QNH 997
+WER: 1     CER: 0.565217391
+
+zhangyuen284.wav
+trans: AS-B LESS RNW100 DA LIK
+refer: ADS-B RECEIVER 1090 DATA LINK
+WER: 1     CER: 0.48
+
+zhangyuen234.wav
+trans: CROFTICTI PASEAND CLER
+refer: TRAFFIC PASSED AND CLEAR
+WER: 1     CER: 0.380952381
+
+xuziaoen145.wav
+trans: BECINARBUS SO TO FINAL LI AVEHINA
+refer: "BEHIND AIRBUS ON SHORT FINAL
+WER: 1     CER: 0.405405405
+
+huoguangen003.wav
+trans: REACHIG F190
+refer: REACHING FL190
+WER: 1     CER: 0.153846154
+
+yemaochenen186.wav
+trans: "GA ES RIGHT
+refer:  WRHEAIN VACADE
+WER: 1     CER: 0.47826087
+
+wuwenjieen104.wav
+trans: UNH 997 ISAEAY AGAIN QH97
+refer: "QNH 997
+WER: 1     CER: 0.304347826
+
+xujiadongen341.wav
+trans: "PASSIG UTE DUDE 200300 VEED
+refer:  CLIMB TO F80"
+WER: 1     CER: 0.342105263
+
+weiqingyaoen199.wav
+trans: ONFIRM ARENT RWR LISS CAN 4000 MTERS
+refer: CONFIRM CURRENT RVR LESS THAN 400 METERS
+WER: 1     CER: 0.294117647
+
+wumingweien310.wav
+trans: "PROSEDURE TURN COMLA TEE
+refer:  LOCALAZER STAIMBLIHED"
+WER: 1     CER: 0.209302326
+
+hanzhihaoen099.wav
+trans: LADI CHECKS OF 1183
+refer: RADIO CHECK ON 118.3
+WER: 1     CER: 0.294117647
+
+/minhang_std900_seen/test/wav/yemaochenen149.wav
+trans: TAK OF IN RE ORTVACATNY R RUNWAY
+refer: TAKE OFF IMMEDIATELY OR VACATE RUNWAY
+WER: 1     CER: 0.46875
+
+/minhang_std900_seen/test/wav/yuanhaoen134.wav
+trans: READY FOR DEPARTURE
+refer: "BEHIND BOEING747 PASSING LEFT TO RIGHT
+WER: 1     CER: 0.85483871
+
+/minhang_std900_seen/test/wav/xuziaoen101.wav
+trans: YU VAILABLE
+refer: YOU ARE UNREADABLE
+WER: 1     CER: 0.625
+
+/minhang_std900_seen/test/wav/liulongfeien170.wav
+trans: UNER TO FOLLARBUS320 ACLESD
+refer: "NUMBER TWO
+WER: 1     CER: 0.366666667
+
+/minhang_std900_seen/test/wav/weiqingyaoen101.wav
+trans: O ON RAIABLE
+refer: YOU ARE UNREADABLE
+WER: 1     CER: 0.5
+
+/minhang_std900_seen/test/wav/panlongen169.wav
+trans: OBING RIGNUMBER2
+refer: "ORBIT RIGHT
+WER: 1     CER: 0.45
+
+/minhang_std900_seen/test/wav/lijiayuen107.wav
+trans: TAMBE HBACK
+refer: STAND BY PUSHBACK
+WER: 1     CER: 0.466666667
+
+/minhang_std900_seen/test/wav/chenxien218.wav
+trans: REQUEST ACK TRACK
+refer: REQUEST BACKTRACK
+WER: 1     CER: 0.0625
+
+/minhang_std900_seen/test/wav/linghaiyangen282.wav
+trans: AOTPORNTER ANSRAILABLE
+refer: TRANSPONDER UNSERVICEABLE
+WER: 1     CER: 0.458333333
+
+/minhang_std900_seen/test/wav/zhaoyizeen214.wav
+trans: CREQUSST T FRT REMOL RONLY AC GAED
+refer: REQUEST FROST REMOVAL ONLY AT THE GATE
+WER: 1     CER: 0.4375
+
+/minhang_std900_seen/test/wav/zhangyizeen282.wav
+trans: TRANSPONDUNSERVICEABLE
+refer: TRANSPONDER UNSERVICEABLE
+WER: 1     CER: 0.083333333
+
+/minhang_std900_seen/test/wav/zhouxingyuen217.wav
+trans: DEST PECKTRACB
+refer: REQUEST TIME CHECK
+WER: 1     CER: 0.75
+
+/minhang_std900_seen/test/wav/chenxien286.wav
+trans: REENTER HADS-B AIRCAFT IDETIFICATION
+refer: RE-ENTER ADS-B AIRCRAFT IDENTIFICATION
+WER: 1     CER: 0.114285714
+
+/minhang_std900_seen/test/wav/xiaokailunen318.wav
+trans: "LONFIR HED TER P
+refer:  INITER 300FEET INTERING HOLD"
+WER: 1     CER: 0.441860465
+
+/minhang_std900_seen/test/wav/lilinshenen004.wav
+trans: MAINTAINING F90 OVER V AX JAAI
+refer: MAINTAINING FL90 OVER WXJ
+WER: 1     CER: 0.272727273
+
+/minhang_std900_seen/test/wav/heshuchangen250.wav
+trans: CANFIRM DANG AR 1138TI
+refer: CONFIRM DANGER AREA 113 ACTIVE
+WER: 1     CER: 0.346153846
+
+/minhang_std900_seen/test/wav/wumingweien380.wav
+trans: "STANY
+refer:  VEA TAVOT PROCETERS"
+WER: 1     CER: 0.470588235
+
+/minhang_std900_seen/test/wav/zhouxingyuen214.wav
+trans: "DE-ICCONG COPATED
+refer:  REQUEST TAXI"
+WER: 1     CER: 0.84375
+
+/minhang_std900_seen/test/wav/zhangyuen294.wav
+trans: COFORMD AESAK BOR RUNWAWAY 0H0I8WI T
+refer: CONFIRM WE ARE STILL ABOVE YOUR MINIMUM VECTORING ALTITUDE
+WER: 1     CER: 0.7
+
+/minhang_std900_seen/test/wav/wanghanyien102.wav
+trans: CEAYOU SPEK SLOER
+refer: CAN YOU SPEAK SLOWER
+WER: 1     CER: 0.235294118
+
+/minhang_std900_seen/test/wav/wuhaoen310.wav
+trans: PROCEDATEN CONPLACED H LOCLIZE SDAMBLSHED
+refer: "PROCEDURE TURN COMPLETED
+WER: 1     CER: 0.348837209
+
+/minhang_std900_seen/test/wav/liulongfeien153.wav
+trans: REQUEST TO WE TIRNE TO RAIT
+refer: REQUEST RETURN TO RAMP
+WER: 1     CER: 0.368421053
+
+/minhang_std900_seen/test/wav/lihanlongen100.wav
+trans: IREADIY F
+refer: I READ YOU 5
+WER: 1     CER: 0.444444444
+
+/minhang_std900_seen/test/wav/wuwenjieen101.wav
+trans: YOUARE ONVABONE
+refer: YOU ARE UNREADABLE
+WER: 1     CER: 0.4375
+
+/minhang_std900_seen/test/wav/weihaodongen163.wav
+trans: "SARBUS 330 HEA A000 T FEAET
+refer:  INPORNATING 6.X"
+WER: 1     CER: 0.388888889
+
+/minhang_std900_seen/test/wav/yemaochenen143.wav
+trans: "GAIMRBORNE PAING FEE00LUNT FEET
+refer:  O 4LC0ME"
+WER: 1     CER: 0.558823529
+
+/minhang_std900_seen/test/wav/wumingweien303.wav
+trans: ESTAMBLIAHE DON HED LOCLAZER
+refer: ESTABLISHED ON THE LOCALIZER
+WER: 1     CER: 0.24
+
+/minhang_std900_seen/test/wav/liuzhilinen151.wav
+trans: RUNY POITION
+refer: HOLDING POSITION
+WER: 1     CER: 0.466666667
+
+/minhang_std900_seen/test/wav/koujiahuien253.wav
+trans: DIDINDICAN PEEDN 27  ACET
+refer: INDICATED SPEED 270 KNOTS
+WER: 1     CER: 0.590909091
+
+/minhang_std900_seen/test/wav/qiujinzhuanen127.wav
+trans: "CROSSK CROSSIN RUNWAY 2
+refer:  RECOT"
+WER: 1     CER: 0.545454545
+
+/minhang_std900_seen/test/wav/yuanhaoen198.wav
+trans: "SINGTER PARTHUE O FOL AS
+refer:  FORTHE A-LONDD RUNWAY RVIL SIIFACANI MEDUCE"
+WER: 1     CER: 0.47826087
+
+/minhang_std900_seen/test/wav/liuxinpengen280.wav
+trans: AVIE TRANSPONNER CARBEOT
+refer: ADVISE TRANSPONDER CAPABILITY
+WER: 1     CER: 0.333333333
+
+/minhang_std900_seen/test/wav/liulongfeien191.wav
+trans: CONFIRM 7E LINE TAXILITIN UNSER BAKCAL
+refer: CONFIRM CENTERLINE TAXIWAY LIGHTING UNSERVICEABLE
+WER: 1     CER: 0.377777778
+
+/minhang_std900_seen/test/wav/wuwenjieen175.wav
+trans: "CROSHORT FINA
+refer:  RAIREST 3"
+WER: 1     CER: 0.592592593
+
+/minhang_std900_seen/test/wav/suntianqien282.wav
+trans: TANSPONDER UNSERICEEABLE
+refer: TRANSPONDER UNSERVICEABLE
+WER: 1     CER: 0.125
+
+/minhang_std900_seen/test/wav/chenzixiongen057.wav
+trans: DESCEO SITION REPORNTE
+refer: RESUME POSITION REPORTING
+WER: 1     CER: 0.347826087
+
+/minhang_std900_seen/test/wav/zhangyizeen230.wav
+trans: OPIT PLEFT FURELA
+refer: ORBIT LEFT FOR DELAY
+WER: 1     CER: 0.352941176
+
+/minhang_std900_seen/test/wav/huoguangen083.wav
+trans: "RECLEAVED DENSMISTION VILE ZF501 DEPARTURE RUNWAY 26 R
+refer:  EST GOF CLEINGE UNCHELDE"
+WER: 1     CER: 0.297297297
+
+/minhang_std900_seen/test/wav/huoguangen076.wav
+trans: "CINFORMATION OPE ARECEET
+refer:  TAND T GEARITO
+WER: 1     CER: 0.480769231
+
+/minhang_std900_seen/test/wav/yuanhaoen184.wav
+trans: "GOING AROND LELO GALIZHER
+refer:  FLIGHTQUATION"
+WER: 1     CER: 0.3125
+
+/minhang_std900_seen/test/wav/zhangyuen241.wav
+trans: ARFIRM SQUACK SI500
+refer: AFFIRM SQUAWK 7500
+WER: 1     CER: 0.25
+
+/minhang_std900_seen/test/wav/wuwenjieen102.wav
+trans: CAOUPAK FLALAR
+refer: CAN YOU SPEAK SLOWER
+WER: 1     CER: 0.470588235
+
+/minhang_std900_seen/test/wav/zhangyuen253.wav
+trans: IN CAE A SPEED 270 CROSCS
+refer: INDICATED SPEED 270 KNOTS
+WER: 1     CER: 0.363636364
+
+/minhang_std900_seen/test/wav/panlongen126.wav
+trans: CROSSING RUNWAY 24 WIALCO
+refer: "UNABLE TO VACATE VIA A2
+WER: 1     CER: 0.888888889
+
+/minhang_std900_seen/test/wav/weihaodongen200.wav
+trans: "CONFRM VIH BEITY
+refer:  WRI HAN 1000METERS"
+WER: 1     CER: 0.257142857
+
+/minhang_std900_seen/test/wav/chenmingliangen246.wav
+trans: LEAV BKHD190
+refer: LEAVE BK HEADING 190
+WER: 1     CER: 0.352941176
+
+/minhang_std900_seen/test/wav/yuweiweien364.wav
+trans: "UNABLE RNA V TOE EPLENT
+refer:  REQUEST CONVITION LOL AVIAL"
+WER: 1     CER: 0.265306122
+
+/minhang_std900_seen/test/wav/lilinshenen035.wav
+trans: WAIN CHANN OCHT INT 0 O LESS
+refer: MAINTAIN MACH POINT 80 OR LESS
+WER: 1     CER: 0.4
+
+/minhang_std900_seen/test/wav/guozhengtingen285.wav
+trans: NEGATIV ADSB
+refer: NEGATIVE ADS-B
+WER: 1     CER: 0.153846154
+
+/minhang_std900_seen/test/wav/zengyunianen271.wav
+trans: BEHINTRAF VICDAT OR 1 TO CLOCDK 5MILES 500 FET LOW CIAI
+refer: "WE HAVE TRAFFIC AT OUR 12 O'CLOCK
+WER: 0.923076923     CER: 0.375
+
+/minhang_std900_seen/test/wav/koujiahuien300.wav
+trans: "CLEARED TOTLE OTAPPROACH O RUNWAY 4
+refer:  DESCENT T300 FEET
+WER: 0.909090909     CER: 0.26984127
+
+yinnanen388.wav
+trans: "DESCELD  2O F  FL170
+refer:  CROS B KM VOR AR OR OABOVE F210"
+WER: 0.9     CER: 0.175
+
+chenzixiongen081.wav
+trans: "CLEAVID TOF-0 1N DEPARTUREI
+refer:  INIO OL 22UE 5000 FEET
+WER: 0.888888889     CER: 0.279661017
+
+qiujinzhuanen195.wav
+trans: RUNA COVEED REPASSE OFTER BRAKING ATION MEDIE
+refer: "RUNWAY COVERED WITH PATCHES OF WATER
+WER: 0.888888889     CER: 0.333333333
+
+/minhang_std900_seen/test/wav/wangliyuen131.wav
+trans: "CROSS RIGHT SLO-PORT AT 1 VE SENT
+refer:  STORT-BOUR UNSERVICTE BLE"
+WER: 0.888888889     CER: 0.481481481
+
+/minhang_std900_seen/test/wav/hanzhihaoen044.wav
+trans: "DMAM NEBO 02 EPARTURE
+refer:  PASSING 2 500 FEET
+WER: 0.888888889     CER: 0.224489796
+
+/minhang_std900_seen/test/wav/zhangyuen279.wav
+trans: E CAO ON  ROUND ANLEFT HEADING TFLF
+refer: "IN CASE OF GOING AROUND
+WER: 0.888888889     CER: 0.447368421
+
+/minhang_std900_seen/test/wav/zhaoyizeen294.wav
+trans: "ONFIRM VEARE STILL -BVE YH
+refer:  IMMM VITORINT ATTU"
+WER: 0.888888889     CER: 0.36
+
+/minhang_std900_seen/test/wav/liuzhilinen150.wav
+trans: "NOWG POSITION
+refer:  CAO AFE DAIN
+WER: 0.888888889     CER: 0.54
+
+zhangyuen289.wav
+trans: BRAYNO YU VEST OF  CLRT HOCATION
+refer: FLY NO FURTHER WEST OF YOUR CURRENT POSITION
+WER: 0.875     CER: 0.567567568
+
+weihaodongen148.wav
+trans: TKE OFFDIRTEY WR HOD FOT RUNWAY
+refer: TAKE OFF IMMEDIATELY OR HOLD SHORT OF RUNWAY
+WER: 0.875     CER: 0.378378378
+
+chenzixiongen025.wav
+trans: "HREAISE TLECBT TO F280
+refer:  PORT LEAVINGE 5L200"
+WER: 0.875     CER: 0.365853659
+
+/minhang_std900_seen/test/wav/yinnanen335.wav
+trans: "DESCEND TOI HEAD 2000 FEET
+refer:  CEA 997 ADE CO P"
+WER: 0.875     CER: 0.414634146
+
+/minhang_std900_seen/test/wav/heweilongen027.wav
+trans: "MAINTAIN I OWSERVEVRATION 
+refer:  MIMMC
+WER: 0.875     CER: 0.29787234
+
+/minhang_std900_seen/test/wav/huoguangen025.wav
+trans: "WHEN READNG
+refer:  CLIMBTO FL2380
+WER: 0.875     CER: 0.195121951
+
+/minhang_std900_seen/test/wav/heshuchangen255.wav
+trans: MAINTIN V0 VEA ATIN TROS  8 MLES FROM TOUCDOWN
+refer: MAINTAIN 180 KNOTS UNTIL 8 MILES FROM TOUCHDOWN
+WER: 0.875     CER: 0.35
+
+yemaochenen160.wav
+trans: REQUEST TAKEAFFT X DISTACE VIBE FROM INTERSECTOON ECOG
+refer: REQUEST TAKEOFF DISTANCE AVAILABLE FROM INTERSECTION E3
+WER: 0.857142857     CER: 0.265306122
+
+zhoukaihangen204.wav
+trans: CONFIRM TDOWNND INE UR GREA THERAN 30ANTITITER
+refer: CONFIRM TOUCHDOWN RVR GREATER THAN 350 METERS
+WER: 0.857142857     CER: 0.487179487
+
+yuanhaoen163.wav
+trans: AIMBUS 3A3ZE HEAAY VA000 FAIHET INFORMATION 
+refer: "AIRBUS 330 HEAVY
+WER: 0.857142857     CER: 0.333333333
+
+yuanhaoen160.wav
+trans: RES TAKE OFF DISTANTVAILABLE FROMTERSECTION E3
+refer: REQUEST TAKEOFF DISTANCE AVAILABLE FROM INTERSECTION E3
+WER: 0.857142857     CER: 0.183673469
+
+wuwenjieen147.wav
+trans: REQUST RRIGHT UR WHE AIRBORNE DAT
+refer: REQUEST RIGHT TURN WHEN AIRBORNE DUE WEATHER
+WER: 0.857142857     CER: 0.315789474
+
+chenxien276.wav
+trans: MAINTAIN 2O BES3R0 F6ET UNTIL GELE PANS ITECETO
+refer: MAINTAIN 3000 FEET UNTIL GLIDE PATH INTERCEPTION
+WER: 0.857142857     CER: 0.428571429
+
+wuhaoen318.wav
+trans: "ORBEHAD  VI TIN 3000 FEET
+refer: TE N TERAH0L0D"
+WER: 0.857142857     CER: 0.441860465
+
+liuzhilinen159.wav
+trans: "REQUEST OSIN LEAVI
+refer:  STOP DISTAS AVIILABLE FROM ITESATION D1"
+WER: 0.857142857     CER: 0.280701754
+
+weiqingyaoen190.wav
+trans: CONFIRM STRUCTION WAK E TANANT 2837
+refer: CONFIRM CONSTRUCTION WORK ADJACENT TO GATE 37
+WER: 0.857142857     CER: 0.41025641
+
+liuxinpengen219.wav
+trans: "ABLE BK WA
+refer:  DEPARTURE DUE PERFORM MANTE
+WER: 0.857142857     CER: 0.170212766
+
+koujiahuien214.wav
+trans: REQUEST FORT  RIMOVL   GAE
+refer: REQUEST FROST REMOVAL ONLY AT THE GATE
+WER: 0.857142857     CER: 0.4375
+
+wuhaoen364.wav
+trans: "UNAABLE R NAVT DUE PEMENTE
+refer:  REQUEST PONVASIAOL APPROACH"
+WER: 0.857142857     CER: 0.428571429
+
+/minhang_std900_seen/test/wav/wangliyuen141.wav
+trans: "RUNWAY 06
+refer: CLEARED FOR TE OWAY PONT AIRBOR"
+WER: 0.857142857     CER: 0.243902439
+
+/minhang_std900_seen/test/wav/linghaiyangen274.wav
+trans: UNABLE OESCIVE TRANSMISSIONN LAT FREQUENC
+refer: UNABLE TO RECEIVE TRANSMISSION ON THAT FREQUENCY
+WER: 0.857142857     CER: 0.19047619
+
+/minhang_std900_seen/test/wav/zhouxingyuen219.wav
+trans: REQUEST PATEISTRUCTION
+refer: "UNABLE BK-1A DEPARTURE DUE PERFORMANCE
+WER: 0.857142857     CER: 0.829787234
+
+/minhang_std900_seen/test/wav/lilinshenen097.wav
+trans: EXPECT STOR A 35 QH1030
+refer: "EXPECT START UP AT 35
+WER: 0.857142857     CER: 0.28
+
+/minhang_std900_seen/test/wav/weihaodongen188.wav
+trans: "TRAXI TO STACT 27
+refer:  WIA TAXIN WEINGPA"
+WER: 0.857142857     CER: 0.458333333
+
+/minhang_std900_seen/test/wav/hanzhihaoen009.wav
+trans: CY DILECT TO S H AL BOW FL180
+refer: "FLY DIRECT TO SHA
+WER: 0.857142857     CER: 0.321428571
+
+/minhang_std900_seen/test/wav/zhangyuen209.wav
+trans: CONFIRM THESIOLN 4ORA FITESUFANCIN
+refer: CONFIRM THE REASON FOR OUR FLIGHT SUSPENSION
+WER: 0.857142857     CER: 0.473684211
+
+/minhang_std900_seen/test/wav/qiujinzhuanen190.wav
+trans: CONFIRM ONAPRO WORE D 2G8AE37
+refer: CONFIRM CONSTRUCTION WORK ADJACENT TO GATE 37
+WER: 0.857142857     CER: 0.512820513
+
+/minhang_std900_seen/test/wav/likunen251.wav
+trans: TO RADAR VECTR APIRS TO BEI TEKIN UN TO GREIN HI BITE AEL CFROM
+refer: "YOUR RADAR VECTOR APPEARS TO BE TAKING US TO THE PROHIBITED AREA
+WER: 0.846153846     CER: 0.393442623
+
+/minhang_std900_seen/test/wav/koujiahuien251.wav
+trans: RHE WDARR VEER CLEARES TO BE PACTIN AT POR IINTE AIRCE CONFILMUM
+refer: "YOUR RADAR VECTOR APPEARS TO BE TAKING US TO THE PROHIBITED AREA
+WER: 0.846153846     CER: 0.590163934
+
+lihanlongen033.wav
+trans: EDUCE SEA TO M.S6
+refer: REDUCE SPEED TO MACH DECIMAL 76
+WER: 0.833333333     CER: 0.576923077
+
+chenxiaodaen296.wav
+trans: DIREACTO JOU DESCEND TO F 50
+refer: "DIRECT TO JO
+WER: 0.833333333     CER: 0.166666667
+
+zhangyuen258.wav
+trans: TRASFS QWK AT 35MT
+refer: CROSS CK AT 35 OR LATER
+WER: 0.833333333     CER: 0.611111111
+
+liujingen200.wav
+trans: CONFIRM UNWAIY STINIT MAR THE 100 METERS
+refer: CONFIRM VISIBILITY MORE THAN 1000 METERS
+WER: 0.833333333     CER: 0.4
+
+xujiahongen144.wav
+trans: THENABUS ONFINMLMIN SIGHT
+refer: THE AIRBUS ON FINAL IN SIGHT
+WER: 0.833333333     CER: 0.217391304
+
+limingnanen010.wav
+trans: AFTER PASSIE CHG O DESTANT TO FLLL80
+refer: AFTER PASSING CGO DESCEND TO FL80
+WER: 0.833333333     CER: 0.285714286
+
+qiujinzhuanen142.wav
+trans: "CELEARED FOL TAKEOFF RUNWAY 70
+refer:  WILCOF"
+WER: 0.833333333     CER: 0.1875
+
+zhoukaihangen267.wav
+trans: REUEST SPEED 2 50 KNOTS DUE TRE CUNNCE
+refer: REQUEST SPEED 250 KNOTS DUE TURBULENCE
+WER: 0.833333333     CER: 0.181818182
+
+qiujinzhuanen200.wav
+trans: FO MISUAAL MATHE 1000F METERS
+refer: CONFIRM VISIBILITY MORE THAN 1000 METERS
+WER: 0.833333333     CER: 0.514285714
+
+zhangyizeen216.wav
+trans: REQUEST STATDIING NTIA CATE
+refer: REQUEST START ENGINE AT THE GATE
+WER: 0.833333333     CER: 0.37037037
+
+zengyunianen223.wav
+trans: REQUE REMOTE AP 4 MITENNCES POPSE
+refer: REQUEST REMOTE APRON FOR MAINTENANCE PURPOSE
+WER: 0.833333333     CER: 0.384615385
+
+hanzhihaoen024.wav
+trans: DESCENDIN IMEDIMTEL 2 FL200 DUC
+refer: DESCENDING IMMEDIATELY TO FL200 DUE TRAFFIC
+WER: 0.833333333     CER: 0.342105263
+
+caolangen049.wav
+trans: REQUESTTAX TO BOH INTENNCE PRAMT
+refer: REQUEST TAXI TO SOUTH MAINTENANCE RAMP
+WER: 0.833333333     CER: 0.272727273
+
+/minhang_std900_seen/test/wav/wumingweien378.wav
+trans: "DISREGAT
+refer:  WEMS0 ARON TRANSMISSION"
+WER: 0.833333333     CER: 0.277777778
+
+/minhang_std900_seen/test/wav/guanweihanen033.wav
+trans: REDUCE CEEED 2O MCH .76
+refer: REDUCE SPEED TO MACH DECIMAL 76
+WER: 0.833333333     CER: 0.423076923
+
+/minhang_std900_seen/test/wav/caolangen033.wav
+trans: REDUCE SPEED TO MIGH PAE IMOT 7 6AT
+refer: REDUCE SPEED TO MACH DECIMAL 76
+WER: 0.833333333     CER: 0.346153846
+
+/minhang_std900_seen/test/wav/yemaochenen181.wav
+trans: RUNWA LAT IN SIGTGHT GORWIINTED
+refer: "RUNWAY NOT IN SIGHT
+WER: 0.833333333     CER: 0.5
+
+/minhang_std900_seen/test/wav/koujiahuien258.wav
+trans: CROSS DLKI AT5 W LE
+refer: CROSS CK AT 35 OR LATER
+WER: 0.833333333     CER: 0.5
+
+/minhang_std900_seen/test/wav/yinnanen329.wav
+trans: "POSITION REA DA BP RUNWAY 27
+refer: HEADING 260
+WER: 0.833333333     CER: 0.260869565
+
+/minhang_std900_seen/test/wav/liujingen182.wav
+trans: "NO CONTACE APT MINIUM
+refer:  GOINGAROUND"
+WER: 0.833333333     CER: 0.1
+
+/minhang_std900_seen/test/wav/wuhaoen330.wav
+trans: CLEARED TOJO BK1AN AARIAAL
+refer: CLEARED TO JEMMY VIA BK-1A ARRIVAL
+WER: 0.833333333     CER: 0.379310345
+
+/minhang_std900_seen/test/wav/zhoukaihangen216.wav
+trans: REQUEST AT ANGINE ATT TATE
+refer: REQUEST START ENGINE AT THE GATE
+WER: 0.833333333     CER: 0.259259259
+
+/minhang_std900_seen/test/wav/xuziaoen144.wav
+trans: AINDBUS 5FINA IN SIG
+refer: THE AIRBUS ON FINAL IN SIGHT
+WER: 0.833333333     CER: 0.434782609
+
+/minhang_std900_seen/test/wav/liuzhilinen112.wav
+trans: "CANCELPSHBACK
+refer:  WE HA MAINTNSE POBLENMT"
+WER: 0.833333333     CER: 0.256410256
+
+/minhang_std900_seen/test/wav/wanghanyien194.wav
+trans: AFFIRMD O BIRDS 3MILES FIAL
+refer: FLOCK OF BIRDS 3 MILES FINAL
+WER: 0.833333333     CER: 0.347826087
+
+zhaoyizeen252.wav
+trans: 50 MILES RI O TRAFFIC APPROVED AL PROSCIED DIRET T0B
+refer: "50 MILES RIGHT OF TRACK APPROVED
+WER: 0.818181818     CER: 0.384615385
+
+wuwenjieen146.wav
+trans: "AFTE EPARTURE
+refer:  1N LEFTADIG 190 RUNWAY 24 R
+WER: 0.818181818     CER: 0.163934426
+
+xiaokailunen399.wav
+trans: "ONF SET CANCELED TRN RIGHT TO RESJOAIT A1
+refer:  BEFOR BKM VO"
+WER: 0.818181818     CER: 0.224489796
+
+/minhang_std900_seen/test/wav/likunen252.wav
+trans: "5S MILES RIGHT O TRANCK PPOVE
+refer:  WAAB PRUOCEED DICT TEB"
+WER: 0.818181818     CER: 0.307692308
+
+/minhang_std900_seen/test/wav/chenxiaodaen300.wav
+trans: "CLEARE PIHT IN ILS APPROACHN RUNWAY 24 DESCENTD TO 3700 FEES
+refer:  QN1011"
+WER: 0.818181818     CER: 0.206349206
+
+chenxien250.wav
+trans: CONFIRM  R13ACTIVD
+refer: CONFIRM DANGER AREA 113 ACTIVE
+WER: 0.8     CER: 0.423076923
+
+yuanhaoen175.wav
+trans: "SHORT FIND
+refer:  REQUESTWA ICHECK"
+WER: 0.8     CER: 0.185185185
+
+liulongfeien178.wav
+trans: LINING CLEARAN  CANCELD TIU APPROACH
+refer: "LANDING CLEARANCE CANCELED
+WER: 0.8     CER: 0.268292683
+
+liangzhixinen239.wav
+trans: SQUAWK CHARE D GOD5120
+refer: SQUAWK CHARLIE AND CODE 5120
+WER: 0.8     CER: 0.25
+
+linghaiyangen270.wav
+trans: TEPORTIG CODUNR AT BOURDARY
+refer: REPORT REQUIRED ONLY AT BOUNDARY
+WER: 0.8     CER: 0.428571429
+
+lijiaqien076.wav
+trans: "INFORM MATION PO RECEVED STAD 03
+refer:  READIY TO CODY ATCY CLEARANCE"
+WER: 0.8     CER: 0.153846154
+
+qiujinzhuanen175.wav
+trans: "SHOLT FNL
+refer:  REQUEST WINN3"
+WER: 0.8     CER: 0.333333333
+
+linjialiangen090.wav
+trans: SAY AGA INITIALL ALTITUE
+refer: SAY AGAIN THE INITIAL ALTITUDE
+WER: 0.8     CER: 0.269230769
+
+pengyideen191.wav
+trans: CONFIRM SUTARLITO TAXI VA LIGHTING UNSERVICABLE
+refer: CONFIRM CENTERLINE TAXIWAY LIGHTING UNSERVICEABLE
+WER: 0.8     CER: 0.2
+
+zhangyuen205.wav
+trans: CONFRM SORP EN ARVAR 150 METERS
+refer: CONFIRM STOP-END RVR 150 METERS
+WER: 0.8     CER: 0.222222222
+
+weihaodongen164.wav
+trans: "TO RIGHT HAND OWNWIND
+refer:  RUNWAY 34"
+WER: 0.8     CER: 0.161290323
+
+liuzhilinen187.wav
+trans: "AFTER E CAED
+refer: OTACT GOUND W21.6"
+WER: 0.8     CER: 0.233333333
+
+wangliyuen164.wav
+trans: "JO RIGHT HANS DOWNWAIND
+refer:  RUNWAY 34"
+WER: 0.8     CER: 0.161290323
+
+yemaochenen174.wav
+trans: RUNWAY 2I7GHT CLARE O RAND
+refer: "RUNWAY 27
+WER: 0.8     CER: 0.363636364
+
+zhangyizeen293.wav
+trans: "BAE TO LOW TO RON AINTERIN
+refer:  CONFIORM WE TE TO EIN READAR VECTOD"
+WER: 0.8     CER: 0.385714286
+
+chenshunlongen039.wav
+trans: REDUE TO MMMAPPROACH PEED
+refer: REDUCE TO MINIMUM APPROACH SPEED
+WER: 0.8     CER: 0.214285714
+
+heshuchangen263.wav
+trans: IN REA SPEED BY 1ANEP
+refer: INCREASE SPEED BY 10 KNOTS
+WER: 0.8     CER: 0.363636364
+
+koujiahuien298.wav
+trans: "SEDING TO 4 00N FEET H 10FOR
+refer:  EXET ST APPROACH RUNWAY"
+WER: 0.8     CER: 0.320754717
+
+linghaiyangen250.wav
+trans: CONFIRM DARVE 112 ATIVE
+refer: CONFIRM DANGER AREA 113 ACTIVE
+WER: 0.8     CER: 0.307692308
+
+chenzixiongen072.wav
+trans: ED JK VOR HEADIING T10
+refer: LEAVE JFK VOR HEADING 210
+WER: 0.8     CER: 0.333333333
+
+/minhang_std900_seen/test/wav/likunen210.wav
+trans: CENFIRM OR FIG HAS PEE SUSPENDND DUE BR HROST TS AT DESTINATION
+refer: CONFIRM OUR FLIGHT HAS BEEN SUSPENDED DUE BIO-HAZARDS AT DESTINATION
+WER: 0.8     CER: 0.271186441
+
+/minhang_std900_seen/test/wav/zhangyuen268.wav
+trans: OMIT PONSITION MEPONT UNTIL LOTS 9
+refer: OMIT POSITION REPORTS UNTIL LN
+WER: 0.8     CER: 0.307692308
+
+/minhang_std900_seen/test/wav/qiujinzhuanen113.wav
+trans: "GROUND
+refer:  COCPINT
+WER: 0.8     CER: 0.258064516
+
+/minhang_std900_seen/test/wav/xujiadongen307.wav
+trans: TO 1DCONTACTOR 118.7
+refer: "NUMBER ONE
+WER: 0.8     CER: 0.444444444
+
+/minhang_std900_seen/test/wav/dongyuchenen090.wav
+trans: SAY GI E ITIAOLLIN TODE
+refer: SAY AGAIN THE INITIAL ALTITUDE
+WER: 0.8     CER: 0.461538462
+
+/minhang_std900_seen/test/wav/zhoukaihangen288.wav
+trans: STOP SQUAWD TRANSMITER ADS BLY
+refer: STOP SQUAWK TRANSMIT ADS-B ONLY
+WER: 0.8     CER: 0.222222222
+
+/minhang_std900_seen/test/wav/wumingweien354.wav
+trans: REQUES CHANCIN TELOD CONTROL
+refer: REQUEST CHANGE TO LONDON CONTROL
+WER: 0.8     CER: 0.285714286
+
+/minhang_std900_seen/test/wav/liulongfeien185.wav
+trans: "FOLLOOW THE STAN MITION APPROACH PROCEDER
+refer:  CLEANY LIMBT TO 300C"
+WER: 0.8     CER: 0.406779661
+
+/minhang_std900_seen/test/wav/liuxinpengen288.wav
+trans: STOP CQUAWK TRANSMIET ADAS- BEHONLD
+refer: STOP SQUAWK TRANSMIT ADS-B ONLY
+WER: 0.8     CER: 0.222222222
+
+/minhang_std900_seen/test/wav/zhangyizeen263.wav
+trans: INCREASET SPEED B O
+refer: INCREASE SPEED BY 10 KNOTS
+WER: 0.8     CER: 0.363636364
+
+/minhang_std900_seen/test/wav/weihaodongen187.wav
+trans: "AFTER RAECATED
+refer: 
+WER: 0.8     CER: 0.266666667
+
+/minhang_std900_seen/test/wav/liuzhilinen178.wav
+trans: "NEGICEARANCE CACELD
+refer:  CONTN APPROACH"
+WER: 0.8     CER: 0.292682927
+
+/minhang_std900_seen/test/wav/panlongen172.wav
+trans: LON FINGLT AIR AFIC IN SIGHT
+refer: "LONG FINAL
+WER: 0.8     CER: 0.28
+
+/minhang_std900_seen/test/wav/pengyideen172.wav
+trans: LG FINAA AIR FIELD IN SIGHT
+refer: "LONG FINAL
+WER: 0.8     CER: 0.16
+
+/minhang_std900_seen/test/wav/zhangyizeen250.wav
+trans: CONFIRM DATERA 1N13 CTIE
+refer: CONFIRM DANGER AREA 113 ACTIVE
+WER: 0.8     CER: 0.307692308
+
+/minhang_std900_seen/test/wav/guanweihanen079.wav
+trans: "CLEARED TO DESTINATION VY 0A M FL HATD 0DE
+refer:  DT 3 DEPARTURE
+WER: 0.785714286     CER: 0.255813953
+
+huoguangen044.wav
+trans: "LM10 02 DEPARTURE
+refer:  PASSING TO70N 500 FEET CLIMBEING TO 9000FT"
+WER: 0.777777778     CER: 0.204081633
+
+wanghanyien129.wav
+trans: GOIVIING WAY TO BOIN7LE FO I7 PASSINFOM LEFT O RI
+refer: GIVING WAY TO B747 PASSING FROM LEFT TO RIGHT
+WER: 0.777777778     CER: 0.432432432
+
+linjialiangen077.wav
+trans: "EE TO6
+refer:  REQUEST CLEARANCE O LAND EIE NFORATIN 44"
+WER: 0.777777778     CER: 0.340425532
+
+/minhang_std900_seen/test/wav/weiqingyaoen129.wav
+trans: GIVN WEAY TO BOINT 747 PASSING FROM LE TOR
+refer: GIVING WAY TO B747 PASSING FROM LEFT TO RIGHT
+WER: 0.777777778     CER: 0.351351351
+
+/minhang_std900_seen/test/wav/liqingjunen044.wav
+trans: "LMNAML02 DEPARTURE
+refer:  PASING 2O55H0D FEET
+WER: 0.777777778     CER: 0.183673469
+
+/minhang_std900_seen/test/wav/pengyideen193.wav
+trans: "TRUNWAY LIGHT TO BREIGEN
+refer:  REQUEST DIMITE"
+WER: 0.777777778     CER: 0.236842105
+
+/minhang_std900_seen/test/wav/weihaodongen121.wav
+trans: MAGATIV READY RO 0 MIUTS TO BO THE BA
+refer: "NEGATIVE
+WER: 0.777777778     CER: 0.487179487
+
+/minhang_std900_seen/test/wav/limingnanen044.wav
+trans: "LM N02 DEPARTURE
+refer:  PASSING 20005000 MITE FEET
+WER: 0.777777778     CER: 0.265306122
+
+/minhang_std900_seen/test/wav/wumingweien342.wav
+trans: "CIMB TO FL210LEL
+refer:  RESRICTIONS O KEAS DAPAB10 DEPARTUR CANCELED"
+WER: 0.777777778     CER: 0.245614035
+
+zengyunianen251.wav
+trans: "YOU RUDAR VECTOR APEARS TO TOPING A TUOUE E PRO HOPITED ARAC
+refer:  CONFIRM"
+WER: 0.769230769     CER: 0.262295082
+
+/minhang_std900_seen/test/wav/huoguangen067.wav
+trans: SLEARED TO IXSET  HOLD FL R M NT APPROACH ON 128.3
+refer: "CLEARED TO EXIT THE HOLD
+WER: 0.769230769     CER: 0.396551724
+
+yuweiweien367.wav
+trans: "HIRMBE ANE PALEART
+refer:  GOING AROUND"
+WER: 0.75     CER: 0.428571429
+
+qiujinzhuanen186.wav
+trans: "TA  FURSE RIGHT
+refer:  WHEN VACATES
+WER: 0.75     CER: 0.173913043
+
+linghaiyangen233.wav
+trans: "RIGTIVE
+refer:  CONNECT DUE AIC"
+WER: 0.75     CER: 0.380952381
+
+zhaoyizeen292.wav
+trans: INDIG 120 CORATION 140
+refer: "HEADING 120
+WER: 0.75     CER: 0.36
+
+yuanhaoen111.wav
+trans: PUSHBACK  APOVED FACI WASE
+refer: "PUSHBACK APPROVED
+WER: 0.75     CER: 0.259259259
+
+lichenzhaoen086.wav
+trans: "GATE 1O 5
+refer:  INFORMTION C
+WER: 0.75     CER: 0.209302326
+
+liangzhixinen275.wav
+trans: REQUEST 15MLE FIAL
+refer: REQUEST 15 MILES FINAL
+WER: 0.75     CER: 0.157894737
+
+luowenen183.wav
+trans: "WN3
+refer:  WINSHIAL
+WER: 0.75     CER: 0.380952381
+
+liqingjunen017.wav
+trans: "WHEN READ DESCENT TU FL210
+refer:  LEVLET5L TN"
+WER: 0.75     CER: 0.228571429
+
+xujiadongen379.wav
+trans: "RODHER
+refer:  REQUEST CONDINUE APPROAC"
+WER: 0.75     CER: 0.137931034
+
+zhoukaihangen269.wav
+trans: NEXAT PORT AT LP
+refer: NEXT REPORT AT IP
+WER: 0.75     CER: 0.285714286
+
+xujiadongen400.wav
+trans: "CLEAROE FEATHER
+refer:  REQUEST TO A0ING FT"
+WER: 0.75     CER: 0.414634146
+
+liulongfeien109.wav
+trans: PUSHBACK APPROVED NONGEHBACK
+refer: "PUSHBACK APPROVED
+WER: 0.75     CER: 0.172413793
+
+yuanhaoen169.wav
+trans: "ORBIRIGHT
+refer:  NUMBER 2O"
+WER: 0.75     CER: 0.15
+
+wuhaoen338.wav
+trans: "INCRESING RAOFF
+refer:  CLIMB"
+WER: 0.75     CER: 0.238095238
+
+zhangyuen248.wav
+trans: SOPTER HADING 070
+refer: STOP TURN HEADING 070
+WER: 0.75     CER: 0.222222222
+
+lilinshenen063.wav
+trans: EXPECTED PPROACH TIME6
+refer: EXPECTED APPROACH TIME 44
+WER: 0.75     CER: 0.136363636
+
+yemaochenen153.wav
+trans: REQUEST  CANTO LATD
+refer: REQUEST RETURN TO RAMP
+WER: 0.75     CER: 0.421052632
+
+yuanhaoen171.wav
+trans: NEGT ASHOT APPROACH
+refer: MAKE A SHORT APPROACH
+WER: 0.75     CER: 0.277777778
+
+zhaoyizeen215.wav
+trans: "BEICING COMVCATED
+refer:  REQUEST TAXITAXI"
+WER: 0.75     CER: 0.310344828
+
+yuweiweien351.wav
+trans: EXPECT DESCENT OFT AI K
+refer: EXPECT DESCENT AFTER AK
+WER: 0.75     CER: 0.2
+
+guozhengtingen269.wav
+trans: NEXVT EPORT AT ENP
+refer: NEXT REPORT AT IP
+WER: 0.75     CER: 0.285714286
+
+wuwenjieen132.wav
+trans: "AFTERN LANDING AIRBUS 30
+refer:  CROSING RUNWAY 24
+WER: 0.75     CER: 0.163265306
+
+qiujinzhuanen184.wav
+trans: "GO AROUND
+refer:  LOCATZER FACATION"
+WER: 0.75     CER: 0.28125
+
+pengyideen145.wav
+trans: "IND AIRBUS O SHORT FINL
+refer:  THIV  TRIND"
+WER: 0.75     CER: 0.378378378
+
+chenxiaodaen201.wav
+trans: IS MIT POINTRV U1ABLE
+refer: IS MID-POINT RVR AVAILABLE
+WER: 0.75     CER: 0.347826087
+
+xuziaoen111.wav
+trans: PUSHBACK APPROVE FACIWIT
+refer: "PUSHBACK APPROVED
+WER: 0.75     CER: 0.222222222
+
+yuanhaoen109.wav
+trans: PUSHBACK APPROVE V LAN PUSHBACK
+refer: "PUSHBACK APPROVED
+WER: 0.75     CER: 0.137931034
+
+/minhang_std900_seen/test/wav/lijiaqien100.wav
+trans: IREAD YO 5
+refer: I READ YOU 5
+WER: 0.75     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/chenzixiongen006.wav
+trans: PASSING SIGHT L1804 L310
+refer: PASSING FL180 FOR FL310
+WER: 0.75     CER: 0.45
+
+/minhang_std900_seen/test/wav/guanweihanen021.wav
+trans: EXPECT CLIMB TO FL1H P90
+refer: EXPEDITE CLIMB TO FL190
+WER: 0.75     CER: 0.25
+
+/minhang_std900_seen/test/wav/liujingen153.wav
+trans: REQUEST TO REATIN TO RANP
+refer: REQUEST RETURN TO RAMP
+WER: 0.75     CER: 0.315789474
+
+/minhang_std900_seen/test/wav/lijiaqien054.wav
+trans: TXE REPORT AT RX AR
+refer: NEXT REPORT AT WXA
+WER: 0.75     CER: 0.333333333
+
+/minhang_std900_seen/test/wav/panlongen111.wav
+trans: PUSHBACK APPROACH SAING WEAT
+refer: "PUSHBACK APPROVED
+WER: 0.75     CER: 0.259259259
+
+/minhang_std900_seen/test/wav/wuhaoen360.wav
+trans: "UNABLE
+refer:  CEIRCLONG APPROACH DUE CONPAE POLICI
+WER: 0.75     CER: 0.2
+
+/minhang_std900_seen/test/wav/liqingjunen014.wav
+trans: RETUO FL290 2 BE LEVELBY 55
+refer: "CLIMBING TO FL290
+WER: 0.75     CER: 0.413793103
+
+/minhang_std900_seen/test/wav/linghaiyangen248.wav
+trans: STOPTENG HIADIN 070
+refer: STOP TURN HEADING 070
+WER: 0.75     CER: 0.277777778
+
+/minhang_std900_seen/test/wav/luowenen162.wav
+trans: NEGBTRACK AND LHINE UP RUNWAY 18
+refer: "TAXI VIA A2
+WER: 0.75     CER: 0.405405405
+
+/minhang_std900_seen/test/wav/wuhaoen396.wav
+trans: REQUESTP OFFSET LU CURRINT AUIRWAY FORU EPIMNUTE DU ICING CONDITION
+refer: REQUEST PARALLEL OFFSET FROM CURRENT AIRWAY FOR 30 MINUTES DUE ICING CONDITION
+WER: 0.75     CER: 0.28358209
+
+/minhang_std900_seen/test/wav/lijiayuen102.wav
+trans: CAN O SPEKOER
+refer: CAN YOU SPEAK SLOWER
+WER: 0.75     CER: 0.352941176
+
+/minhang_std900_seen/test/wav/hanzhihaoen063.wav
+trans: EXPECTD APPROACH TA4
+refer: EXPECTED APPROACH TIME 44
+WER: 0.75     CER: 0.227272727
+
+/minhang_std900_seen/test/wav/yemaochenen173.wav
+trans: "INTINUE APPACH
+refer:  ROUNWWAY 25"
+WER: 0.75     CER: 0.291666667
+
+/minhang_std900_seen/test/wav/panlongen109.wav
+trans: PUSHBACK APPROACH HO LOWG PUSHBACK
+refer: "PUSHBACK APPROVED
+WER: 0.75     CER: 0.206896552
+
+/minhang_std900_seen/test/wav/xujiadongen303.wav
+trans: DEITIBIHE ON TOLOCALIN
+refer: ESTABLISHED ON THE LOCALIZER
+WER: 0.75     CER: 0.44
+
+/minhang_std900_seen/test/wav/panlongen140.wav
+trans: CLEAE FOLIMMEDITY TAKEOFF
+refer: CLEARED FOR IMMEDIATE TAKEOFF
+WER: 0.75     CER: 0.192307692
+
+/minhang_std900_seen/test/wav/chenzixiongen019.wav
+trans: "CEND ACT  3000 FEET
+refer:  FORMATION BIY PURRENT"
+WER: 0.75     CER: 0.282051282
+
+/minhang_std900_seen/test/wav/weihaodongen192.wav
+trans: CONFIRM PAPLIT ONSERIECEABLE
+refer: CONFIRM PAPI LIGHT UNSERVICEABLE
+WER: 0.75     CER: 0.206896552
+
+/minhang_std900_seen/test/wav/luowenen171.wav
+trans: NA ECHOONDED APPROACH
+refer: MAKE A SHORT APPROACH
+WER: 0.75     CER: 0.5
+
+/minhang_std900_seen/test/wav/hanzhihaoen011.wav
+trans: NOX DSENT AUT FL210
+refer: STOP DESCENT AT FL210
+WER: 0.75     CER: 0.333333333
+
+/minhang_std900_seen/test/wav/zhaoyizeen253.wav
+trans: INICATED SPEED T70KNO
+refer: INDICATED SPEED 270 KNOTS
+WER: 0.75     CER: 0.181818182
+
+/minhang_std900_seen/test/wav/lilinshenen054.wav
+trans: NX REPO AT XA
+refer: NEXT REPORT AT WXA
+WER: 0.75     CER: 0.333333333
+
+/minhang_std900_seen/test/wav/lihanlongen052.wav
+trans: "E
+refer:  CONTACT CONTROLR 118.9"
+WER: 0.75     CER: 0.19047619
+
+/minhang_std900_seen/test/wav/koujiahuien269.wav
+trans: NEXTIV PONT A IP
+refer: NEXT REPORT AT IP
+WER: 0.75     CER: 0.285714286
+
+chenxien293.wav
+trans: "WE AE TO LOW TO 0 LING TER CONFIRM VI AOA STILBING RAR VECERS
+refer:  VACTR"
+WER: 0.733333333     CER: 0.5
+
+xujiadongen369.wav
+trans: CROCEED TO AK HOLD AND PUBLISEPECT APPROACH CLA RONCT AT T230
+refer: "PROCEED TO AK
+WER: 0.727272727     CER: 0.254545455
+
+chenshunlongen084.wav
+trans: "84
+refer:  RECLEARANE TO DESTINATION VIA BL213 WA
+WER: 0.727272727     CER: 0.271186441
+
+huoguangen029.wav
+trans: "CANCEL S ID
+refer:  TRACDI RECT TO MMK
+WER: 0.727272727     CER: 0.16
+
+wuhaoen397.wav
+trans: "PROSEED OFFSET T0 MILE RIT 
+refer:  TRACK UNTIL I BKMVO"
+WER: 0.727272727     CER: 0.270833333
+
+/minhang_std900_seen/test/wav/zhoukaihangen252.wav
+trans: "EXTIN MIES RIGHT O TRACK APOROVED
+refer:  WHEN EL
+WER: 0.727272727     CER: 0.365384615
+
+/minhang_std900_seen/test/wav/liujingen161.wav
+trans: LUNP AND WITH UNDER STAND 1E AIRCBRAFT FU DEPART FROM A2
+refer: "LINE UP AND WAIT
+WER: 0.727272727     CER: 0.204081633
+
+/minhang_std900_seen/test/wav/hanzhihaoen029.wav
+trans: "CANCEL SI D TRAC DIRECT TO PLK
+refer:  CTLAIRNE UND INT FL110"
+WER: 0.727272727     CER: 0.3
+
+zhangyizeen291.wav
+trans: "RIGH HEADN 120
+refer:  MT0RRIIND CLEARANCE"
+WER: 0.714285714     CER: 0.27027027
+
+suntianqien212.wav
+trans: STOW APPROVED VIA A2 REMOTES IPN
+refer: TOW APPROVED VIA A TO REMOTE APRON
+WER: 0.714285714     CER: 0.25
+
+liuzhilinen199.wav
+trans: CONFIRM CUROENT RVOUR LESTE 4O H0L METERS
+refer: CONFIRM CURRENT RVR LESS THAN 400 METERS
+WER: 0.714285714     CER: 0.264705882
+
+zhangyuen262.wav
+trans: T PREASE ED TO 700 KNOTS OR RET
+refer: INCREASE SPEED TO 300 KNOTS OR GREATER
+WER: 0.714285714     CER: 0.34375
+
+chenxien204.wav
+trans: CONFIRM TOUCHDOWN AVI R GREATER THAN 300 5TY MEARRS
+refer: CONFIRM TOUCHDOWN RVR GREATER THAN 350 METERS
+WER: 0.714285714     CER: 0.205128205
+
+wangliyuen190.wav
+trans: CONFIRM CONSTRUCTION WOR  TAI T2 G8ATE37
+refer: CONFIRM CONSTRUCTION WORK ADJACENT TO GATE 37
+WER: 0.714285714     CER: 0.256410256
+
+heshuchangen214.wav
+trans: REQUEST FORT RUNWAWY ENLMI A GATE
+refer: REQUEST FROST REMOVAL ONLY AT THE GATE
+WER: 0.714285714     CER: 0.46875
+
+zhangyuen204.wav
+trans: CONFIRM POSHDO RV GDETER TLHEN 250 METERS
+refer: CONFIRM TOUCHDOWN RVR GREATER THAN 350 METERS
+WER: 0.714285714     CER: 0.282051282
+
+likunen276.wav
+trans: MAINTAIN 3000 FET UNTO GLEAD ATINTERSECTION
+refer: MAINTAIN 3000 FEET UNTIL GLIDE PATH INTERCEPTION
+WER: 0.714285714     CER: 0.238095238
+
+pengyideen143.wav
+trans: "AIRBONT
+refer:  PASSING 500IFEET 44000 FEET"
+WER: 0.714285714     CER: 0.176470588
+
+wuhaoen334.wav
+trans: "DESCEND TOI OLT 12000 FEET
+refer:  QNH1000"
+WER: 0.714285714     CER: 0.242424242
+
+/minhang_std900_seen/test/wav/chenxiaodaen290.wav
+trans: "UNABLR AIDENTIFY0 WAYPOINT
+refer:  REQUEST  MADAR VCTO"
+WER: 0.714285714     CER: 0.2
+
+/minhang_std900_seen/test/wav/xujiadongen340.wav
+trans: CLIMBD TO 6000 FEET FOLOW CKOA 01 DEPARTURE
+refer: "CLIMB TO 6000 FEET
+WER: 0.714285714     CER: 0.179487179
+
+/minhang_std900_seen/test/wav/xujiadongen348.wav
+trans: "WOE AAE SAR ABONE PRO
+refer:  REQUEST HOLDING"
+WER: 0.714285714     CER: 0.228571429
+
+/minhang_std900_seen/test/wav/likunen219.wav
+trans: "UNABLE BK1O DEPARSUR DA FRORMANCE
+refer:  REQUEST BK1B"
+WER: 0.714285714     CER: 0.212765957
+
+/minhang_std900_seen/test/wav/chenxien227.wav
+trans: "IDTFEET
+refer:  POSSITION TAXT MILES EST O BK"
+WER: 0.714285714     CER: 0.352941176
+
+/minhang_std900_seen/test/wav/chenxien211.wav
+trans: CONFIRMHE REASON FORIPDING OUR IRCAFT
+refer: CONFIRM THE REASON FOR IMPOUNDING OUR AIRCRAFT
+WER: 0.714285714     CER: 0.175
+
+/minhang_std900_seen/test/wav/guozhengtingen209.wav
+trans: AFFIRM THEREASON FOR  FLIGHT SEPAATION
+refer: CONFIRM THE REASON FOR OUR FLIGHT SUSPENSION
+WER: 0.714285714     CER: 0.289473684
+
+/minhang_std900_seen/test/wav/yinnanen318.wav
+trans: "OEHAED Y VETOR
+refer:  MAINTAIN 3000 FEET
+WER: 0.714285714     CER: 0.325581395
+
+/minhang_std900_seen/test/wav/chenmingliangen211.wav
+trans: CONFIRM THE REASON OIN BOUNDING AUR AIRCRAFT 2 12
+refer: CONFIRM THE REASON FOR IMPOUNDING OUR AIRCRAFT
+WER: 0.714285714     CER: 0.2
+
+/minhang_std900_seen/test/wav/liuzhilinen104.wav
+trans: 0F QNH 997 COSIY AGAIN QNH 997
+refer: "QNH 997
+WER: 0.714285714     CER: 0.260869565
+
+/minhang_std900_seen/test/wav/xujiadongen322.wav
+trans: TURN RIGT HEADING 18 0 FOR BACILA
+refer: TURN RIGHT HEADING 180 FOR BASE LEG
+WER: 0.714285714     CER: 0.172413793
+
+/minhang_std900_seen/test/wav/chenxiaodaen274.wav
+trans: UNABRE TO RET TRANSMINTION OW F FREQUENCY
+refer: UNABLE TO RECEIVE TRANSMISSION ON THAT FREQUENCY
+WER: 0.714285714     CER: 0.30952381
+
+wumingweien373.wav
+trans: REQUEST TO DETAD HOLNG PASTN FOR CD0BITIONG 0 TEGLIST
+refer: REQUEST TO EXTEND THE HOLDING PATTERN FOR ACCOMPLISHING THE CHECKLIST
+WER: 0.7     CER: 0.466666667
+
+yuweiweien302.wav
+trans: "WENDY ESTABLISHED ONDTE LOCALIZER
+refer:  DESCEND ONHE FLIIGDET"
+WER: 0.7     CER: 0.235294118
+
+yinnanen398.wav
+trans: "CLEARED OFSET 25 MILES
+refer:  LEFT ORF TCK 430AT"
+WER: 0.7     CER: 0.325581395
+
+/minhang_std900_seen/test/wav/yuweiweien374.wav
+trans: "REQUEST EXTEDED HOLDING TO B CUEET
+refer:  TOREE DUCE TA WAIT"
+WER: 0.7     CER: 0.285714286
+
+/minhang_std900_seen/test/wav/yemaochenen185.wav
+trans: FOLLOW THEESTANDR MISIE APPROAH TRACI GOC CLIMB 2 3000 FEET
+refer: "FOLLOW THE STANDARD MISSED APPROACH PROCEDURE
+WER: 0.7     CER: 0.322033898
+
+/minhang_std900_seen/test/wav/xujiadongen305.wav
+trans: "YEAR VOR DENG A APPROACH RUNWAY 24
+refer:  DESCENDING TO 3000 FEETT QNH 107"
+WER: 0.7     CER: 0.189655172
+
+guozhengtingen271.wav
+trans: "WE HAVE TRAFFICT ARUR 1K I MILTES 50 FEET BELOW
+refer:  CIMBINEG"
+WER: 0.692307692     CER: 0.303571429
+
+guanweihanen067.wav
+trans: "CLEARE TOFATHE FO HOED
+refer:  FL DIRECT TO ML
+WER: 0.692307692     CER: 0.172413793
+
+/minhang_std900_seen/test/wav/linghaiyangen271.wav
+trans: "WE HAV TOAC GAT ORR 12W CLOCK
+refer:  5 MILES
+WER: 0.692307692     CER: 0.25
+
+/minhang_std900_seen/test/wav/weihaodongen134.wav
+trans: "MAIND BOEING747
+refer:  POSSINLEFTT TO RIGHT
+WER: 0.692307692     CER: 0.209677419
+
+wumingweien325.wav
+trans: CREESI DIN TEET FOR DELAY
+refer: THREE SIXTY TURN LEFT FOR DELAY
+WER: 0.666666667     CER: 0.384615385
+
+yuanhaoen131.wav
+trans: "COS REDE STOP-BART AT B1
+refer:  WA UNDERSTAND STOP-BAR UNSERVIABLE"
+WER: 0.666666667     CER: 0.148148148
+
+wumingweien356.wav
+trans: WEMADI FREQUENCY
+refer: REMAIN THIS FREQUENCY
+WER: 0.666666667     CER: 0.315789474
+
+liqingjunen075.wav
+trans: "LEARED TO  180 READ 4  V AT 150E
+refer:  HOL SOUTH
+WER: 0.666666667     CER: 0.306306306
+
+chenxiaodaen216.wav
+trans: REQURESTSTAR ANING AT GATE
+refer: REQUEST START ENGINE AT THE GATE
+WER: 0.666666667     CER: 0.296296296
+
+liuxinpengen216.wav
+trans: REQUEST TAR ADING ATHE  GATE
+refer: REQUEST START ENGINE AT THE GATE
+WER: 0.666666667     CER: 0.259259259
+
+zhangyizeen222.wav
+trans: CONTACT TAO RIVAL 118.050
+refer: CONTACT ARRIVAL 118.050
+WER: 0.666666667     CER: 0.095238095
+
+chenxiaodaen294.wav
+trans: CONFIRM MEARE STIR ABPOVE YOUR MINIMUM VETN ALTUDE
+refer: CONFIRM WE ARE STILL ABOVE YOUR MINIMUM VECTORING ALTITUDE
+WER: 0.666666667     CER: 0.22
+
+suntianqien293.wav
+trans: "WEAAE TO LO TO THE ROMDINGTORIN
+refer:  CONFIRM WE ARES STILBING RADAR VECTO"
+WER: 0.666666667     CER: 0.242857143
+
+guozhengtingen222.wav
+trans: CONTACT R RIVAL 118.050
+refer: CONTACT ARRIVAL 118.050
+WER: 0.666666667     CER: 0.047619048
+
+huoguangen095.wav
+trans: "STARTP APPROVED
+refer:  ALTTIMINTESETING 29.91"
+WER: 0.666666667     CER: 0.162162162
+
+liuzhilinen144.wav
+trans: AIRBUS ON FINL INSIGHT
+refer: THE AIRBUS ON FINAL IN SIGHT
+WER: 0.666666667     CER: 0.173913043
+
+lijiaqien049.wav
+trans: REQUEST TAXI 2U MAINTENNCE P
+refer: REQUEST TAXI TO SOUTH MAINTENANCE RAMP
+WER: 0.666666667     CER: 0.303030303
+
+koushuaien089.wav
+trans: SOY GIN ORBIY FOR DEPARTURE FREQUENCY
+refer: SAY AGAIN ALL BEFORE DEPARTURE FREQUENCY
+WER: 0.666666667     CER: 0.257142857
+
+zhoukaihangen222.wav
+trans: CONTACT AER GRIAL 118.050
+refer: CONTACT ARRIVAL 118.050
+WER: 0.666666667     CER: 0.142857143
+
+qiujinzhuanen119.wav
+trans: TA TO HOLDING POIT RUNWAY 24
+refer: "TAXI TO HOLDING POINT RUNWAY 24
+WER: 0.666666667     CER: 0.43902439
+
+zhoukaihangen236.wav
+trans: REUSET SQURK 5101
+refer: RESET SQUAWK 5101
+WER: 0.666666667     CER: 0.2
+
+xiaokailunen395.wav
+trans: REQUEST PARALLEE OFFSET FROM COSS  CORRENT TRACK DUE WEA THER AH
+refer: REQUEST PARALLEL OFFSET FROM CURRENT TRACK DUE WEATHER AHEAD
+WER: 0.666666667     CER: 0.173076923
+
+liangzhixinen264.wav
+trans: RESSUUME NOMAL SPEED
+refer: RESUME NORMAL SPEED
+WER: 0.666666667     CER: 0.176470588
+
+suntianqien280.wav
+trans: ADEVISE TRANSPONDER CABILITD
+refer: ADVISE TRANSPONDER CAPABILITY
+WER: 0.666666667     CER: 0.148148148
+
+wumingweien333.wav
+trans: DESCEDG MEDT FL250
+refer: DESCEND IMMEDIATELY FL250
+WER: 0.666666667     CER: 0.347826087
+
+qiujinzhuanen149.wav
+trans: TAKE OF IMNM MDIAEY RWCT RUNWAY
+refer: TAKE OFF IMMEDIATELY OR VACATE RUNWAY
+WER: 0.666666667     CER: 0.3125
+
+wangliyuen193.wav
+trans: "TRUNWAY LIH ISS TOO BRIGHT
+refer:  REQUEST DIMITE"
+WER: 0.666666667     CER: 0.157894737
+
+luowenen144.wav
+trans: THEBUS ON FINL IS SIGHT
+refer: THE AIRBUS ON FINAL IN SIGHT
+WER: 0.666666667     CER: 0.217391304
+
+panlongen107.wav
+trans: STAN BAY PUSHBACK
+refer: STAND BY PUSHBACK
+WER: 0.666666667     CER: 0.133333333
+
+yemaochenen150.wav
+trans: "COLD POSITION CANCEL TAKEOF
+refer:  AXS AGAN
+WER: 0.666666667     CER: 0.16
+
+limingnanen055.wav
+trans: OMIT POSITIONNG WAYPORTS
+refer: OMIT POSITION REPORTS
+WER: 0.666666667     CER: 0.263157895
+
+zhoukaihangen226.wav
+trans: CONFIRM INTERNLECTION INTERFECTION LOST
+refer: CONFIRM IDENTIFICATION LOST
+WER: 0.666666667     CER: 0.6
+
+linjialiangen024.wav
+trans: DESCENDING IMEDETELY 2O FL200 DU TRAFFI
+refer: DESCENDING IMMEDIATELY TO FL200 DUE TRAFFIC
+WER: 0.666666667     CER: 0.157894737
+
+weihaodongen129.wav
+trans: "GIWI WAY TOB7CS
+refer:  PAOSSING ROM LEFT TO RA"
+WER: 0.666666667     CER: 0.324324324
+
+yemaochenen195.wav
+trans: "RUNWAY C0VE INPACTDUS F FWATER
+refer:  BRAKING ACTION MENIUM"
+WER: 0.666666667     CER: 0.254901961
+
+/minhang_std900_seen/test/wav/jiangzhixuen044.wav
+trans: "LMNAB 0 TO DEPARTURE
+refer:  PASSING TO500 FEET
+WER: 0.666666667     CER: 0.204081633
+
+/minhang_std900_seen/test/wav/caolangen031.wav
+trans: "IDC IN CONDITION CONET
+refer:  REQUEST FUR CLIMB"
+WER: 0.666666667     CER: 0.288888889
+
+/minhang_std900_seen/test/wav/liqingjunen088.wav
+trans: STY AGAI WAT 3000 FEET
+refer: SAY AGAIN ALL AFTER 3000 FEET
+WER: 0.666666667     CER: 0.333333333
+
+/minhang_std900_seen/test/wav/guanweihanen032.wav
+trans: EXPERATIN SE TUBLULENCE REQUEST FURTHR DESCENT
+refer: "EXPERIENCING SEVERE TURBULENCE
+WER: 0.666666667     CER: 0.26
+
+/minhang_std900_seen/test/wav/koujiahuien265.wav
+trans: TE SPEED THECACI
+refer: NO SPEED RESTRICTIONS
+WER: 0.666666667     CER: 0.631578947
+
+/minhang_std900_seen/test/wav/weiqingyaoen195.wav
+trans: "RUNWAY CURVERED W ECACHES OF WAER
+refer:  BRAKIN ACTION MIDIUM"
+WER: 0.666666667     CER: 0.196078431
+
+/minhang_std900_seen/test/wav/liujingen194.wav
+trans: LOCK  AS 3 MILS FINAL
+refer: FLOCK OF BIRDS 3 MILES FINAL
+WER: 0.666666667     CER: 0.347826087
+
+/minhang_std900_seen/test/wav/zhouxingyuen241.wav
+trans: AFFIRM SQUWK 754000
+refer: AFFIRM SQUAWK 7500
+WER: 0.666666667     CER: 0.1875
+
+/minhang_std900_seen/test/wav/hanzhihaoen069.wav
+trans: REDEFORE APPROACH
+refer: READY FOR APPROACH
+WER: 0.666666667     CER: 0.1875
+
+/minhang_std900_seen/test/wav/chenzixiongen093.wav
+trans: "NA24
+refer:  REQUEST AP"
+WER: 0.666666667     CER: 0.380952381
+
+/minhang_std900_seen/test/wav/weiqingyaoen131.wav
+trans: "PROSS RED STOP-BARAT A1
+refer:  WE UNDERSTANDED STO -B UNSERVICEABLE"
+WER: 0.666666667     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/guanweihanen041.wav
+trans: MAINTAIN VIE6 LK NOTS UNTIL AUTER MARKER
+refer: MAINTAIN 160 KNOTS UNTIL OUTER MARKER
+WER: 0.666666667     CER: 0.15625
+
+/minhang_std900_seen/test/wav/chenxien278.wav
+trans: CONFIRM ILS RE CRECY FOR RUNWAY 17 L
+refer: CONFIRM ILS FREQUENCY FOR RUNWAY 17L
+WER: 0.666666667     CER: 0.129032258
+
+/minhang_std900_seen/test/wav/yuanhaoen115.wav
+trans: STARTING NUMNBER RONE
+refer: STARTING NUMBER ONE
+WER: 0.666666667     CER: 0.117647059
+
+/minhang_std900_seen/test/wav/panlongen182.wav
+trans: "NO ONPAT AD MINUE
+refer:  GOING AROUN"
+WER: 0.666666667     CER: 0.266666667
+
+/minhang_std900_seen/test/wav/liqingjunen066.wav
+trans: DELY NOT DETERMINED NOE ROUS AIRCRAFT HOLDING FOR WREATHER IMPORMORMANT
+refer: "DELAY NOT DETERMINED
+WER: 0.666666667     CER: 0.158730159
+
+/minhang_std900_seen/test/wav/lichenzhaoen065.wav
+trans: NO DELA XPECTIED
+refer: NO DELAY EXPECTED
+WER: 0.666666667     CER: 0.2
+
+/minhang_std900_seen/test/wav/zhangyuen216.wav
+trans: REQUEST STAPT UNTE AT TE CATE
+refer: REQUEST START ENGINE AT THE GATE
+WER: 0.666666667     CER: 0.259259259
+
+/minhang_std900_seen/test/wav/guozhengtingen217.wav
+trans: REQUEST CTIME CRACK
+refer: REQUEST TIME CHECK
+WER: 0.666666667     CER: 0.1875
+
+/minhang_std900_seen/test/wav/heshuchangen217.wav
+trans: REQEST TI CHECK
+refer: REQUEST TIME CHECK
+WER: 0.666666667     CER: 0.1875
+
+/minhang_std900_seen/test/wav/likunen293.wav
+trans: "NAG TO LOT TO RONDING TERRAIN
+refer:  COFORM WEARE STILL BEING RADAR VECTOR"
+WER: 0.666666667     CER: 0.242857143
+
+/minhang_std900_seen/test/wav/likunen259.wav
+trans: CROSSDG A 24 OR CEARLR
+refer: CROSS DG AT 24 OR EARLIER
+WER: 0.666666667     CER: 0.2
+
+/minhang_std900_seen/test/wav/liangzhixinen296.wav
+trans: DIRED TO JODESCENG TO F50
+refer: "DIRECT TO JO
+WER: 0.666666667     CER: 0.208333333
+
+/minhang_std900_seen/test/wav/lijiayuen112.wav
+trans: "CANCEL PUSHBACK
+refer:  BWEHAR MIEANCE PRO"
+WER: 0.666666667     CER: 0.282051282
+
+/minhang_std900_seen/test/wav/koushuaien055.wav
+trans: ONMIT TPOSITION REPORTS
+refer: OMIT POSITION REPORTS
+WER: 0.666666667     CER: 0.105263158
+
+/minhang_std900_seen/test/wav/liujingen195.wav
+trans: RUNWAY CONVED VILS TATE O FIATERRAKING ACTION MEDIUM
+refer: "RUNWAY COVERED WITH PATCHES OF WATER
+WER: 0.666666667     CER: 0.254901961
+
+/minhang_std900_seen/test/wav/zengyunianen216.wav
+trans: REQUEST EINTI ANE GATE
+refer: REQUEST START ENGINE AT THE GATE
+WER: 0.666666667     CER: 0.444444444
+
+/minhang_std900_seen/test/wav/qiujinzhuanen120.wav
+trans: REQUEST TANTS PUSHBACK FOR MITENANC PURP
+refer: REQUEST TAXI BACK FOR MAINTENANCE PURPOSE
+WER: 0.666666667     CER: 0.361111111
+
+/minhang_std900_seen/test/wav/caolangen036.wav
+trans: MAINTAIN PREISINT SPEET
+refer: MAINTAIN PRESENT SPEED
+WER: 0.666666667     CER: 0.15
+
+/minhang_std900_seen/test/wav/zhouxingyuen259.wav
+trans: CROD GOF AT 24 E
+refer: CROSS DG AT 24 OR EARLIER
+WER: 0.666666667     CER: 0.6
+
+/minhang_std900_seen/test/wav/linghaiyangen267.wav
+trans: EPOS SPED 25K NOTS DUE TURBULENCE
+refer: REQUEST SPEED 250 KNOTS DUE TURBULENCE
+WER: 0.666666667     CER: 0.212121212
+
+/minhang_std900_seen/test/wav/xiaokailunen308.wav
+trans: PASSING OUNTER MAER
+refer: PASSING OUTER MARKER
+WER: 0.666666667     CER: 0.166666667
+
+/minhang_std900_seen/test/wav/lihanlongen058.wav
+trans: HELAY NOT DETERMINE DUE RUNWY OSTRUCTION
+refer: DELAY NOT DETERMINED DUE RUNWAY OBSTRUCTION
+WER: 0.666666667     CER: 0.105263158
+
+/minhang_std900_seen/test/wav/wanghanyien112.wav
+trans: "TANCELD PUSHBACK
+refer:  VI AR MAINTENANCE POPOBE"
+WER: 0.666666667     CER: 0.282051282
+
+/minhang_std900_seen/test/wav/wuhaoen313.wav
+trans: REQUEST HOLDING IN STRIUCTIONS
+refer: REQUEST HOLDING INSTRUCTIONS
+WER: 0.666666667     CER: 0.038461538
+
+/minhang_std900_seen/test/wav/jiangzhixuen095.wav
+trans: "STARTIP APPROVED
+refer:  OLTIEERSCEDING 29.91"
+WER: 0.666666667     CER: 0.189189189
+
+/minhang_std900_seen/test/wav/xujiadongen361.wav
+trans: REQEST  VL APPROACH
+refer: REQUEST RNAV APPROACH
+WER: 0.666666667     CER: 0.263157895
+
+/minhang_std900_seen/test/wav/caolangen010.wav
+trans: "AFTER PASSING CREAOO
+refer:  DESCENG TI F80"
+WER: 0.666666667     CER: 0.285714286
+
+/minhang_std900_seen/test/wav/wangliyuen121.wav
+trans: NEGATOVE WEMIE T0 MINUTES TO COOD T BRAKES
+refer: "NEGATIVE
+WER: 0.666666667     CER: 0.230769231
+
+/minhang_std900_seen/test/wav/chenzixiongen031.wav
+trans: ICING CONDITION ECERNT NR CUFURHOCLIBP
+refer: "ICING CONDITION ENCOUNTERED
+WER: 0.666666667     CER: 0.4
+
+/minhang_std900_seen/test/wav/zhangyuen247.wav
+trans: RLIGT HEANDING 285
+refer: FLY HEADING 285
+WER: 0.666666667     CER: 0.384615385
+
+/minhang_std900_seen/test/wav/lichenzhaoen082.wav
+trans: "CLEARED TO DESTINATION VIA FLIGH TLANNED ROOUTE
+refer:  DEPARTURE RUNWAY 36 LEF HTZ01 DEPARTUR
+WER: 0.652173913     CER: 0.126666667
+
+xujiadongen314.wav
+trans: "HOLLO WEAS BKM VO FL100R ING BONDO TRACK 2OTH DEGREES LEFT HAND PATTERN
+refer:  OURTBOUND1 MINUTE"
+WER: 0.647058824     CER: 0.25
+
+jiangzhixuen029.wav
+trans: "CANCE ED
+refer:  TRACK DICT TOLLK
+WER: 0.636363636     CER: 0.16
+
+zhoukaihangen300.wav
+trans: "CLEARED SPET IN ILS APPROACH RUNWAY 24
+refer:  DESCENT TO 35000 FEET QNH 1011"
+WER: 0.636363636     CER: 0.158730159
+
+dongyuchenen053.wav
+trans: "POSTIN O BMIK A 0646
+refer:  MAINTAINING FL310
+WER: 0.636363636     CER: 0.196721311
+
+liangzhixinen272.wav
+trans: TRAFSIC INDICATION AT OUR 1 CLOE FOR MILES SEY ALTITUDE 0ONVERGHING
+refer: "TRAFFIC INDICATION AT OUR 1 O'CLOCK
+WER: 0.636363636     CER: 0.229508197
+
+/minhang_std900_seen/test/wav/lilinshenen084.wav
+trans: "RECLEARED TO DESTIATION VI B13
+refer:  VCUTA
+WER: 0.636363636     CER: 0.254237288
+
+/minhang_std900_seen/test/wav/yuweiweien399.wav
+trans: "OFFSE CACELED
+refer:  TURN RIG TO REJ TA1 8EFOR BKM VOR"
+WER: 0.636363636     CER: 0.224489796
+
+/minhang_std900_seen/test/wav/yinnanen369.wav
+trans: "PRASSSIED 2A K
+refer:  HOLD DAR POLIY
+WER: 0.636363636     CER: 0.418181818
+
+panlongen176.wav
+trans: REQNUEST LOW PASS DUA UNSEFT LANDING GIIAV DITAON
+refer: REQUEST LOW PASS DUE UNSAFE LANDING GEAR INDICATION
+WER: 0.625     CER: 0.272727273
+
+wuwenjieen148.wav
+trans: TAKE OFFMMEDIBEY ORF CORET TORT OF RUNWAY
+refer: TAKE OFF IMMEDIATELY OR HOLD SHORT OF RUNWAY
+WER: 0.625     CER: 0.27027027
+
+chenzixiongen086.wav
+trans: "NA15
+refer: FORMA2TEBN C
+WER: 0.625     CER: 0.325581395
+
+liqingjunen027.wav
+trans: "MAINTAINING OVS PREAATION  VMC
+refer:  DESCENNDING TO FLL80"
+WER: 0.625     CER: 0.234042553
+
+liujingen186.wav
+trans: "TAKE FIRS RIGHT
+refer:  WHEN VACATED COUNTACT GROUND 118. 3G"
+WER: 0.625     CER: 0.086956522
+
+dongyuchenen017.wav
+trans: "WHEN READY
+refer:  DESCENT TO FL210 L AT UB L"
+WER: 0.625     CER: 0.257142857
+
+koushuaien045.wav
+trans: "MAINTAINING FL35 0A
+refer:  CLEARED TO DESTINATION FLIGHT PLAN ROUT"
+WER: 0.625     CER: 0.107142857
+
+pengyideen148.wav
+trans: TAKE OFF IMMEDIATE O HD TROF RUNWAY
+refer: TAKE OFF IMMEDIATELY OR HOLD SHORT OF RUNWAY
+WER: 0.625     CER: 0.243243243
+
+/minhang_std900_seen/test/wav/linjialiangen027.wav
+trans: "MAINTAINING OS SPARATION ONT LC
+refer:  DESCENING TO FL80"
+WER: 0.625     CER: 0.170212766
+
+/minhang_std900_seen/test/wav/liqingjunen043.wav
+trans: CANCEL SPED STRICTIN POTIN NDDN CENT TO 7000 FEET
+refer: "CANCEL SPEED RESTRICTION
+WER: 0.625     CER: 0.229166667
+
+/minhang_std900_seen/test/wav/wuhaoen327.wav
+trans: "E VI SERADAR APPROACH RUNWAY 27
+refer:  MAINTAINING 20 00 FEET"
+WER: 0.625     CER: 0.188679245
+
+/minhang_std900_seen/test/wav/qiujinzhuanen148.wav
+trans: TAKE OF  MEDIAY FORAPPRH HOR OF RUNWAY
+refer: TAKE OFF IMMEDIATELY OR HOLD SHORT OF RUNWAY
+WER: 0.625     CER: 0.351351351
+
+/minhang_std900_seen/test/wav/chenzixiongen071.wav
+trans: "AFTER PASSING FAVR LEAI HOL AT EADING TO 50
+refer:  CLEARED FOR GVR PORACH RUNWAY 06"
+WER: 0.625     CER: 0.277777778
+
+/minhang_std900_seen/test/wav/lichenzhaoen016.wav
+trans: AXTFLIMING AT 1000 MINUTE  PERMINUTE FOR GREATER
+refer: CLIMBING AT 1000 FEET PER MINUTE OR GREATER
+WER: 0.625     CER: 0.305555556
+
+/minhang_std900_seen/test/wav/hanzhihaoen045.wav
+trans: "MAINTAINING FL350
+refer:  CLARED TOE DESTINATION
+WER: 0.625     CER: 0.142857143
+
+/minhang_std900_seen/test/wav/wuhaoen335.wav
+trans: "DESCEND TO HE 2000 FEET
+refer:  QFLL997EPOLSE"
+WER: 0.625     CER: 0.390243902
+
+/minhang_std900_seen/test/wav/lilinshenen073.wav
+trans: "CLEARED TOLHT  
+refer:  HONAT LOUNTER MT PAUBLIED
+WER: 0.625     CER: 0.272727273
+
+/minhang_std900_seen/test/wav/liulongfeien148.wav
+trans: TAKE OFF  MMEDIATELY OER HOSHORTOF RUNWAY
+refer: TAKE OFF IMMEDIATELY OR HOLD SHORT OF RUNWAY
+WER: 0.625     CER: 0.108108108
+
+/minhang_std900_seen/test/wav/wanghanyien186.wav
+trans: TAKE FORST RIGHT WHEN VACATEED CONTACT GROUND 19 .35
+refer: "TAKE FIRST RIGHT
+WER: 0.625     CER: 0.130434783
+
+/minhang_std900_seen/test/wav/weihaodongen136.wav
+trans: "AFTIER DEPARTURE
+refer:  CLAMN STRAIGT HEADENT 3000 FEET"
+WER: 0.625     CER: 0.173913043
+
+caolangen068.wav
+trans: "APPROACH CORAINC CUNC TON LET TRACT TO OTS A CLIMB TO 4000 FEET
+refer:  HOD AT PUBLISE APET FURTHE CLEARANCE T TIME 50"
+WER: 0.619047619     CER: 0.289719626
+
+liangzhixinen251.wav
+trans: YU RADARVWECTR AKIARE TO BE TACIN AS TO THE PROHETEED AIRREA CONFIRM
+refer: "YOUR RADAR VECTOR APPEARS TO BE TAKING US TO THE PROHIBITED AREA
+WER: 0.615384615     CER: 0.295081967
+
+zhoukaihangen207.wav
+trans: "CONFIRM DIRSTILD RUNWAY 27
+refer:  GLEADTD "
+WER: 0.6     CER: 0.363636364
+
+chenshunlongen038.wav
+trans: REDUCE TO MIIMM  CLEARANCPE
+refer: REDUCE TO MINIMUM CLEAN SPEED
+WER: 0.6     CER: 0.28
+
+liqingjunen070.wav
+trans: REQUEST TO E T HOLDING PATTERN
+refer: REQUEST LEAVE THE HOLDING PATTERN
+WER: 0.6     CER: 0.206896552
+
+wanghanyien155.wav
+trans: TI TERSECION DEPARTURE DUE PERFORMLANCE
+refer: NEGATIVE INTERSECTION DEPARTURE DUE PERFORMANCE
+WER: 0.6     CER: 0.23255814
+
+suntianqien239.wav
+trans: SQUAWK R ANTD  COED 5120
+refer: SQUAWK CHARLIE AND CODE 5120
+WER: 0.6     CER: 0.375
+
+wumingweien312.wav
+trans: CEARD VIS APPROACH UNWAY 24
+refer: CLEARED VISUAL APPROACH RUNWAY 24
+WER: 0.6     CER: 0.206896552
+
+wuhaoen374.wav
+trans: REQUEST EXTENDI HOLDING TO FU TOREDU THE WIGHT
+refer: REQUEST EXTENDED HOLDING TO BURN FUEL TO REDUCE THE WEIGHT
+WER: 0.6     CER: 0.224489796
+
+wumingweien350.wav
+trans: EX GIHT DESCENT OUNTIL PASSING FL80
+refer: EXPEDITE DESCENT UNTIL PASSING FL80
+WER: 0.6     CER: 0.193548387
+
+chenxien261.wav
+trans: REDUCE SPEED TO24ONOTS
+refer: REDUCE SPEED TO 240 KNOTS
+WER: 0.6     CER: 0.095238095
+
+zhoukaihangen268.wav
+trans: OMIT POSITION RPOTSENTTIL L9
+refer: OMIT POSITION REPORTS UNTIL LN
+WER: 0.6     CER: 0.192307692
+
+weihaodongen123.wav
+trans: A FHORT HO RUNWAY 24
+refer: HOLD SHORT OF RUNWAY 24
+WER: 0.6     CER: 0.368421053
+
+zengyunianen205.wav
+trans: CONFIRM FOP-ET RVR 100TERS
+refer: CONFIRM STOP-END RVR 150 METERS
+WER: 0.6     CER: 0.259259259
+
+xujiahongen110.wav
+trans: PUSHBACK TO TAXSI AAPPROVED
+refer: PUSHBACK TO TAXIWAY A APPROVED
+WER: 0.6     CER: 0.153846154
+
+chenmingliangen254.wav
+trans: MAINTAINNG 300 KNOTS ORLESS
+refer: MAINTAIN 300 KNOTS OR LESS
+WER: 0.6     CER: 0.090909091
+
+wuwenjieen172.wav
+trans: "CON FINAL
+refer:  AIRFEIN SIGHT"
+WER: 0.6     CER: 0.2
+
+zhangyizeen270.wav
+trans: REQUEST REPORT REQUIND OND AT BOUNDARY
+refer: REPORT REQUIRED ONLY AT BOUNDARY
+WER: 0.6     CER: 0.392857143
+
+chenshunlongen026.wav
+trans: "RELEAVING FL200
+refer:  CLIMBING TO FL2 80"
+WER: 0.6     CER: 0.071428571
+
+weiqingyaoen187.wav
+trans: AFTER VACATE CONTACT GROUN121.6
+refer: AFTER VACATED CONTACT GROUND 121.6
+WER: 0.6     CER: 0.066666667
+
+weiqingyaoen155.wav
+trans: NEGATIVE INTERSICTION DEATURE DUE PERFORMANT
+refer: NEGATIVE INTERSECTION DEPARTURE DUE PERFORMANCE
+WER: 0.6     CER: 0.11627907
+
+/minhang_std900_seen/test/wav/zhaoyizeen249.wav
+trans: REFST TA HEADING 180 DUE WEATH
+refer: REQUEST HEADING 180 DUE WEATHER
+WER: 0.6     CER: 0.259259259
+
+/minhang_std900_seen/test/wav/huoguangen038.wav
+trans: REDUCE TO MIN MAM CLEA SPEED
+refer: REDUCE TO MINIMUM CLEAN SPEED
+WER: 0.6     CER: 0.12
+
+/minhang_std900_seen/test/wav/weihaodongen175.wav
+trans: "SHORT FINAL
+refer:  REQUESTT IND CHEE"
+WER: 0.6     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/xiaokailunen354.wav
+trans: REQUEST CHANG TO LO O CONTROL
+refer: REQUEST CHANGE TO LONDON CONTROL
+WER: 0.6     CER: 0.142857143
+
+/minhang_std900_seen/test/wav/guozhengtingen288.wav
+trans: STOP SQUAWK TRANSMIT D BAL ONAY
+refer: STOP SQUAWK TRANSMIT ADS-B ONLY
+WER: 0.6     CER: 0.185185185
+
+/minhang_std900_seen/test/wav/linghaiyangen210.wav
+trans: CONFIRM UR FLIGHT HO IN SUSPENDED DUE YO-HA DA AT SDUSTISATION
+refer: CONFIRM OUR FLIGHT HAS BEEN SUSPENDED DUE BIO-HAZARDS AT DESTINATION
+WER: 0.6     CER: 0.254237288
+
+/minhang_std900_seen/test/wav/chenxiaodaen250.wav
+trans: CONFIRM DAN AIRES 113 AXTED
+refer: CONFIRM DANGER AREA 113 ACTIVE
+WER: 0.6     CER: 0.346153846
+
+/minhang_std900_seen/test/wav/liuzhilinen167.wav
+trans: SSTRAIGHT-IN VO APPROACH RUNWAY 34
+refer: "STRAIGHT-IN VISUAL APPROACH
+WER: 0.6     CER: 0.205882353
+
+/minhang_std900_seen/test/wav/yuanhaoen113.wav
+trans: "FROND COFEET
+refer:  READY FOR USHBACK"
+WER: 0.6     CER: 0.258064516
+
+/minhang_std900_seen/test/wav/xiaokailunen392.wav
+trans: "NEGATIVE
+refer:  UNABLE TO CROSS BKM V OGT F 3Y O3 ORNLATER"
+WER: 0.6     CER: 0.179487179
+
+/minhang_std900_seen/test/wav/xujiadongen350.wav
+trans: SLE AXPEDTE DESCED UNTIL PASSING FL80
+refer: EXPEDITE DESCENT UNTIL PASSING FL80
+WER: 0.6     CER: 0.193548387
+
+/minhang_std900_seen/test/wav/zhangyizeen254.wav
+trans: MAINTAIN 3 KNOTS OLLS
+refer: MAINTAIN 300 KNOTS OR LESS
+WER: 0.6     CER: 0.227272727
+
+/minhang_std900_seen/test/wav/xuziaoen187.wav
+trans: AFTER VACATED DCOCT FB12196
+refer: AFTER VACATED CONTACT GROUND 121.6
+WER: 0.6     CER: 0.366666667
+
+/minhang_std900_seen/test/wav/xuziaoen113.wav
+trans: "WONT
+refer:  COFIET READY FO PUSHBACK"
+WER: 0.6     CER: 0.322580645
+
+/minhang_std900_seen/test/wav/liuxinpengen225.wav
+trans: RESUMED ON ATGATION TO BK
+refer: RESUME OWN NAVIGATION TO BK
+WER: 0.6     CER: 0.217391304
+
+/minhang_std900_seen/test/wav/pengyideen155.wav
+trans: TIVE INTERSECTION PARTURE DUE FORASE
+refer: NEGATIVE INTERSECTION DEPARTURE DUE PERFORMANCE
+WER: 0.6     CER: 0.279069767
+
+/minhang_std900_seen/test/wav/xujiahongen164.wav
+trans: "JOIN T RIGHT HAND DOWNWIND
+refer:  RUNWAY 34"
+WER: 0.6     CER: 0.064516129
+
+/minhang_std900_seen/test/wav/yuanhaoen172.wav
+trans: "LOUN FINAL
+refer:  AIRBILLDIN SIGHT"
+WER: 0.6     CER: 0.16
+
+/minhang_std900_seen/test/wav/chenzixiongen083.wav
+trans: "RVEAUCLEARED TO DESTINATIO VAL0 1T DEPARTURES
+refer:  RBRONWAY 36R
+WER: 0.583333333     CER: 0.189189189
+
+/minhang_std900_seen/test/wav/heweilongen083.wav
+trans: "RECLEARED TO DEIATION VI 2401 DEPARTURE
+refer:  RUNWAY 36
+WER: 0.583333333     CER: 0.162162162
+
+zhoukaihangen219.wav
+trans: "UNA B K1A DEPARTURE DUE PERFORMANCE
+refer:  REQUEST BK1B"
+WER: 0.571428571     CER: 0.106382979
+
+koushuaien022.wav
+trans: CLIMBTOI FL280 PEDIT UNTIL PASSING FL18
+refer: CLIMB TO FL280 EXPEDITE UNTIL PASSING FL180
+WER: 0.571428571     CER: 0.135135135
+
+chenshunlongen068.wav
+trans: "APPROACH CLEARANCS
+refer:  CANCELED 1 LEFT DIRECT TO D A
+WER: 0.571428571     CER: 0.112149533
+
+liuxinpengen209.wav
+trans: CONFIRM THE REASON R FLGHT SUSPACTION
+refer: CONFIRM THE REASON FOR OUR FLIGHT SUSPENSION
+WER: 0.571428571     CER: 0.236842105
+
+panlongen188.wav
+trans: TAXI TOTAND 27 VI TAXIIWAY A
+refer: TAXI TO STAND 27 VIA TAXIWAY A
+WER: 0.571428571     CER: 0.125
+
+xujiahongen199.wav
+trans: CONFIRM CURREENT RVR LESS TA 4000METERS
+refer: CONFIRM CURRENT RVR LESS THAN 400 METERS
+WER: 0.571428571     CER: 0.117647059
+
+linjialiangen005.wav
+trans: "CONTINUE DECENT 2 3000 FEET
+refer:  QUE BAH 1012"
+WER: 0.571428571     CER: 0.212121212
+
+wangliyuen199.wav
+trans: CONFIRM POENTT OR VR LESS TAMND 400 METERS
+refer: CONFIRM CURRENT RVR LESS THAN 400 METERS
+WER: 0.571428571     CER: 0.264705882
+
+koujiahuien204.wav
+trans: CONFIRM TOUCHDON R GRETER THA 350 METERS
+refer: CONFIRM TOUCHDOWN RVR GREATER THAN 350 METERS
+WER: 0.571428571     CER: 0.128205128
+
+yinnanen322.wav
+trans: TURNRIGHT HEADING 180 FOR BASLY
+refer: TURN RIGHT HEADING 180 FOR BASE LEG
+WER: 0.571428571     CER: 0.103448276
+
+xuziaoen143.wav
+trans: "AIRBORN
+refer:  PASSING 5P0 FEET 4 F002 FEET"
+WER: 0.571428571     CER: 0.205882353
+
+zhoukaihangen227.wav
+trans: "INDAND FATED
+refer:  POTION 5 MILES EAST OF BK"
+WER: 0.571428571     CER: 0.264705882
+
+/minhang_std900_seen/test/wav/pengyideen199.wav
+trans: CONFIRM  CURENT RV LES 400 METERS
+refer: CONFIRM CURRENT RVR LESS THAN 400 METERS
+WER: 0.571428571     CER: 0.205882353
+
+/minhang_std900_seen/test/wav/koushuaien048.wav
+trans: REQUEST  TA2 HOD-POINT RUNWAY 13
+refer: REQUEST TAXI TO HOLDING POINT RUNWAY 13
+WER: 0.571428571     CER: 0.242424242
+
+/minhang_std900_seen/test/wav/yinnanen320.wav
+trans: "LEAVING FL60
+refer:  DESCENDING TO200050 FEET
+WER: 0.571428571     CER: 0.075
+
+/minhang_std900_seen/test/wav/luowenen188.wav
+trans: "TRAXI TO STAND 27
+refer:  VIATAXWAY A"
+WER: 0.571428571     CER: 0.125
+
+/minhang_std900_seen/test/wav/lichenzhaoen022.wav
+trans: BLIMBTAI FL280 EPEDIT UNTIL PASSING 9L180
+refer: CLIMB TO FL280 EXPEDITE UNTIL PASSING FL180
+WER: 0.571428571     CER: 0.162162162
+
+/minhang_std900_seen/test/wav/linjialiangen009.wav
+trans: "REYDIRECT TO SHA
+refer:  NOT PEO FLL180"
+WER: 0.571428571     CER: 0.214285714
+
+/minhang_std900_seen/test/wav/panlongen163.wav
+trans: AIRBUS 330 A 8000 FEET IFORMTION TARXAY
+refer: "AIRBUS 330 HEAVY
+WER: 0.571428571     CER: 0.361111111
+
+/minhang_std900_seen/test/wav/yuweiweien324.wav
+trans: "NO C SPEED
+refer:  RESTICTIONS CONTACT TOWR 118.9"
+WER: 0.571428571     CER: 0.15
+
+/minhang_std900_seen/test/wav/chenxien274.wav
+trans: UNABLE TO RECEIVE FOR TRANSMISTIONS ON THEFREQUENCE
+refer: UNABLE TO RECEIVE TRANSMISSION ON THAT FREQUENCY
+WER: 0.571428571     CER: 0.19047619
+
+/minhang_std900_seen/test/wav/panlongen165.wav
+trans: NERATO FOOWTHE AIRBUS 330 ON BAS
+refer: "NUMBER TWO
+WER: 0.571428571     CER: 0.387096774
+
+/minhang_std900_seen/test/wav/liangzhixinen228.wav
+trans: 30 MILES FO TOUCDEN CONTAT APPROACH 1N18.1
+refer: "30 MILES FROM TOUCHDOWN
+WER: 0.571428571     CER: 0.195121951
+
+/minhang_std900_seen/test/wav/zengyunianen228.wav
+trans: "30MIES FROM PUCHDOWN
+refer:  CONTACT APPROACH RUN181"
+WER: 0.571428571     CER: 0.170731707
+
+/minhang_std900_seen/test/wav/yuweiweien318.wav
+trans: "OBIHEDIN V
+refer:  MAINTAINING 3000 FEET
+WER: 0.571428571     CER: 0.255813953
+
+/minhang_std900_seen/test/wav/wangliyuen147.wav
+trans: REQUEST RIGHT TU REA AIRBRORNE DUE WEATR
+refer: REQUEST RIGHT TURN WHEN AIRBORNE DUE WEATHER
+WER: 0.571428571     CER: 0.184210526
+
+/minhang_std900_seen/test/wav/zengyunianen209.wav
+trans: CONFIRM THE READ FO OUR 5E FUATION
+refer: CONFIRM THE REASON FOR OUR FLIGHT SUSPENSION
+WER: 0.571428571     CER: 0.421052632
+
+/minhang_std900_seen/test/wav/chenzixiongen022.wav
+trans: "NGBT TO F8E 280
+refer:   FPED
+WER: 0.571428571     CER: 0.324324324
+
+xujiadongen394.wav
+trans: REQUEST OSE TIME ROUTE TO FINITL 3HELI
+refer: REQUEST LOSE TIME EN ROUTE TO FINISH THE CHECKLIST
+WER: 0.555555556     CER: 0.285714286
+
+dongyuchenen081.wav
+trans: "TEARED V ZF 01DEPARTURE
+refer:  INITIAL ALTITUE 5000 FEET
+WER: 0.555555556     CER: 0.13559322
+
+liqingjunen081.wav
+trans: "CLEARD BA Z01 DEPARTUREE
+refer:  ITIAL ALTITUDE 5000 FEET
+WER: 0.555555556     CER: 0.093220339
+
+/minhang_std900_seen/test/wav/lihanlongen044.wav
+trans: "M10 2 DEARTURE PASSING 250 FEET
+refer:  CLIMBING TO 9000 FEET"
+WER: 0.555555556     CER: 0.142857143
+
+/minhang_std900_seen/test/wav/wanghanyien121.wav
+trans: "NEGATIVE
+refer:  RENED 10 MIUTES TO COONT  BRAKES"
+WER: 0.555555556     CER: 0.153846154
+
+/minhang_std900_seen/test/wav/koushuaien077.wav
+trans: "GATE 26
+refer:  REQUEST CLEARANCES TO LON-DO WICINMFORMATION FO"
+WER: 0.555555556     CER: 0.14893617
+
+/minhang_std900_seen/test/wav/liuzhilinen121.wav
+trans: "NEGATIVE
+refer:  WENEED TER MINUTE TO CO THE BRAKES"
+WER: 0.555555556     CER: 0.153846154
+
+/minhang_std900_seen/test/wav/heweilongen044.wav
+trans: "MN10TO DEPARTURE
+refer:  PASSING 205000D EFEET
+WER: 0.555555556     CER: 0.204081633
+
+/minhang_std900_seen/test/wav/xuziaoen119.wav
+trans: "TAXI TO HOLDING POIT R TO FO
+refer:  TRAFFIC I SIGHT"
+WER: 0.555555556     CER: 0.219512195
+
+/minhang_std900_seen/test/wav/xiaokailunen371.wav
+trans: "HOLD AT BKM VOR FL250
+refer:  RIGHT HAND POUNTRN EXPET FUR0HER CLEARANCE AT 23 LANDIN DELAY AT DESTISSION A AIPORT 30 MI MINUME MAINTINCES"
+WER: 0.55     CER: 0.242718447
+
+limingnanen098.wav
+trans: "EXPECT DEPARTURRET FOR 9 START UP AT OW DISCRETION
+refer:  QNH1004"
+WER: 0.545454545     CER: 0.14
+
+xiaokailunen358.wav
+trans: CLEARED VVO  APPROACH RUNWAY 36FOED FORLOTE FORLO BY SIERCLIN 2 RUNWAY 18
+refer: "CLEARED VOR APPROACH RUNWAY 36
+WER: 0.545454545     CER: 0.327272727
+
+liqingjunen084.wav
+trans: RECLEARED TO DESTATION VIA B213W HARR33 REST OF ROUTE TO CHANGED
+refer: "RECLEARED TO DESTINATION VIA B213
+WER: 0.545454545     CER: 0.13559322
+
+/minhang_std900_seen/test/wav/yuweiweien393.wav
+trans: REQUEST  LOE TIME EN BOOUE DUE LANING FELAY AT DESTINITION NPOT
+refer: REQUEST LOSE TIME EN ROUTE DUE LANDING DELAY AT DESTINATION AIRPORT
+WER: 0.545454545     CER: 0.192982456
+
+/minhang_std900_seen/test/wav/limingnanen029.wav
+trans: "CANCEL XSSID
+refer:  TRACK DURECT TO LL
+WER: 0.545454545     CER: 0.22
+
+/minhang_std900_seen/test/wav/wanghanyien161.wav
+trans: "LIN UP AD WAIT
+refer:  UNDESTAND WHEN AIRCRAFT TO DEPARTROMN A2"
+WER: 0.545454545     CER: 0.163265306
+
+/minhang_std900_seen/test/wav/linjialiangen029.wav
+trans: "CANCEL XSID TRAFF DIRECT TO LLK
+refer:  CLIMBTI UND MAINTIN FL110"
+WER: 0.545454545     CER: 0.14
+
+/minhang_std900_seen/test/wav/koushuaien029.wav
+trans: "CANSIDN
+refer:  NAC DIRECT TO LLK
+WER: 0.545454545     CER: 0.22
+
+zhaoyizeen271.wav
+trans: "WE HIAVED TRAFFIC AT OR 12 OK'CLOCK
+refer:  5 MILES500 FEET
+WER: 0.538461538     CER: 0.125
+
+/minhang_std900_seen/test/wav/suntianqien271.wav
+trans: "WRE HAE TRAFFIC AT ORR 12 'CLOCK
+refer:  5 MILES 500 FEET BOW CLIING"
+WER: 0.538461538     CER: 0.178571429
+
+/minhang_std900_seen/test/wav/zhouxingyuen271.wav
+trans: EHEVE TRAFFIC AT OUR 12 O'CLOK 5MILES500 FEET BELOW CLIMBING
+refer: "WE HAVE TRAFFIC AT OUR 12 O'CLOCK
+WER: 0.538461538     CER: 0.107142857
+
+/minhang_std900_seen/test/wav/yuweiweien384.wav
+trans: "DESCEND TO A MITAI FL 270
+refer:  TO LNOT AX LAP NUMBER DECL 79"
+WER: 0.538461538     CER: 0.321428571
+
+heweilongen085.wav
+trans: "CLEARED TO DESTINATION VIAE FLIGHT PLAEROE
+refer:  INITIAL CLIM 2000700 FEET
+WER: 0.523809524     CER: 0.182539683
+
+liangzhixinen281.wav
+trans: TRANSPONDER CRLE
+refer: TRANSPONDER CHARLIE
+WER: 0.5     CER: 0.166666667
+
+chenxien266.wav
+trans: REQUESTE SPEED 200 KNOTS DUE CON FREQUETION
+refer: REQUEST SPEED 200 KNOTS DUE CONFIGURATION
+WER: 0.5     CER: 0.166666667
+
+liuzhilinen194.wav
+trans: TOG O BIRD 3 MILES FINAL
+refer: FLOCK OF BIRDS 3 MILES FINAL
+WER: 0.5     CER: 0.260869565
+
+chenxien238.wav
+trans: SQUAWK 7
+refer: SQUAWK STANDBY
+WER: 0.5     CER: 0.538461538
+
+linjialiangen013.wav
+trans: UNABLE TO RECH FL150 B ZH  DUE PFOLNCE
+refer: UNABLE TO REACH FL150 BY ZHO DUE PERFORMANCE
+WER: 0.5     CER: 0.216216216
+
+koushuaien058.wav
+trans: DELAY NOAT DETERMINENED DUE RUNWAY OUNTRUCTIONG
+refer: DELAY NOT DETERMINED DUE RUNWAY OBSTRUCTION
+WER: 0.5     CER: 0.157894737
+
+wuhaoen345.wav
+trans: "UNABLE FL3 90 BY BONDAWIN
+refer:  REQUEST FL330"
+WER: 0.5     CER: 0.117647059
+
+weihaodongen132.wav
+trans: "CONFER LANDING AIRBUS 320
+refer:  CROSS RUWAY 24
+WER: 0.5     CER: 0.102040816
+
+linjialiangen083.wav
+trans: "RECEEARED TO DESTINATION WVILT ZF 01PUNTUREN
+refer:  RUNWAY 36RH
+WER: 0.5     CER: 0.202702703
+
+xiaokailunen360.wav
+trans: "UNABLE CLE APPROACH DUE CONPIN OLC
+refer:  REQUEST DEFORTION"
+WER: 0.5     CER: 0.290909091
+
+xujiadongen391.wav
+trans: FORM CROSS BKM VOR AT O BEFO55
+refer: "AFFIRM
+WER: 0.5     CER: 0.233333333
+
+yinnanen346.wav
+trans: "DESCEND TO FL100
+refer:  CROSS IUPE UFO FL OR ABROVE"
+WER: 0.5     CER: 0.264705882
+
+lihanlongen013.wav
+trans: UNABLE TO BAH FL150 BY ZH OLES5DEPERFORMANCE
+refer: UNABLE TO REACH FL150 BY ZHO DUE PERFORMANCE
+WER: 0.5     CER: 0.216216216
+
+xiaokailunen387.wav
+trans: "MAINTAINING FL310
+refer:  UNTIL ARDWIST"
+WER: 0.5     CER: 0.178571429
+
+heweilongen096.wav
+trans: "START UP AT 3 5T
+refer:  QN7"
+WER: 0.5     CER: 0.222222222
+
+chenxiaodaen275.wav
+trans: REQUEST 15 0I FIL
+refer: REQUEST 15 MILES FINAL
+WER: 0.5     CER: 0.315789474
+
+zhangyizeen245.wav
+trans: TURN RIGHT 30TDGREES
+refer: TURN RIGHT 20 DEGREES
+WER: 0.5     CER: 0.166666667
+
+xujiahongen142.wav
+trans: "CLARED FOR TAKEOFF
+refer:  HO RUNWAY 06
+WER: 0.5     CER: 0.15625
+
+linjialiangen035.wav
+trans: MAINTAIN MACH POINT 80SE
+refer: MAINTAIN MACH POINT 80 OR LESS
+WER: 0.5     CER: 0.2
+
+lichenzhaoen019.wav
+trans: "DESCEND TO 3000 FEET
+refer: 
+WER: 0.5     CER: 0.102564103
+
+huoguangen041.wav
+trans: MAINTAIRN 160 KNOTS UNTIL OUNTERMAK
+refer: MAINTAIN 160 KNOTS UNTIL OUTER MARKER
+WER: 0.5     CER: 0.15625
+
+liulongfeien124.wav
+trans: "HOLDING
+refer:  CAFC ING IN SIGHT"
+WER: 0.5     CER: 0.227272727
+
+liujingen142.wav
+trans: CLEARED FOR TAKEOFF RUNWAY 06 WLCO
+refer: "CLEARED FOR TAKEOFF
+WER: 0.5     CER: 0.09375
+
+heweilongen001.wav
+trans: MAINTAIN FL310
+refer: MAINTAINING FL310
+WER: 0.5     CER: 0.1875
+
+koushuaien020.wav
+trans: EXTPEDIT DESCEND TO FL180
+refer: EXPEDITE DESCENT TO FL180
+WER: 0.5     CER: 0.136363636
+
+guozhengtingen292.wav
+trans: "EDNG 1N20
+refer:  CORRECTION
+WER: 0.5     CER: 0.16
+
+weihaodongen124.wav
+trans: HOLDING TRAHT IN SIGHT
+refer: "HOLDING
+WER: 0.5     CER: 0.227272727
+
+wumingweien385.wav
+trans: "CONTINUE CLIMB TO FL290
+refer:  CROSS B MIM VO NOTE ABOVE FL 230"
+WER: 0.5     CER: 0.088888889
+
+chenmingliangen216.wav
+trans: REQUEST STAR-LANGING ANE THE GATE
+refer: REQUEST START ENGINE AT THE GATE
+WER: 0.5     CER: 0.222222222
+
+zhoukaihangen238.wav
+trans: SQUAWK STANDBND
+refer: SQUAWK STANDBY
+WER: 0.5     CER: 0.153846154
+
+lihanlongen012.wav
+trans: "DESCENDING TO REAH FL150 BY
+refer:  W"
+WER: 0.5     CER: 0.148148148
+
+heweilongen088.wav
+trans: SAY AGAI A 3000 FEET
+refer: SAY AGAIN ALL AFTER 3000 FEET
+WER: 0.5     CER: 0.333333333
+
+huoguangen099.wav
+trans: RADIOC CHHECK ON 118.3
+refer: RADIO CHECK ON 118.3
+WER: 0.5     CER: 0.117647059
+
+chenmingliangen223.wav
+trans: REQUEST  REMOTE APON FOR ANMAINTENANCE PURBORSE
+refer: REQUEST REMOTE APRON FOR MAINTENANCE PURPOSE
+WER: 0.5     CER: 0.128205128
+
+lijiaqien003.wav
+trans: CREACHING FL190
+refer: REACHING FL190
+WER: 0.5     CER: 0.076923077
+
+wanghanyien169.wav
+trans: OPBI RIGHT NUMBER TWO
+refer: "ORBIT RIGHT
+WER: 0.5     CER: 0.15
+
+wuwenjieen170.wav
+trans: "NUMBER TWO
+refer:  FOLLOW AIBUS 320HEAD"
+WER: 0.5     CER: 0.066666667
+
+zhaoyizeen285.wav
+trans: NEGATIVE AD0BA
+refer: NEGATIVE ADS-B
+WER: 0.5     CER: 0.230769231
+
+luowenen168.wav
+trans: "EXTENND DOWNWIND
+refer:  NUMBER TWO ARBUS320 IN SIGHT"
+WER: 0.5     CER: 0.073170732
+
+liqingjunen054.wav
+trans: NEXT REPORT ATE WA
+refer: NEXT REPORT AT WXA
+WER: 0.5     CER: 0.133333333
+
+pengyideen183.wav
+trans: "WENSHIAE
+refer:  GOING AROUND"
+WER: 0.5     CER: 0.19047619
+
+chenmingliangen244.wav
+trans: TUR RIGHT HEADDING 340
+refer: TURN RIGHT HEADING 340
+WER: 0.5     CER: 0.105263158
+
+weiqingyaoen139.wav
+trans: READY FOR IMMEDIAT DEPAARTURE
+refer: READY FOR IMMEDIATE DEPARTURE
+WER: 0.5     CER: 0.076923077
+
+chenxiaodaen203.wav
+trans: RVR RUNWAY 1CI CT 0 METERS
+refer: RVR RUNWAY 27 IS 600 METERS
+WER: 0.5     CER: 0.227272727
+
+huoguangen010.wav
+trans:  ATER PASSING CGOO DESCENT TO FL80
+refer: AFTER PASSING CGO DESCEND TO FL80
+WER: 0.5     CER: 0.107142857
+
+lilinshenen021.wav
+trans: EXPEDIE CLIMB TO F190
+refer: EXPEDITE CLIMB TO FL190
+WER: 0.5     CER: 0.1
+
+pengyideen114.wav
+trans: BRAKES RESY
+refer: BRAKES RELEASED
+WER: 0.5     CER: 0.357142857
+
+zhouxingyuen246.wav
+trans: LEAVE BKE HEADING 19
+refer: LEAVE BK HEADING 190
+WER: 0.5     CER: 0.117647059
+
+yemaochenen127.wav
+trans: "PRASSING RUNWAY 24
+refer:  ILPO"
+WER: 0.5     CER: 0.181818182
+
+lihanlongen086.wav
+trans: "LA 15
+refer:  INFORMATION C
+WER: 0.5     CER: 0.093023256
+
+weihaodongen111.wav
+trans: "PUSHBACK APPROVED
+refer:  HIING WAT"
+WER: 0.5     CER: 0.185185185
+
+weihaodongen189.wav
+trans: TAXI TO TNDBO RUNWAY
+refer: TAXI TO THE END OF RUNWAY
+WER: 0.5     CER: 0.25
+
+chenmingliangen215.wav
+trans: "DE-CING COMPETED
+refer:  REQUEST TAXI"
+WER: 0.5     CER: 0.068965517
+
+chenzixiongen035.wav
+trans: MAINTAIN APOINT0 OR LESS
+refer: MAINTAIN MACH POINT 80 OR LESS
+WER: 0.5     CER: 0.16
+
+jiangzhixuen079.wav
+trans: "CLEARED TO DESTINATION VIA ZO AM FL PLANNED RUTE
+refer:  D03 DPARTURE
+WER: 0.5     CER: 0.093023256
+
+jiangzhixuen016.wav
+trans: CLIMBINGAUT  1000 FEET PERMINUT OR GREATER
+refer: CLIMBING AT 1000 FEET PER MINUTE OR GREATER
+WER: 0.5     CER: 0.055555556
+
+koujiahuien216.wav
+trans: REQUEST TAINTO AT GATE
+refer: REQUEST START ENGINE AT THE GATE
+WER: 0.5     CER: 0.407407407
+
+liujingen183.wav
+trans: "MAINDSEAR
+refer:  GOING AROUND"
+WER: 0.5     CER: 0.142857143
+
+zhoukaihangen218.wav
+trans: REQUEST PACTTRACK
+refer: REQUEST BACKTRACK
+WER: 0.5     CER: 0.125
+
+/minhang_std900_seen/test/wav/chenshunlongen042.wav
+trans: "DESCED TO FL120 ON PELE CVERHING
+refer:  250 KNOTS"
+WER: 0.5     CER: 0.243902439
+
+/minhang_std900_seen/test/wav/yuanhaoen183.wav
+trans: MAINSIE GOING AROUND
+refer: "WIND SHEAR
+WER: 0.5     CER: 0.333333333
+
+/minhang_std900_seen/test/wav/lihanlongen001.wav
+trans: MAINTAINNG FL310
+refer: MAINTAINING FL310
+WER: 0.5     CER: 0.0625
+
+/minhang_std900_seen/test/wav/pengyideen139.wav
+trans: LEAY FOR IMEDIATE DEPARTURE
+refer: READY FOR IMMEDIATE DEPARTURE
+WER: 0.5     CER: 0.115384615
+
+/minhang_std900_seen/test/wav/liqingjunen004.wav
+trans: MAINTAINING FL90 OR WXIJ
+refer: MAINTAINING FL90 OVER WXJ
+WER: 0.5     CER: 0.136363636
+
+/minhang_std900_seen/test/wav/lijiayuen149.wav
+trans: TAKE OFF IMMEDIATE OVACHAED RUNWAY
+refer: TAKE OFF IMMEDIATELY OR VACATE RUNWAY
+WER: 0.5     CER: 0.1875
+
+/minhang_std900_seen/test/wav/chenshunlongen100.wav
+trans: I 5
+refer: I READ YOU 5
+WER: 0.5     CER: 0.777777778
+
+/minhang_std900_seen/test/wav/liangzhixinen202.wav
+trans: CONFIRM RVR 1UNWAY 37
+refer: CONFIRM RVR RUNWAY 27
+WER: 0.5     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/lijiayuen183.wav
+trans: "ITION
+refer:  GOING AROUND"
+WER: 0.5     CER: 0.380952381
+
+/minhang_std900_seen/test/wav/liulongfeien156.wav
+trans: AFFIRM VEA OXSET INTERSECTION DEPARTURE FROM C2
+refer: "AFFIRM
+WER: 0.5     CER: 0.177777778
+
+/minhang_std900_seen/test/wav/koushuaien056.wav
+trans: OMIT POSITION REPORTS UM I FREQUCECY
+refer: OMIT POSITION REPORTS ON THIS FREQUENCY
+WER: 0.5     CER: 0.205882353
+
+/minhang_std900_seen/test/wav/lilinshenen027.wav
+trans: "MAINTAINIM OU SEPARATION ND VC
+refer:  DESCENDING TO FL80"
+WER: 0.5     CER: 0.127659574
+
+/minhang_std900_seen/test/wav/xujiahongen125.wav
+trans: "CROSS NWAY 244
+refer:  REPORT RUNWAY AVACATED"
+WER: 0.5     CER: 0.121212121
+
+/minhang_std900_seen/test/wav/likunen278.wav
+trans: CONFIRM MILES FREQUENCY FOR RUNWAY 17 L
+refer: CONFIRM ILS FREQUENCY FOR RUNWAY 17L
+WER: 0.5     CER: 0.064516129
+
+/minhang_std900_seen/test/wav/chenxiaodaen234.wav
+trans: TRAFFIC  PASSEED ANT CLEAR
+refer: TRAFFIC PASSED AND CLEAR
+WER: 0.5     CER: 0.095238095
+
+/minhang_std900_seen/test/wav/weiqingyaoen151.wav
+trans: HOLDING POSIATION
+refer: HOLDING POSITION
+WER: 0.5     CER: 0.066666667
+
+/minhang_std900_seen/test/wav/lihanlongen031.wav
+trans: PASSING CONAITION COUNTEREDE REQUEST FURTHER CLIMB
+refer: "ICING CONDITION ENCOUNTERED
+WER: 0.5     CER: 0.177777778
+
+/minhang_std900_seen/test/wav/heweilongen032.wav
+trans: "EXPECIENCING SV TLENCE
+refer:  REQUEST FURTHER DESCENT"
+WER: 0.5     CER: 0.18
+
+/minhang_std900_seen/test/wav/lichenzhaoen088.wav
+trans: SAY AGAIN A1AFK 3000 FEETE
+refer: SAY AGAIN ALL AFTER 3000 FEET
+WER: 0.5     CER: 0.25
+
+/minhang_std900_seen/test/wav/liujingen114.wav
+trans: BRAKES TEASE
+refer: BRAKES RELEASED
+WER: 0.5     CER: 0.285714286
+
+/minhang_std900_seen/test/wav/xiaokailunen390.wav
+trans: "NEGATIVE UNABLE TO
+refer:  CROSS BKM VR BELOW FL18170"
+WER: 0.5     CER: 0.131578947
+
+/minhang_std900_seen/test/wav/koujiahuien281.wav
+trans: TRANSPONDER CHRLE
+refer: TRANSPONDER CHARLIE
+WER: 0.5     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/panlongen117.wav
+trans: REQUEST TAXCI
+refer: REQUEST TAXI
+WER: 0.5     CER: 0.090909091
+
+/minhang_std900_seen/test/wav/koushuaien032.wav
+trans: "EXPERIIENI SEVAEARE TURBULNCE
+refer:  REQUEST FURTHER DESCENT"
+WER: 0.5     CER: 0.14
+
+/minhang_std900_seen/test/wav/weiqingyaoen182.wav
+trans: "NO CONTACT AT MINIMAT
+refer:  GOINNG PROROUND"
+WER: 0.5     CER: 0.2
+
+/minhang_std900_seen/test/wav/chenshunlongen056.wav
+trans: OMIT POSITION REPORT OR ESS FREQUENCY
+refer: OMIT POSITION REPORTS ON THIS FREQUENCY
+WER: 0.5     CER: 0.147058824
+
+/minhang_std900_seen/test/wav/zhaoyizeen246.wav
+trans: TLK HEADING 190
+refer: LEAVE BK HEADING 190
+WER: 0.5     CER: 0.352941176
+
+/minhang_std900_seen/test/wav/wuwenjieen138.wav
+trans: LINNG UP RUNWAY 01CE
+refer: LINING UP RUNWAY 01C
+WER: 0.5     CER: 0.117647059
+
+/minhang_std900_seen/test/wav/lilinshenen052.wav
+trans: CONTACT CONTROL 118. 9
+refer: CONTACT CONTROL ON 118.9
+WER: 0.5     CER: 0.095238095
+
+/minhang_std900_seen/test/wav/yemaochenen162.wav
+trans: "TRAXE  VIA A2
+refer:  BACKTRACKIN LIN UIP RUNWAY 18"
+WER: 0.5     CER: 0.189189189
+
+/minhang_std900_seen/test/wav/lichenzhaoen089.wav
+trans: SAY AGAIN OL BEFOR DEPARTURE FREQUENC
+refer: SAY AGAIN ALL BEFORE DEPARTURE FREQUENCY
+WER: 0.5     CER: 0.114285714
+
+/minhang_std900_seen/test/wav/liangzhixinen297.wav
+trans: PASSING F70
+refer: PASSING FL70
+WER: 0.5     CER: 0.090909091
+
+/minhang_std900_seen/test/wav/yinnanen359.wav
+trans: EXPEED CONWID ESEIND APPROACH AT TIME 50
+refer: EXPECT COMMENCING APPROACH AT TIME 50
+WER: 0.5     CER: 0.28125
+
+/minhang_std900_seen/test/wav/jiangzhixuen024.wav
+trans: "DESCENDING IMMEDINELY TO FL200
+refer:  GDU TRAFFIC"
+WER: 0.5     CER: 0.131578947
+
+/minhang_std900_seen/test/wav/liuxinpengen235.wav
+trans: CQUAWK 7563
+refer: SQUAWK 7563
+WER: 0.5     CER: 0.1
+
+/minhang_std900_seen/test/wav/luowenen170.wav
+trans: "MEI TWO
+refer:  FOHOW AIRBUS 320 AHEACD"
+WER: 0.5     CER: 0.233333333
+
+/minhang_std900_seen/test/wav/suntianqien230.wav
+trans: ORBIT LECT FOR DELAAY
+refer: ORBIT LEFT FOR DELAY
+WER: 0.5     CER: 0.117647059
+
+/minhang_std900_seen/test/wav/wuwenjieen183.wav
+trans: "RESHE
+refer:  GOING AROUND"
+WER: 0.5     CER: 0.285714286
+
+/minhang_std900_seen/test/wav/liuxinpengen295.wav
+trans: RIGH HEADING 040 UNTIL PASSING FL 70 VA DIRECT TO PAO
+refer: RIGHT HEADING 040 UNTIL PASSING FL70 THEN DIRECT TO BK
+WER: 0.5     CER: 0.177777778
+
+/minhang_std900_seen/test/wav/yemaochenen114.wav
+trans: BRAKES RITSE
+refer: BRAKES RELEASED
+WER: 0.5     CER: 0.357142857
+
+/minhang_std900_seen/test/wav/zengyunianen269.wav
+trans: TAXIT REPORT AT IAP
+refer: NEXT REPORT AT IP
+WER: 0.5     CER: 0.285714286
+
+/minhang_std900_seen/test/wav/liujingen117.wav
+trans: REQUEST TAXIN
+refer: REQUEST TAXI
+WER: 0.5     CER: 0.090909091
+
+/minhang_std900_seen/test/wav/liangzhixinen298.wav
+trans: "DESCEDING TO 4000 FEET
+refer:  QNH 105 DISPA ILS APPROACH RUNWAY 24"
+WER: 0.5     CER: 0.169811321
+
+/minhang_std900_seen/test/wav/xiaokailunen400.wav
+trans: "TE O 1EAT0ER
+refer:  REQUEST TO RESUME FI  ROUTE"
+WER: 0.5     CER: 0.268292683
+
+/minhang_std900_seen/test/wav/weiqingyaoen105.wav
+trans: "ESTAND 27
+refer:  REQUEST PUBACK"
+WER: 0.5     CER: 0.130434783
+
+/minhang_std900_seen/test/wav/chenmingliangen292.wav
+trans: "HADING 120
+refer:  CORRECTION 140"
+WER: 0.5     CER: 0.08
+
+/minhang_std900_seen/test/wav/jiangzhixuen020.wav
+trans: EXPEDIE DESCEND TO FL180
+refer: EXPEDITE DESCENT TO FL180
+WER: 0.5     CER: 0.090909091
+
+/minhang_std900_seen/test/wav/lijiaqien031.wav
+trans: "ICING CONDTION EUTERD
+refer:  REQUEST FUHR CLIMB"
+WER: 0.5     CER: 0.2
+
+/minhang_std900_seen/test/wav/lijiayuen109.wav
+trans: "PUSHBACK APPROVED
+refer:  LOUTK SBRACK"
+WER: 0.5     CER: 0.206896552
+
+/minhang_std900_seen/test/wav/zengyunianen215.wav
+trans: "DE-CING COMRETED
+refer:  REQUEST TAXI"
+WER: 0.5     CER: 0.103448276
+
+/minhang_std900_seen/test/wav/chenxiaodaen295.wav
+trans: RIGHT HEADING 0F RUIL PASSING FL7 0 THEN IREY TO BK
+refer: RIGHT HEADING 040 UNTIL PASSING FL70 THEN DIRECT TO BK
+WER: 0.5     CER: 0.155555556
+
+/minhang_std900_seen/test/wav/linjialiangen014.wav
+trans: "CLIMBING TO FL290
+refer:  TO BELE B55"
+WER: 0.5     CER: 0.137931034
+
+/minhang_std900_seen/test/wav/wanghanyien151.wav
+trans: HODING POSITION
+refer: HOLDING POSITION
+WER: 0.5     CER: 0.066666667
+
+/minhang_std900_seen/test/wav/liuzhilinen145.wav
+trans: "BEHEAD AIRBOUS ON SHORT FLINAL
+refer:  LINE UP BEHENTD"
+WER: 0.5     CER: 0.162162162
+
+/minhang_std900_seen/test/wav/xujiahongen127.wav
+trans: CROSSING RUNWAY 24H
+refer: "CROSSING RUNWAY 24
+WER: 0.5     CER: 0.272727273
+
+/minhang_std900_seen/test/wav/jiangzhixuen083.wav
+trans: "RECLEARED TO DESTINATION VI Z0F 01 DEPARTURE
+refer:  RUNWAY 36R
+WER: 0.5     CER: 0.081081081
+
+/minhang_std900_seen/test/wav/guozhengtingen238.wav
+trans: SQUAWK STANDBE
+refer: SQUAWK STANDBY
+WER: 0.5     CER: 0.076923077
+
+caolangen085.wav
+trans: "CLEARED TO DESTINTIAON VI FLIGHT CLAM ROUTE
+refer:  INITIAL CLIMBTO 2000 700 FEET
+WER: 0.476190476     CER: 0.150793651
+
+/minhang_std900_seen/test/wav/liqingjunen085.wav
+trans: "CLEARED TO DESTINATION VIA FLIGHT PLANND ROUTE
+refer:  IVITA CLIMB TO20000 FEET
+WER: 0.476190476     CER: 0.126984127
+
+panlongen134.wav
+trans: BEHEND BOEING747 PASSING LESS TO RI TAXI T HOLDING PONT AP-R1 RUNWAY 24
+refer: "BEHIND BOEING747 PASSING LEFT TO RIGHT
+WER: 0.461538462     CER: 0.193548387
+
+dongyuchenen067.wav
+trans: "CLEARED TO ILETD HOLD
+refer:  FLY DI RECT TO M L
+WER: 0.461538462     CER: 0.103448276
+
+koushuaien078.wav
+trans: "CLEARED TO DESTINATION FLIGHT ANND ROUTE
+refer:  CRUSINLEVEL 330
+WER: 0.454545455     CER: 0.073825503
+
+jiangzhixuen098.wav
+trans: "EXPECT DEPARTUR AT O 9
+refer:  START UP AT OWN DISCRETION
+WER: 0.454545455     CER: 0.08
+
+/minhang_std900_seen/test/wav/weiqingyaoen161.wav
+trans: "LINE AND WAIT
+refer:  UNDERSHAOND 1 AIRCRAFT TO DEP FA FROM A2"
+WER: 0.454545455     CER: 0.204081633
+
+luowenen129.wav
+trans: GIVING WAY TO BN747 PASSING FRORM LEFT  RI
+refer: GIVING WAY TO B747 PASSING FROM LEFT TO RIGHT
+WER: 0.444444444     CER: 0.189189189
+
+dongyuchenen091.wav
+trans: UNABLE TO CROSS L.Y FL150 DUE WEIGHT
+refer: "UNABLE TO CROSS LX FL150 DUE WEIGHT
+WER: 0.444444444     CER: 0.413043478
+
+/minhang_std900_seen/test/wav/koushuaien066.wav
+trans: DELAY NOT DETER MINEMUES AIRCRAFT HOLDING FOR WEATHER INPOEH MAINTER
+refer: "DELAY NOT DETERMINED
+WER: 0.444444444     CER: 0.238095238
+
+/minhang_std900_seen/test/wav/koushuaien091.wav
+trans: "NUNABLE TO CROSS LA FL150 DUE WE
+refer:  MAITEINNG FL130"
+WER: 0.444444444     CER: 0.195652174
+
+dongyuchenen071.wav
+trans: "AFTER PASSING SY  OR LEAVET HOLD ON APBY 240
+refer:  CLEARED FOR V OR APPROACH RUNWAY 06"
+WER: 0.4375     CER: 0.152777778
+
+liangzhixinen211.wav
+trans: CONFIRM THE REASON FOR INMCONG OR AIRCAFT
+refer: CONFIRM THE REASON FOR IMPOUNDING OUR AIRCRAFT
+WER: 0.428571429     CER: 0.2
+
+chenshunlongen005.wav
+trans: "CONTIE DECENTAT 3000 FEET
+refer:  QNH 1012"
+WER: 0.428571429     CER: 0.151515152
+
+guozhengtingen211.wav
+trans:  CONFIRM REASON FOR APOD A AIRCRAFT
+refer: CONFIRM THE REASON FOR IMPOUNDING OUR AIRCRAFT
+WER: 0.428571429     CER: 0.325
+
+zengyunianen276.wav
+trans: MAINTAIN 3000 FEET TIL GLIDE PAT AFEPTION
+refer: MAINTAIN 3000 FEET UNTIL GLIDE PATH INTERCEPTION
+WER: 0.428571429     CER: 0.214285714
+
+yuweiweien382.wav
+trans: "MATAINING FL350
+refer:  EXPECT DESCENT AFTERD BKM V"
+WER: 0.428571429     CER: 0.12195122
+
+pengyideen159.wav
+trans: REQUEST ACEERCE STOP DISTANCE AVAIAILABLE FROM INTERSECTION D1
+refer: REQUEST ACCELERATE-STOP DISTANCE AVAILABLE FROM INTERSECTION D1
+WER: 0.428571429     CER: 0.122807018
+
+zhaoyizeen219.wav
+trans: "ILE BK-1A DEPARTURE DUE PERFORMANC
+refer:  REQUEST  BK1B"
+WER: 0.428571429     CER: 0.127659574
+
+/minhang_std900_seen/test/wav/wuwenjieen188.wav
+trans: TAXI TO STAND 27 VITWA
+refer: TAXI TO STAND 27 VIA TAXIWAY A
+WER: 0.428571429     CER: 0.25
+
+/minhang_std900_seen/test/wav/wanghanyien158.wav
+trans: REQUEST TAKEOFF RUNW WAYABLE FROM MINTERSECTION C2
+refer: REQUEST TAKEOFF RUNWAY AVAILABLE FROM INTERSECTION C2
+WER: 0.428571429     CER: 0.14893617
+
+/minhang_std900_seen/test/wav/chenxien228.wav
+trans: SIT MILES FROM TOUCHDOWN CONTACT O APPROACH 118.1
+refer: "30 MILES FROM TOUCHDOWN
+WER: 0.428571429     CER: 0.12195122
+
+/minhang_std900_seen/test/wav/wuhaoen331.wav
+trans: "DESCEND TO REACH 5000 FEET
+refer:  5 BY"
+WER: 0.428571429     CER: 0.115384615
+
+/minhang_std900_seen/test/wav/heweilongen009.wav
+trans: "FLY DICT TO SIYHA
+refer:  N BELOW FL180"
+WER: 0.428571429     CER: 0.214285714
+
+/minhang_std900_seen/test/wav/guozhengtingen206.wav
+trans: CONFIRM MIDPOINT RV MORETHEN 550 METERS
+refer: CONFIRM MIDPOINT RVR MORE THAN 550 METERS
+WER: 0.428571429     CER: 0.057142857
+
+/minhang_std900_seen/test/wav/yemaochenen163.wav
+trans: "AIRBUSE 330 HEAING 8000 FEET
+refer:  INFORMATION VACTO"
+WER: 0.428571429     CER: 0.25
+
+/minhang_std900_seen/test/wav/xujiadongen377.wav
+trans: "CONTINUE APPROACH
+refer:  PAE POAET POSSIBLOE GO AROUND"
+WER: 0.428571429     CER: 0.162790698
+
+/minhang_std900_seen/test/wav/yuweiweien329.wav
+trans: "PROSITION READER APPROACH RUNWAY 27 HEADING 260
+refer:  DESCENDING TO 200000 FEET
+WER: 0.416666667     CER: 0.115942029
+
+xuziaoen175.wav
+trans: "SHORT FINAL
+refer:  WQUEST1I CHECK"
+WER: 0.4     CER: 0.185185185
+
+guanweihanen094.wav
+trans: "SART UP APPROVED
+refer:  NH 29.91"
+WER: 0.4     CER: 0.083333333
+
+zhoukaihangen260.wav
+trans: JO NOT EXCET 280 KNOTS
+refer: DO NOT EXCEED 280 KNOTS
+WER: 0.4     CER: 0.157894737
+
+dongyuchenen038.wav
+trans: REDUCE TO MIIMU CE SPEED
+refer: REDUCE TO MINIMUM CLEAN SPEED
+WER: 0.4     CER: 0.2
+
+zhaoyizeen221.wav
+trans: "E AIRBORNE
+refer:  TRACK EXSTENEED CENTERLINE
+WER: 0.4     CER: 0.109375
+
+zhouxingyuen205.wav
+trans: CONFIRM STOP-PEND ARV 150 METERS
+refer: CONFIRM STOP-END RVR 150 METERS
+WER: 0.4     CER: 0.111111111
+
+zhangyizeen225.wav
+trans: RESUME R NIGATION TO BK
+refer: RESUME OWN NAVIGATION TO BK
+WER: 0.4     CER: 0.217391304
+
+pengyideen175.wav
+trans: "STOT FINAL
+refer:  REQUEST WEID CHECK"
+WER: 0.4     CER: 0.148148148
+
+lilinshenen026.wav
+trans: "IVING FL200
+refer:  IBING TO FL280"
+WER: 0.4     CER: 0.214285714
+
+suntianqien288.wav
+trans: STOP SQUAWK TRANSMITER ADS-B ONLD
+refer: STOP SQUAWK TRANSMIT ADS-B ONLY
+WER: 0.4     CER: 0.111111111
+
+pengyideen137.wav
+trans: CANCEL SIDING MITI RUNWAY HEADING
+refer: "CANCEL SID
+WER: 0.4     CER: 0.225806452
+
+chenzixiongen047.wav
+trans: REQUEST JO 1DOWN1ONT RUNWAY 31
+refer: REQUEST JOIN DOWNWIND RUNWAY 31
+WER: 0.4     CER: 0.185185185
+
+zhangyizeen249.wav
+trans: REQUEST HEADING 180 DOUE REATHER
+refer: REQUEST HEADING 180 DUE WEATHER
+WER: 0.4     CER: 0.074074074
+
+jiangzhixuen047.wav
+trans: REQUEST JO DOWNWIIND RUNWAY 31
+refer: REQUEST JOIN DOWNWIND RUNWAY 31
+WER: 0.4     CER: 0.111111111
+
+heshuchangen254.wav
+trans: MAINTAIN 30 CONS OR LESS
+refer: MAINTAIN 300 KNOTS OR LESS
+WER: 0.4     CER: 0.181818182
+
+yinnanen316.wav
+trans: "HOLD ON THE 265 AL OR BKM VOR BEJ 25 AND 30 MILES DEMI FL10
+refer:  INBOUNDTRAC 0 85
+WER: 0.4     CER: 0.151785714
+
+/minhang_std900_seen/test/wav/yuweiweien343.wav
+trans: "CLIMB TO FL210
+refer:  CROSS A  AT FL100 OR BELW"
+WER: 0.4     CER: 0.058823529
+
+/minhang_std900_seen/test/wav/zhoukaihangen295.wav
+trans: RIGH U EAING 040 UNTIL PASSING FL70 L DIRECT TO BK
+refer: RIGHT HEADING 040 UNTIL PASSING FL70 THEN DIRECT TO BK
+WER: 0.4     CER: 0.155555556
+
+/minhang_std900_seen/test/wav/xujiadongen312.wav
+trans: CLEAREDE VESIAL APPROACH RUNWAY 24
+refer: CLEARED VISUAL APPROACH RUNWAY 24
+WER: 0.4     CER: 0.103448276
+
+/minhang_std900_seen/test/wav/zhangyuen261.wav
+trans: RADIUE PEA TO  240 KNOTS
+refer: REDUCE SPEED TO 240 KNOTS
+WER: 0.4     CER: 0.285714286
+
+/minhang_std900_seen/test/wav/lichenzhaoen047.wav
+trans: "REQUEST JOIDOWNWIND
+refer:  RUNWAY 31"
+WER: 0.4     CER: 0.074074074
+
+/minhang_std900_seen/test/wav/liulongfeien166.wav
+trans: "NUMBER TWO
+refer:  TRAFC I IN SIGHT"
+WER: 0.4     CER: 0.083333333
+
+/minhang_std900_seen/test/wav/caolangen064.wav
+trans: REVISO VECTEED APPROACH TIME 54
+refer: REVISED EXPECTED APPROACH TIME 54
+WER: 0.4     CER: 0.206896552
+
+/minhang_std900_seen/test/wav/wanghanyien126.wav
+trans: "UNAL TO VACAED VIA A2
+refer:  REQUEST FORLO LONGT OF RUNWAY"
+WER: 0.4     CER: 0.2
+
+/minhang_std900_seen/test/wav/hanzhihaoen038.wav
+trans: REDUCE TO MIEMOR CL0ARC SPEED
+refer: REDUCE TO MINIMUM CLEAN SPEED
+WER: 0.4     CER: 0.28
+
+/minhang_std900_seen/test/wav/lihanlongen090.wav
+trans: SAY AGAIN TE INITIAL ALTEICU
+refer: SAY AGAIN THE INITIAL ALTITUDE
+WER: 0.4     CER: 0.192307692
+
+/minhang_std900_seen/test/wav/liangzhixinen221.wav
+trans: "WHEN AIRBORNE
+refer:  TRACK EXTETE CENLIT CLEARIED FOR TAKEOFF RUNWAY 18"
+WER: 0.4     CER: 0.1875
+
+/minhang_std900_seen/test/wav/linghaiyangen207.wav
+trans: "CONFIRM SHOURLDT
+refer:  RUNWAY 27 DIL"
+WER: 0.4     CER: 0.424242424
+
+/minhang_std900_seen/test/wav/liangzhixinen260.wav
+trans: DUE NOT EXCEET 280 KNOTS
+refer: DO NOT EXCEED 280 KNOTS
+WER: 0.4     CER: 0.157894737
+
+/minhang_std900_seen/test/wav/chenzixiongen064.wav
+trans: WID EXPET APPROACH TIME 54
+refer: REVISED EXPECTED APPROACH TIME 54
+WER: 0.4     CER: 0.275862069
+
+/minhang_std900_seen/test/wav/hanzhihaoen026.wav
+trans: "LEAVING FL200
+refer:  CLIMB TO FL30"
+WER: 0.4     CER: 0.178571429
+
+/minhang_std900_seen/test/wav/koushuaien074.wav
+trans: "HOLD SOUTH SLO AMS VOR AT 9000 FEET
+refer:  IBOUN THACK 270 DUEGREES
+WER: 0.391304348     CER: 0.14159292
+
+/minhang_std900_seen/test/wav/lichenzhaoen081.wav
+trans: "CLEARED F ZFF01 DEPARTURE
+refer:  INITIAL ALTITUDE 5000FEET DEPARTURE FREQUENCY 125.9
+WER: 0.388888889     CER: 0.059322034
+
+pengyideen134.wav
+trans: CHIN BOLEIECN7 PASSING LEFT TO RIGHT TAXI TO HOLDING POINT A RUNWAY
+refer: "BEHIND BOEING747 PASSING LEFT TO RIGHT
+WER: 0.384615385     CER: 0.193548387
+
+jiangzhixuen067.wav
+trans: "CLEARED TO ED H HOLD
+refer:  FLY DIRECT TO ML COTACTAPPROACH ON 128.35"
+WER: 0.384615385     CER: 0.120689655
+
+/minhang_std900_seen/test/wav/liqingjunen018.wav
+trans: "RIGHT HEADING 330
+refer:  DESCENDING TO 3000FEET
+WER: 0.384615385     CER: 0.029850746
+
+lichenzhaoen013.wav
+trans: UNABLE TDOE WEACH FL150 BY O DUE PERFORMANCE
+refer: UNABLE TO REACH FL150 BY ZHO DUE PERFORMANCE
+WER: 0.375     CER: 0.135135135
+
+koushuaien071.wav
+trans: "AFTER PASSINSKV OR LEAVE THE HOLD HEAING 250
+refer:  CLEARED FOR VORR APPROACH RUNWAY 06"
+WER: 0.375     CER: 0.097222222
+
+heweilongen046.wav
+trans: REQUEST RADAR VEC TOR FOR MITA APPROACH RUNWAY 22
+refer: REQUEST RADAR VECTORS FOR VISUAL APPROACH RUNWAY 22
+WER: 0.375     CER: 0.113636364
+
+linjialiangen042.wav
+trans: "DESCENT TO FL120
+refer:  ON SPEED COSITION
+WER: 0.375     CER: 0.170731707
+
+lijiayuen156.wav
+trans: AFFIRM WE CUNSIPT INTERSECTION DEPARTURE FROM C2
+refer: "AFFIRM
+WER: 0.375     CER: 0.133333333
+
+chenshunlongen025.wav
+trans: "WHEN READY CTIM TO FL280
+refer:  REPORT LELEAVING FL200"
+WER: 0.375     CER: 0.12195122
+
+chenmingliangen257.wav
+trans: MAINDAN SPEED TO80 KNOTS OR GREATER FOR SSPARATION
+refer: MAINTAIN SPEED 280 KNOTS OR GREATER FOR SEPARATION
+WER: 0.375     CER: 0.11627907
+
+weiqingyaoen186.wav
+trans: "TAKE FIORT RG
+refer:  WHEN WACAED CONTACT GROUND 118.35"
+WER: 0.375     CER: 0.173913043
+
+wuhaoen337.wav
+trans: "MAINTAIN OW SEPARATION D  VMC
+refer:  DESCENT TO FL50"
+WER: 0.375     CER: 0.097560976
+
+huoguangen013.wav
+trans: UNABLE TO REACH FL150 BY ZHOOFEDUE EFOLS
+refer: UNABLE TO REACH FL150 BY ZHO DUE PERFORMANCE
+WER: 0.375     CER: 0.297297297
+
+dongyuchenen007.wav
+trans: CLEARED TO ETER CONTROLLED AIRSPACE NOT ABLFL100
+refer: CLEARED TO ENTER CONTROLLED AIRSPACE NOT ABOVE FL100
+WER: 0.375     CER: 0.088888889
+
+chenzixiongen016.wav
+trans: "CLIMBING LAT 1000 FEET
+refer:  PER MINUTES OR GREATER"
+WER: 0.375     CER: 0.083333333
+
+dongyuchenen016.wav
+trans: CLIMING AT 1000 FEET EMITE OR GREATER
+refer: CLIMBING AT 1000 FEET PER MINUTE OR GREATER
+WER: 0.375     CER: 0.138888889
+
+/minhang_std900_seen/test/wav/liqingjunen013.wav
+trans: UNA TO REAH FL150 BY ZH DUE PERFORMANCE
+refer: UNABLE TO REACH FL150 BY ZHO DUE PERFORMANCE
+WER: 0.375     CER: 0.135135135
+
+/minhang_std900_seen/test/wav/linjialiangen019.wav
+trans: "DESCEND TO 3000 FEET
+refer:  DENFORMATION PA IS PREET"
+WER: 0.375     CER: 0.179487179
+
+/minhang_std900_seen/test/wav/caolangen025.wav
+trans: "WEREAY
+refer:  CLIMB TO FL280
+WER: 0.375     CER: 0.12195122
+
+/minhang_std900_seen/test/wav/limingnanen017.wav
+trans: "WHEN REA
+refer:  DESCEND TO FL210
+WER: 0.375     CER: 0.114285714
+
+wumingweien358.wav
+trans: CLEARED VIOLR APPROACH RUNWAY 36 FUL BY SRIRCLIING TO RUNWAY 18
+refer: "CLEARED VOR APPROACH RUNWAY 36
+WER: 0.363636364     CER: 0.218181818
+
+jiangzhixuen084.wav
+trans: "RECLEARED TO DESTINATION VIA B213
+refer:  WA F R343
+WER: 0.363636364     CER: 0.084745763
+
+/minhang_std900_seen/test/wav/chenzixiongen098.wav
+trans: "EXPECT PARTURE AT FO9 START UP AT OWN DISCRESION
+refer:  AQNH 1004"
+WER: 0.363636364     CER: 0.14
+
+/minhang_std900_seen/test/wav/koushuaien098.wav
+trans: "EXVEC DEPARTURE AT4U 9R START UP AT DISCRETION
+refer:  QNH 1004"
+WER: 0.363636364     CER: 0.14
+
+guozhengtingen294.wav
+trans: CONFIRM WE ARE STILL ABOVE YOUR MINIMITE VECTURN AELTTUDE
+refer: CONFIRM WE ARE STILL ABOVE YOUR MINIMUM VECTORING ALTITUDE
+WER: 0.333333333     CER: 0.16
+
+yinnanen325.wav
+trans: THEE SETING TURN LEFT FOR DELAY
+refer: THREE SIXTY TURN LEFT FOR DELAY
+WER: 0.333333333     CER: 0.230769231
+
+dongyuchenen057.wav
+trans: REN POSITION REPORTING
+refer: RESUME POSITION REPORTING
+WER: 0.333333333     CER: 0.173913043
+
+zhouxingyuen296.wav
+trans: "D TO 2
+refer:  DESCEND TO FL50"
+WER: 0.333333333     CER: 0.291666667
+
+lichenzhaoen034.wav
+trans: MAINTAIN MAH POINT3 84 OR GREATER
+refer: MAINTAIN MACH POINT 84 OR GREATER
+WER: 0.333333333     CER: 0.071428571
+
+yemaochenen144.wav
+trans: A  AIRBUS ON FINALL IN SIGHT
+refer: THE AIRBUS ON FINAL IN SIGHT
+WER: 0.333333333     CER: 0.173913043
+
+likunen220.wav
+trans: REQUEST DEPARTURE SSTRUCTION
+refer: REQUEST DEPARTURE INSTRUCTION
+WER: 0.333333333     CER: 0.074074074
+
+yuanhaoen181.wav
+trans: "RUNWAY NO IN SIGHT
+refer:  GOING "
+WER: 0.333333333     CER: 0.25
+
+xujiahongen135.wav
+trans: REAY FOR DEPARTURE
+refer: READY FOR DEPARTURE
+WER: 0.333333333     CER: 0.058823529
+
+chenxien299.wav
+trans: REQUES STRAIGTEDE ILS APPROACH RUNWAY 24
+refer: REQUEST STRAIGHT-IN ILS APPROACH RUNWAY 24
+WER: 0.333333333     CER: 0.135135135
+
+chenxien240.wav
+trans: STOPPING SQUAWK CR
+refer: STOPPING SQUAWK CHARLIE
+WER: 0.333333333     CER: 0.238095238
+
+lihanlongen057.wav
+trans: RESUME POSITION REPORING
+refer: RESUME POSITION REPORTING
+WER: 0.333333333     CER: 0.043478261
+
+liqingjunen033.wav
+trans: RDUCE  SPEED TO MACH DIMA 76
+refer: REDUCE SPEED TO MACH DECIMAL 76
+WER: 0.333333333     CER: 0.153846154
+
+lijiayuen200.wav
+trans: CONFIRM VISISBEILITE PO THAN 1000 METERS
+refer: CONFIRM VISIBILITY MORE THAN 1000 METERS
+WER: 0.333333333     CER: 0.171428571
+
+suntianqien247.wav
+trans: FLYHT HEADING 285
+refer: FLY HEADING 285
+WER: 0.333333333     CER: 0.153846154
+
+guanweihanen057.wav
+trans: PETHIN POSITION REPORTING
+refer: RESUME POSITION REPORTING
+WER: 0.333333333     CER: 0.217391304
+
+chenshunlongen069.wav
+trans: READY F APPROACH
+refer: READY FOR APPROACH
+WER: 0.333333333     CER: 0.125
+
+lihanlongen036.wav
+trans: MAINTAINN PRESENT SPEED
+refer: MAINTAIN PRESENT SPEED
+WER: 0.333333333     CER: 0.05
+
+luowenen119.wav
+trans: "TAXI TO HOLDING POINT ROUNWAY 2 4
+refer:  TRAFFIC IN SIGHT"
+WER: 0.333333333     CER: 0.024390244
+
+caolangen028.wav
+trans: "REACHING 8000 FEET
+refer: 
+WER: 0.333333333     CER: 0.055555556
+
+linghaiyangen240.wav
+trans: STOPPING SQUAWK C
+refer: STOPPING SQUAWK CHARLIE
+WER: 0.333333333     CER: 0.285714286
+
+xiaokailunen311.wav
+trans: REQUEST VIUA APPROACH
+refer: REQUEST VISUAL APPROACH
+WER: 0.333333333     CER: 0.095238095
+
+chenshunlongen028.wav
+trans: "REACHING 8000 FEET
+refer:  REQUEST FURN THER CLIMB"
+WER: 0.333333333     CER: 0.027777778
+
+jiangzhixuen012.wav
+trans: DESCENDING TO REACH FL150 BY W  EIN
+refer: DESCENDING TO REACH FL150 BY WXI
+WER: 0.333333333     CER: 0.074074074
+
+limingnanen041.wav
+trans: MAINTAIN 160 KNOTS UNTIL ATER MAER
+refer: MAINTAIN 160 KNOTS UNTIL OUTER MARKER
+WER: 0.333333333     CER: 0.125
+
+wuwenjieen142.wav
+trans: "CEAED FOR TAKEOFF
+refer:  RUNWAY 06
+WER: 0.333333333     CER: 0.15625
+
+zengyunianen243.wav
+trans: NEGATIVE SQUAWK IDEN DUE TRANSPONDER FALURE
+refer: NEGATIVE SQUAWK IDENT DUE TRANSPONDER FAILURE
+WER: 0.333333333     CER: 0.05
+
+suntianqien240.wav
+trans: STOPPING SQUAWK CH
+refer: STOPPING SQUAWK CHARLIE
+WER: 0.333333333     CER: 0.238095238
+
+wumingweien361.wav
+trans: REQUEST RAA APPROACH
+refer: REQUEST RNAV APPROACH
+WER: 0.333333333     CER: 0.105263158
+
+zhaoyizeen236.wav
+trans: RESET SQUAWK 5191
+refer: RESET SQUAWK 5101
+WER: 0.333333333     CER: 0.066666667
+
+liqingjunen069.wav
+trans: READY FO APPROACH
+refer: READY FOR APPROACH
+WER: 0.333333333     CER: 0.0625
+
+yuanhaoen120.wav
+trans: REQUEST TA BACK FOR MAINTENANCE URPOSE
+refer: REQUEST TAXI BACK FOR MAINTENANCE PURPOSE
+WER: 0.333333333     CER: 0.083333333
+
+limingnanen069.wav
+trans: RAY FOR APPROACH
+refer: READY FOR APPROACH
+WER: 0.333333333     CER: 0.125
+
+lichenzhaoen015.wav
+trans: DESCEND AN 2000 FET PER MINUTE
+refer: DESCEND AT 2000 FEET PER MINUTE
+WER: 0.333333333     CER: 0.076923077
+
+liuxinpengen224.wav
+trans: CONTINUE PRIHENT HEADING
+refer: CONTINUE PRESENT HEADING
+WER: 0.333333333     CER: 0.090909091
+
+xuziaoen180.wav
+trans: REQUEST LOW PPROACH
+refer: REQUEST LOW APPROACH
+WER: 0.333333333     CER: 0.055555556
+
+/minhang_std900_seen/test/wav/dongyuchenen088.wav
+trans: SAY AGAIN  ATUR 3000 FEET
+refer: SAY AGAIN ALL AFTER 3000 FEET
+WER: 0.333333333     CER: 0.208333333
+
+/minhang_std900_seen/test/wav/zhangyizeen247.wav
+trans: FLGHT HEADING 285
+refer: FLY HEADING 285
+WER: 0.333333333     CER: 0.230769231
+
+/minhang_std900_seen/test/wav/caolangen012.wav
+trans: CENING TO REACH FL150 BY WI
+refer: DESCENDING TO REACH FL150 BY WXI
+WER: 0.333333333     CER: 0.185185185
+
+/minhang_std900_seen/test/wav/heweilongen059.wav
+trans: APPROACH TIME NO DETERMIED DUE WEATHER
+refer: APPROACH TIME NOT DETERMINED DUE WEATHER
+WER: 0.333333333     CER: 0.057142857
+
+/minhang_std900_seen/test/wav/zhouxingyuen247.wav
+trans: LIGH HEADING 285
+refer: FLY HEADING 285
+WER: 0.333333333     CER: 0.307692308
+
+/minhang_std900_seen/test/wav/guanweihanen023.wav
+trans: UNABLE TO PECTT CLIMB DUE WEIHT
+refer: UNABLE TO EXPEDITE CLIMB DUE WEIGHT
+WER: 0.333333333     CER: 0.2
+
+/minhang_std900_seen/test/wav/huoguangen050.wav
+trans: REQUEST FREQUENCY CAE
+refer: REQUEST FREQUENCY CHANGE
+WER: 0.333333333     CER: 0.136363636
+
+/minhang_std900_seen/test/wav/heweilongen036.wav
+trans: MAINTAIN PESENT SPEED
+refer: MAINTAIN PRESENT SPEED
+WER: 0.333333333     CER: 0.05
+
+/minhang_std900_seen/test/wav/zhoukaihangen240.wav
+trans: STOPPING SQUAWK CHARLE
+refer: STOPPING SQUAWK CHARLIE
+WER: 0.333333333     CER: 0.047619048
+
+/minhang_std900_seen/test/wav/linjialiangen055.wav
+trans: OMAIT POSITION REPORTS
+refer: OMIT POSITION REPORTS
+WER: 0.333333333     CER: 0.052631579
+
+/minhang_std900_seen/test/wav/chenmingliangen287.wav
+trans: STU ADS-B TRANSMISSION
+refer: STOP ADS-B TRANSMISSION
+WER: 0.333333333     CER: 0.095238095
+
+/minhang_std900_seen/test/wav/pengyideen107.wav
+trans: STAND B PUSHBACK
+refer: STAND BY PUSHBACK
+WER: 0.333333333     CER: 0.066666667
+
+/minhang_std900_seen/test/wav/yuweiweien313.wav
+trans: REQUEST HOLDING ISTRICTIONS
+refer: REQUEST HOLDING INSTRUCTIONS
+WER: 0.333333333     CER: 0.076923077
+
+/minhang_std900_seen/test/wav/guanweihanen002.wav
+trans: DESCENDING TO F290
+refer: DESCENDING TO FL290
+WER: 0.333333333     CER: 0.058823529
+
+/minhang_std900_seen/test/wav/koujiahuien299.wav
+trans: REQUEST GAIT ITAE APPROACH RUNWAY 24
+refer: REQUEST STRAIGHT-IN ILS APPROACH RUNWAY 24
+WER: 0.333333333     CER: 0.27027027
+
+/minhang_std900_seen/test/wav/chenxiaodaen247.wav
+trans: FLY HEADNG 285
+refer: FLY HEADING 285
+WER: 0.333333333     CER: 0.076923077
+
+/minhang_std900_seen/test/wav/zhouxingyuen266.wav
+trans: REQUEST SPEED 270 KNOTS DUE CONFINATION
+refer: REQUEST SPEED 200 KNOTS DUE CONFIGURATION
+WER: 0.333333333     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/chenshunlongen050.wav
+trans: REQUEST  FREQUENCY CHANGT
+refer: REQUEST FREQUENCY CHANGE
+WER: 0.333333333     CER: 0.045454545
+
+/minhang_std900_seen/test/wav/chenmingliangen258.wav
+trans: CROSS CK AT FL35 OR LEATER
+refer: CROSS CK AT 35 OR LATER
+WER: 0.333333333     CER: 0.166666667
+
+/minhang_std900_seen/test/wav/hanzhihaoen096.wav
+trans: "SLOG UP AT 35
+refer:  QECH 997"
+WER: 0.333333333     CER: 0.333333333
+
+/minhang_std900_seen/test/wav/qiujinzhuanen118.wav
+trans: TASE VIEAR TAXIWAY C TO HOLDING POINGH RUNWAY  24
+refer: TAXI VIA TAXIWAY C TO HOLDING POINT RUNWAY 24
+WER: 0.333333333     CER: 0.162162162
+
+/minhang_std900_seen/test/wav/zhaoyizeen226.wav
+trans: CONFIRM IDENTIFICATION MOSTS
+refer: CONFIRM IDENTIFICATION LOST
+WER: 0.333333333     CER: 0.08
+
+/minhang_std900_seen/test/wav/limingnanen031.wav
+trans: ICING CONDECIND INCOUNTERD REQUEST FURTHER CLIMB
+refer: "ICING CONDITION ENCOUNTERED
+WER: 0.333333333     CER: 0.155555556
+
+/minhang_std900_seen/test/wav/dongyuchenen083.wav
+trans: "RECLEARED TO DESTINATION VI ZF01 DEPARTURE
+refer:  RUNWAY 36R
+WER: 0.333333333     CER: 0.067567568
+
+/minhang_std900_seen/test/wav/pengyideen144.wav
+trans: AIRBUS ON FINAL I SIGHT
+refer: THE AIRBUS ON FINAL IN SIGHT
+WER: 0.333333333     CER: 0.173913043
+
+/minhang_std900_seen/test/wav/liuzhilinen181.wav
+trans: "RUNWAY NOT ISITD
+refer:  GOING AROUND"
+WER: 0.333333333     CER: 0.142857143
+
+/minhang_std900_seen/test/wav/yuweiweien315.wav
+trans: REQUEST HOLDING PONCEDURE
+refer: REQUEST HOLDING PROCEDURE
+WER: 0.333333333     CER: 0.086956522
+
+/minhang_std900_seen/test/wav/luowenen181.wav
+trans: "RUNWAY NOTE IN SIGHT
+refer:  GOING ROUND"
+WER: 0.333333333     CER: 0.071428571
+
+/minhang_std900_seen/test/wav/chenshunlongen036.wav
+trans: MAINTAIN TEZET SPEED
+refer: MAINTAIN PRESENT SPEED
+WER: 0.333333333     CER: 0.2
+
+/minhang_std900_seen/test/wav/pengyideen180.wav
+trans: REQUEST LOW APOOV
+refer: REQUEST LOW APPROACH
+WER: 0.333333333     CER: 0.277777778
+
+/minhang_std900_seen/test/wav/chenmingliangen220.wav
+trans: REQUEST DEPARTURE EINSTRUCTION 
+refer: REQUEST DEPARTURE INSTRUCTION
+WER: 0.333333333     CER: 0.037037037
+
+/minhang_std900_seen/test/wav/zhoukaihangen265.wav
+trans: NO SPEED INSTRIUCTION
+refer: NO SPEED RESTRICTIONS
+WER: 0.333333333     CER: 0.210526316
+
+/minhang_std900_seen/test/wav/lijiaqien010.wav
+trans: "AFTER PASSING CG O
+refer:  DESCEND TO FL80"
+WER: 0.333333333     CER: 0.035714286
+
+/minhang_std900_seen/test/wav/wanghanyien101.wav
+trans: YOU ARE UNRADABLE
+refer: YOU ARE UNREADABLE
+WER: 0.333333333     CER: 0.0625
+
+yuweiweien305.wav
+trans: "CLEARED VOR DME APPROACH RUNWAY 24
+refer:  DESCENDING TO 3000 FEET
+WER: 0.3     CER: 0.034482759
+
+hanzhihaoen062.wav
+trans: "EXPECT HOLD AT HR
+refer:  VIAR FOR 10 MINUTES DUE TRAF"
+WER: 0.3     CER: 0.175
+
+lijiayuen126.wav
+trans: "UNABLE TO VACAED VIA A2
+refer:  REQUEST FOLLANCE OF RUNWAY"
+WER: 0.3     CER: 0.177777778
+
+lihanlongen068.wav
+trans: "APPROACH CLEARANCE CANCELED
+refer:  TURN LEFT DIRECT TO GETA
+WER: 0.285714286     CER: 0.140186916
+
+liujingen122.wav
+trans: "AFPPROACHING HOLDING POINT
+refer:  REQUEST CRSING RUNWAY 24"
+WER: 0.285714286     CER: 0.063829787
+
+caolangen022.wav
+trans: "CLIMB TO FL280
+refer:  EXEDIT UNTIL PASSING FL180"
+WER: 0.285714286     CER: 0.081081081
+
+lijiayuen165.wav
+trans: "NUMBER TWO
+refer:  FOLLOW AIRBUS 330 OR BAS"
+WER: 0.285714286     CER: 0.064516129
+
+/minhang_std900_seen/test/wav/wangliyuen160.wav
+trans: REQUEST TAKEOFF DIESCAINGE AVAILABLE FROM INTRERSECTION E3
+refer: REQUEST TAKEOFF DISTANCE AVAILABLE FROM INTERSECTION E3
+WER: 0.285714286     CER: 0.102040816
+
+/minhang_std900_seen/test/wav/guozhengtingen274.wav
+trans: UNABLE TO ICIVE TRANSMISSION ON THAT FREQUESE
+refer: UNABLE TO RECEIVE TRANSMISSION ON THAT FREQUENCY
+WER: 0.285714286     CER: 0.142857143
+
+/minhang_std900_seen/test/wav/chenmingliangen209.wav
+trans: CONFIRM THE REASON FOR FLI SUSPENSION
+refer: CONFIRM THE REASON FOR OUR FLIGHT SUSPENSION
+WER: 0.285714286     CER: 0.157894737
+
+/minhang_std900_seen/test/wav/chenxiaodaen206.wav
+trans: CONFIRM MIDPOINT RVR MORE THAN 5000 FEC METERS
+refer: CONFIRM MIDPOINT RVR MORE THAN 550 METERS
+WER: 0.285714286     CER: 0.142857143
+
+/minhang_std900_seen/test/wav/yuanhaoen141.wav
+trans: "RUNWAY 0S
+refer:  CLARED FOR TAKEOFF
+WER: 0.285714286     CER: 0.048780488
+
+/minhang_std900_seen/test/wav/lichenzhaoen060.wav
+trans: STAFT TIME NOT DETERMINED DUE LOT CONTROL
+refer: SLOT TIME NOT DETERMINED DUE FLOW CONTROL
+WER: 0.285714286     CER: 0.142857143
+
+/minhang_std900_seen/test/wav/wanghanyien141.wav
+trans: "RUNWAY 06
+refer:  CLEARED FOR TAKEOFF
+WER: 0.285714286     CER: 0.073170732
+
+/minhang_std900_seen/test/wav/heweilongen097.wav
+trans: "EXPECT START UP AT 35
+refer:  QN030"
+WER: 0.285714286     CER: 0.08
+
+chenshunlongen098.wav
+trans: EXPECT DEPARTURE AT4 9 START UP AT OWN DISPESTINATION QNH 1004
+refer: "EXPECT DEPARTURE AT 49
+WER: 0.272727273     CER: 0.18
+
+/minhang_std900_seen/test/wav/chenmingliangen300.wav
+trans: "CLEARED STRAIGHT-IND ILS APPROACH RUNWAY 24
+refer:  DESCENT TO 3000 FEET
+WER: 0.272727273     CER: 0.047619048
+
+/minhang_std900_seen/test/wav/yinnanen323.wav
+trans: "REDUCE TO MINIMMA APPROACH SPEED
+refer:  TURN RIGHT HHEADING 230
+WER: 0.266666667     CER: 0.064102564
+
+liqingjunen046.wav
+trans: REQUEST RAD VECTORS FOR VASAL APPROACH RUNWAY 22
+refer: REQUEST RADAR VECTORS FOR VISUAL APPROACH RUNWAY 22
+WER: 0.25     CER: 0.090909091
+
+xiaokailunen379.wav
+trans: "WOGER
+refer:  REQUEST CONTINUE APPROACH"
+WER: 0.25     CER: 0.034482759
+
+panlongen106.wav
+trans: PUSHBACK APPROACH RUNWAY 31
+refer: "PUSHBACK APPROVED
+WER: 0.25     CER: 0.16
+
+luowenen127.wav
+trans: "CROS RUNWAY 24
+refer:  WILCO"
+WER: 0.25     CER: 0.181818182
+
+luowenen153.wav
+trans: REQUEST REITUN TO RAMP
+refer: REQUEST RETURN TO RAMP
+WER: 0.25     CER: 0.105263158
+
+guozhengtingen202.wav
+trans: CONFIRM RV RUNWAY 27
+refer: CONFIRM RVR RUNWAY 27
+WER: 0.25     CER: 0.055555556
+
+liuzhilinen139.wav
+trans: READY FOR IMMEDIAY DEPARTURE
+refer: READY FOR IMMEDIATE DEPARTURE
+WER: 0.25     CER: 0.076923077
+
+lijiayuen106.wav
+trans: "16
+refer:  PUSHBACK  APPROVED
+WER: 0.25     CER: 0.12
+
+lijiayuen108.wav
+trans: PUSHBACK AT OWN DISCETION
+refer: PUSHBACK AT OWN DISCRETION
+WER: 0.25     CER: 0.043478261
+
+weihaodongen140.wav
+trans: CLEARED FOR IMEDIATE TAKEOFF
+refer: CLEARED FOR IMMEDIATE TAKEOFF
+WER: 0.25     CER: 0.038461538
+
+lijiayuen169.wav
+trans: ORBIT RIGHT NUMBER TWO
+refer: "ORBIT RIGHT
+WER: 0.25     CER: 0.05
+
+lihanlongen063.wav
+trans: USHBECTED APPROACH TIME 44
+refer: EXPECTED APPROACH TIME 44
+WER: 0.25     CER: 0.181818182
+
+yuanhaoen138.wav
+trans: LINIG UP RUNWAY 01C
+refer: LINING UP RUNWAY 01C
+WER: 0.25     CER: 0.058823529
+
+koujiahuien202.wav
+trans: CONFIRM PRV RUNWAY 27
+refer: CONFIRM RVR RUNWAY 27
+WER: 0.25     CER: 0.111111111
+
+wangliyuen153.wav
+trans: REQUEST ATERN TO RAMP
+refer: REQUEST RETURN TO RAMP
+WER: 0.25     CER: 0.157894737
+
+guanweihanen052.wav
+trans: CONTACTE CONTROL ON 118.9
+refer: CONTACT CONTROL ON 118.9
+WER: 0.25     CER: 0.047619048
+
+lijiayuen140.wav
+trans: CLEARED FOR IMMEDIAT TAKEOFF
+refer: CLEARED FOR IMMEDIATE TAKEOFF
+WER: 0.25     CER: 0.038461538
+
+lijiayuen111.wav
+trans: "PUSHBACK APPROVED
+refer:  ACING WEST"
+WER: 0.25     CER: 0.037037037
+
+xujiadongen389.wav
+trans: "AFFIRM
+refer:  CROSS BKM VOR AT O  FL190"
+WER: 0.25     CER: 0.1875
+
+wumingweien375.wav
+trans: CLEARED FOR HAT TO ILS APPROACH RUNWAY 24
+refer: CLEARED FOR CAT II ILS APPROACH RUNWAY 24
+WER: 0.25     CER: 0.088235294
+
+wanghanyien105.wav
+trans: "SA 27
+refer:  REQUEST PUSHBACK"
+WER: 0.25     CER: 0.130434783
+
+wanghanyien140.wav
+trans: CLEARED FOR MEDITE TAKEOFF
+refer: CLEARED FOR IMMEDIATE TAKEOFF
+WER: 0.25     CER: 0.115384615
+
+wanghanyien109.wav
+trans: "PUSHBACK APPROVED
+refer:  LONG TOUSHBACK"
+WER: 0.25     CER: 0.068965517
+
+zhaoyizeen233.wav
+trans: NEGATIVE CONTACT DUE ICY
+refer: NEGATIVE CONTACT DUE IMC
+WER: 0.25     CER: 0.095238095
+
+wangliyuen109.wav
+trans: "PUSHBACK APPROVED
+refer:  RLOUND PUSHBACK"
+WER: 0.25     CER: 0.103448276
+
+weihaodongen127.wav
+trans: "CROSSING RUNWAY 24
+refer:  WAIALCO"
+WER: 0.25     CER: 0.090909091
+
+/minhang_std900_seen/test/wav/liuxinpengen255.wav
+trans: MAINTAIN 180 KNOTS UNTIL  MILES FROM POUCHDOWN
+refer: MAINTAIN 180 KNOTS UNTIL 8 MILES FROM TOUCHDOWN
+WER: 0.25     CER: 0.05
+
+/minhang_std900_seen/test/wav/linghaiyangen253.wav
+trans: ICATED SPEED 270 KNOTS
+refer: INDICATED SPEED 270 KNOTS
+WER: 0.25     CER: 0.136363636
+
+/minhang_std900_seen/test/wav/zengyunianen208.wav
+trans: "THE RUNWAY SURFACE IS DA
+refer:  BRAKIG ACTION GOOD"
+WER: 0.25     CER: 0.075
+
+/minhang_std900_seen/test/wav/yemaochenen138.wav
+trans: TIN UP RUNWAY 01C
+refer: LINING UP RUNWAY 01C
+WER: 0.25     CER: 0.235294118
+
+/minhang_std900_seen/test/wav/lijiayuen139.wav
+trans: READY FOR IMEDITE DEPARTURE
+refer: READY FOR IMMEDIATE DEPARTURE
+WER: 0.25     CER: 0.076923077
+
+/minhang_std900_seen/test/wav/chenxiaodaen202.wav
+trans: CONFIRM RVR RUNWAY 17
+refer: CONFIRM RVR RUNWAY 27
+WER: 0.25     CER: 0.055555556
+
+/minhang_std900_seen/test/wav/liuxinpengen202.wav
+trans: CONFIRM RVR REUNWAY 27
+refer: CONFIRM RVR RUNWAY 27
+WER: 0.25     CER: 0.055555556
+
+/minhang_std900_seen/test/wav/lihanlongen043.wav
+trans: "CANCEL SPEED VESTRICTION
+refer:  CONTINUE DESCENT TO 3000 FEET"
+WER: 0.25     CER: 0.041666667
+
+/minhang_std900_seen/test/wav/qiujinzhuanen109.wav
+trans: "PUSHBACK APPROVED
+refer:  RW PUSHBACK"
+WER: 0.25     CER: 0.137931034
+
+/minhang_std900_seen/test/wav/lijiayuen105.wav
+trans: "STAMD 27
+refer:  REQUEST PUSHBACK"
+WER: 0.25     CER: 0.043478261
+
+/minhang_std900_seen/test/wav/liuzhilinen173.wav
+trans: CIGTHAINUE APPROACH RUNWAY 25
+refer: CONTINUE APPROACH RUNWAY 25
+WER: 0.25     CER: 0.166666667
+
+/minhang_std900_seen/test/wav/guozhengtingen215.wav
+trans: "DE-ICING COMMAITEY
+refer:  REQUEST TAXI"
+WER: 0.25     CER: 0.137931034
+
+/minhang_std900_seen/test/wav/zengyunianen248.wav
+trans: STOP TER HEADING 070
+refer: STOP TURN HEADING 070
+WER: 0.25     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/limingnanen063.wav
+trans: EXPECTED APPROACH TE 44
+refer: EXPECTED APPROACH TIME 44
+WER: 0.25     CER: 0.090909091
+
+/minhang_std900_seen/test/wav/heweilongen063.wav
+trans: EXPECTEED APPROACH TIME 44
+refer: EXPECTED APPROACH TIME 44
+WER: 0.25     CER: 0.045454545
+
+/minhang_std900_seen/test/wav/wuwenjieen106.wav
+trans: "PUSHBACK APPROACD
+refer:  RUNWAY 31"
+WER: 0.25     CER: 0.08
+
+/minhang_std900_seen/test/wav/wangliyuen168.wav
+trans: "EXTANE DOWNWIND
+refer:  NUMBER TWO
+WER: 0.25     CER: 0.097560976
+
+/minhang_std900_seen/test/wav/wangliyuen186.wav
+trans: "TAXKK FIRST RIGHT
+refer:  WHEN VACATED CONTACT GROUND 118.35"
+WER: 0.25     CER: 0.065217391
+
+/minhang_std900_seen/test/wav/dongyuchenen099.wav
+trans: RADI CHECK ON 118.3
+refer: RADIO CHECK ON 118.3
+WER: 0.25     CER: 0.058823529
+
+/minhang_std900_seen/test/wav/dongyuchenen018.wav
+trans: "RIGHT HEADING 30
+refer:  DESCENDNG TO 3000 FEE
+WER: 0.230769231     CER: 0.044776119
+
+wangliyuen118.wav
+trans: TAXIE VEIA TAXIWAY C TO HOLDING POINT RUNWAY 24
+refer: TAXI VIA TAXIWAY C TO HOLDING POINT RUNWAY 24
+WER: 0.222222222     CER: 0.054054054
+
+/minhang_std900_seen/test/wav/yuanhaoen121.wav
+trans: "NEGATIVE
+refer:  WE NED 10 MINUTES TO 2OO THE BRAKES"
+WER: 0.222222222     CER: 0.076923077
+
+/minhang_std900_seen/test/wav/suntianqien279.wav
+trans: "INCAE OF GOING AROUND
+refer:  TURN LEFT HEADING 210"
+WER: 0.222222222     CER: 0.026315789
+
+koushuaien039.wav
+trans: REDUCE TO MINIMAMM APPROACH SPEED
+refer: REDUCE TO MINIMUM APPROACH SPEED
+WER: 0.2     CER: 0.071428571
+
+hanzhihaoen039.wav
+trans: REDUCE TO MINMAL APPROACH SPEED
+refer: REDUCE TO MINIMUM APPROACH SPEED
+WER: 0.2     CER: 0.107142857
+
+lijiaqien094.wav
+trans: "START UP P APPROVED
+refer:  QNH 29.91"
+WER: 0.2     CER: 0.041666667
+
+liangzhixinen261.wav
+trans: REDUCE SPEED TO 240 KNOT
+refer: REDUCE SPEED TO 240 KNOTS
+WER: 0.2     CER: 0.047619048
+
+linghaiyangen249.wav
+trans: REQUEST HEADING 10 DUE WEATHER
+refer: REQUEST HEADING 180 DUE WEATHER
+WER: 0.2     CER: 0.037037037
+
+wangliyuen175.wav
+trans: "SHORT FINAL
+refer:  REQUEST WIND CRACK"
+WER: 0.2     CER: 0.074074074
+
+chenshunlongen072.wav
+trans: LEAVING JFK VOR HEADING 210
+refer: LEAVE JFK VOR HEADING 210
+WER: 0.2     CER: 0.142857143
+
+liujingen166.wav
+trans: "NUMBER TWO
+refer:  TRAF IN SIGHT"
+WER: 0.2     CER: 0.125
+
+lichenzhaoen092.wav
+trans: "DESTINATION BEIJIN
+refer:  REQUEST DEPARTURE INFORMATION"
+WER: 0.2     CER: 0.02173913
+
+chenxiaodaen261.wav
+trans: ADCE SPEED TO 240 KNOTS
+refer: REDUCE SPEED TO 240 KNOTS
+WER: 0.2     CER: 0.142857143
+
+chenxien288.wav
+trans: STOP SQUAWK TRANSIME ADS-B ONLY
+refer: STOP SQUAWK TRANSMIT ADS-B ONLY
+WER: 0.2     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/yinnanen312.wav
+trans: CLEAREDR VISUAL APPROACH RUNWAY 24
+refer: CLEARED VISUAL APPROACH RUNWAY 24
+WER: 0.2     CER: 0.034482759
+
+/minhang_std900_seen/test/wav/yemaochenen157.wav
+trans: REQUEST INTERSECTION DEPARTURE FO C2
+refer: REQUEST INTERSECTION DEPARTURE FROM C2
+WER: 0.2     CER: 0.058823529
+
+/minhang_std900_seen/test/wav/liuzhilinen157.wav
+trans: "REQUEST INTESEATION
+refer:  DEPARTURE FROM C2"
+WER: 0.2     CER: 0.088235294
+
+/minhang_std900_seen/test/wav/lihanlongen092.wav
+trans: "DESTINATION BEJINE
+refer:  REQUEST DEPARTURE INFORMATION"
+WER: 0.2     CER: 0.043478261
+
+/minhang_std900_seen/test/wav/lichenzhaoen039.wav
+trans: REDUCE TO MINIMUM AR APPROACH SPEED
+refer: REDUCE TO MINIMUM APPROACH SPEED
+WER: 0.2     CER: 0.071428571
+
+/minhang_std900_seen/test/wav/lihanlongen062.wav
+trans: DEXPECT HOLD AT HUR VOR FOR 10 MINUTES UE TRAFFIC
+refer: EXPECT HOLD AT HUR VOR FOR 10 MINUTES DUE TRAFFIC
+WER: 0.2     CER: 0.05
+
+/minhang_std900_seen/test/wav/zhangyuen254.wav
+trans: MAINTAIN 300 KOTES OR LESS
+refer: MAINTAIN 300 KNOTS OR LESS
+WER: 0.2     CER: 0.090909091
+
+/minhang_std900_seen/test/wav/zhangyuen249.wav
+trans: REQUEST HEADING 180 DUE WEATER
+refer: REQUEST HEADING 180 DUE WEATHER
+WER: 0.2     CER: 0.037037037
+
+/minhang_std900_seen/test/wav/linjialiangen039.wav
+trans: REDUCE TO MINUE APPROACH SPEED
+refer: REDUCE TO MINIMUM APPROACH SPEED
+WER: 0.2     CER: 0.107142857
+
+/minhang_std900_seen/test/wav/likunen261.wav
+trans: REDUCE SPECED TO 240 KNOTS
+refer: REDUCE SPEED TO 240 KNOTS
+WER: 0.2     CER: 0.047619048
+
+/minhang_std900_seen/test/wav/koushuaien064.wav
+trans: REVISED ECTED APPROACH TIME 54
+refer: REVISED EXPECTED APPROACH TIME 54
+WER: 0.2     CER: 0.103448276
+
+/minhang_std900_seen/test/wav/wangliyuen110.wav
+trans: PUSHBACK TO TAXIWAY A FO APPROVED
+refer: PUSHBACK TO TAXIWAY A APPROVED
+WER: 0.2     CER: 0.076923077
+
+liqingjunen073.wav
+trans: "CLEARED TO LHR HOLD AT LHR AT PUBLISHED
+refer:  MAINTAIN 8000 FEET
+WER: 0.1875     CER: 0.038961039
+
+/minhang_std900_seen/test/wav/lichenzhaoen071.wav
+trans: "AFTIER PASSING S  VOR
+refer:  LEAVE THE HOLD ON HO HEADING 250
+WER: 0.1875     CER: 0.055555556
+
+/minhang_std900_seen/test/wav/yuweiweien386.wav
+trans: "NEGTIE UNABLE CROSS BKM VOR AT OR ABOVE FL230
+refer:  DUE PERFORMANCE"
+WER: 0.181818182     CER: 0.074074074
+
+zhangyizeen266.wav
+trans: REQUEST SPEED 200 KNOTS DUE CONFIURATION
+refer: REQUEST SPEED 200 KNOTS DUE CONFIGURATION
+WER: 0.166666667     CER: 0.027777778
+
+koushuaien096.wav
+trans: "START UP P AT 35
+refer:  QNH 997"
+WER: 0.166666667     CER: 0.055555556
+
+linghaiyangen278.wav
+trans: CONFIRM ILS FREQUENCY FOR RUNWAY 15L
+refer: CONFIRM ILS FREQUENCY FOR RUNWAY 17L
+WER: 0.166666667     CER: 0.032258065
+
+suntianqien267.wav
+trans: REQUEST SPEED 250 KNOTS DUE TURBULENCSE
+refer: REQUEST SPEED 250 KNOTS DUE TURBULENCE
+WER: 0.166666667     CER: 0.03030303
+
+yuweiweien353.wav
+trans: CONTACT  T 80 MILES AFTER BK
+refer: CONTACT CONTROL 80 MILES AFTER BK
+WER: 0.166666667     CER: 0.214285714
+
+yuweiweien301.wav
+trans: "ARFIELD IN SIGHT
+refer:  REQUEST VISUAL  APPROACH"
+WER: 0.166666667     CER: 0.027027027
+
+zhangyizeen267.wav
+trans: REQUEST  SPEED 250 KNOTS DUE TUPEULNCE
+refer: REQUEST SPEED 250 KNOTS DUE TURBULENCE
+WER: 0.166666667     CER: 0.090909091
+
+wangliyuen142.wav
+trans: "CLEARED FOR TAKEOFF
+refer:  RUNWAY 04
+WER: 0.166666667     CER: 0.03125
+
+lichenzhaoen058.wav
+trans: DILAY NOT DETERMINED DUE RUNWAY OBSTRUCTION
+refer: DELAY NOT DETERMINED DUE RUNWAY OBSTRUCTION
+WER: 0.166666667     CER: 0.026315789
+
+/minhang_std900_seen/test/wav/lijiaqien015.wav
+trans: DESCENND AT 2000 FEET PER MINUTE
+refer: DESCEND AT 2000 FEET PER MINUTE
+WER: 0.166666667     CER: 0.038461538
+
+/minhang_std900_seen/test/wav/liangzhixinen267.wav
+trans: REQUEST SPEED 250 KNOTS DUE TURBULSLENCE
+refer: REQUEST SPEED 250 KNOTS DUE TURBULENCE
+WER: 0.166666667     CER: 0.060606061
+
+/minhang_std900_seen/test/wav/chenmingliangen266.wav
+trans: REQUEST SPEED 200 KNOTS DUE CONFICGURATION
+refer: REQUEST SPEED 200 KNOTS DUE CONFIGURATION
+WER: 0.166666667     CER: 0.027777778
+
+/minhang_std900_seen/test/wav/lichenzhaoen031.wav
+trans: "ICING CONDITION COUNDER
+refer:  REQUEST FURTHER CLIMB"
+WER: 0.166666667     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/lichenzhaoen041.wav
+trans: MAINTAIN 160 KNOTS UNTIL OUTER MARER
+refer: MAINTAIN 160 KNOTS UNTIL OUTER MARKER
+WER: 0.166666667     CER: 0.03125
+
+/minhang_std900_seen/test/wav/liuxinpengen266.wav
+trans: REQUEST SPEED 200 KNOTS DUE CONFIRGISTION
+refer: REQUEST SPEED 200 KNOTS DUE CONFIGURATION
+WER: 0.166666667     CER: 0.111111111
+
+/minhang_std900_seen/test/wav/dongyuchenen035.wav
+trans: MAINTAIN MACH POINT 80 FOR LESS
+refer: MAINTAIN MACH POINT 80 OR LESS
+WER: 0.166666667     CER: 0.04
+
+/minhang_std900_seen/test/wav/suntianqien258.wav
+trans: CROSS  K AT 35 OR LATER
+refer: CROSS CK AT 35 OR LATER
+WER: 0.166666667     CER: 0.055555556
+
+/minhang_std900_seen/test/wav/wuhaoen359.wav
+trans: EXPECT CONNESNG APPROACH AT TIME 50
+refer: EXPECT COMMENCING APPROACH AT TIME 50
+WER: 0.166666667     CER: 0.15625
+
+lijiaqien018.wav
+trans: "RIGHT HEADING 330
+refer:  DESCENDING TO 3000 FEET
+WER: 0.153846154     CER: 0.044776119
+
+liqingjunen060.wav
+trans: SLOT TIME NOT DETERINED DUE FLOW CONTROL
+refer: SLOT TIME NOT DETERMINED DUE FLOW CONTROL
+WER: 0.142857143     CER: 0.028571429
+
+liqingjunen005.wav
+trans: CONTINUE DESCENT TO 3000 FEETD QNH 1012
+refer: "CONTINUE DESCENT TO 3000 FEET
+WER: 0.142857143     CER: 0.03030303
+
+xiaokailunen382.wav
+trans: "MAINTAINING FL350
+refer:  EXPECT DESCENT AFTE BKM VOR"
+WER: 0.142857143     CER: 0.024390244
+
+lijiayuen143.wav
+trans: "AIRBORNE
+refer:  PASSING 500 FEET 2O 4000 FEET"
+WER: 0.142857143     CER: 0.058823529
+
+xujiahongen122.wav
+trans: "APPROACHING HOLDING POINT
+refer:  RERQUEST CROSSING RUNWAY 24"
+WER: 0.142857143     CER: 0.021276596
+
+/minhang_std900_seen/test/wav/guanweihanen022.wav
+trans: CLIMB TO FL280 EXPECT UNTIL PASSING FL180
+refer: CLIMB TO FL280 EXPEDITE UNTIL PASSING FL180
+WER: 0.142857143     CER: 0.081081081
+
+/minhang_std900_seen/test/wav/wangliyuen143.wav
+trans: "AIRBORNE
+refer:  PASSING 500 FEET WA 4000 FEET"
+WER: 0.142857143     CER: 0.088235294
+
+/minhang_std900_seen/test/wav/huoguangen048.wav
+trans: REQUEST TAXI TO HOLDING PONINT RUNWAY 13
+refer: REQUEST TAXI TO HOLDING POINT RUNWAY 13
+WER: 0.142857143     CER: 0.03030303
+
+/minhang_std900_seen/test/wav/jiangzhixuen005.wav
+trans: "CONTINUE DESCEND TO 3000 FEET
+refer:  QNH 1012"
+WER: 0.142857143     CER: 0.03030303
+
+jiangzhixuen013.wav
+trans: UNABLE TO REACH FL150 BY Z0HO DUE PERFORMANCE
+refer: UNABLE TO REACH FL150 BY ZHO DUE PERFORMANCE
+WER: 0.125     CER: 0.027027027
+
+/minhang_std900_seen/test/wav/wuwenjieen186.wav
+trans: "TAKE FIRST RIGHT WHEN VACATED
+refer:  CONTACT GROUND 118.35"
+WER: 0.125     CER: 0.02173913
+
+/minhang_std900_seen/test/wav/wumingweien391.wav
+trans: "AFFIRM
+refer:  CROSS BKM VOR AT O BEFORE 55"
+WER: 0.125     CER: 0.033333333
+
