@@ -43,10 +43,11 @@ class Solution2:
 
     def merge(self, p, q):
         tmp = ListNode(0)
-        h = tmp # 将p或q中较小的一个赋值给h，同时将h指向较大的那个
-        while p and q:
+        h = tmp  # h相当于一个临时的result
+        while p and q:  # p相当于left，q相当于right
+            # 将p或q中较小的一个赋值给h，同时将h.next指向较大的那个
             if p.val < q.val:
-                h.next = p
+                h.next = p  # 将h指向p
                 p = p.next
             else:
                 h.next = q
