@@ -7,6 +7,7 @@ class Solution:
             return False
         n = len(nums)
         dp_min = [nums[0] for i in range(n)]
+        # dp_min = [nums[0]] * n
         dp_max = [nums[-1] for i in range(n)]
         for i in range(1, n):
             dp_min[i] = min(dp_min[i - 1], nums[i])
