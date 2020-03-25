@@ -30,7 +30,7 @@ class Solution2:
 
 
 if __name__ == '__main__':
-    nums = [ 8, 8,7,7,7,7,7,7, 9]
+    nums = [8, 8, 7, 7, 7, 7, 7, 7, 9]
     k = 2
     so = Solution()
     print(so.topKFrequent(nums, k))

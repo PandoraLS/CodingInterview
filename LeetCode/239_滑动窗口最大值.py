@@ -14,7 +14,7 @@ class Solution:
             while idx_q and idx_q[0] <= i - k:  # 如果队列头(左)被滑出，则pop出去
                 idx_q.popleft()
             while idx_q and nums[idx_q[-1]] < num:
-                # 如果双端队列尾部比nums[i]小，则弹出尾部，因为此时尾部小值不可能是最大值
+                # 如果双端队列尾部对应元素比nums[i]小，则弹出尾部，因为此时尾部小值不可能是最大值
                 idx_q.pop()
             idx_q.append(i)
             if i >= k - 1:  # 如果数组nums的下标超过窗口长度，则队列头(左)为此次窗口滑动的最大值
