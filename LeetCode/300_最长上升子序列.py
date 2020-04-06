@@ -52,10 +52,8 @@ class Solution2:
                 self.printLIS(x)
 
 if __name__ == '__main__':
-    # nums = [1, 3, 6, 7, 9, 4, 10, 5, 6]
-    # so = Solution()
-    # so.lengthOfLIS(nums)
-    
-    nums2 = [10, 9, 2, 5, 3, 7, 101, 18]
+    nums = [10, 9, 2, 5, 3, 7, 101, 18]
+    so = Solution()
+    so.lengthOfLIS(nums)
     so2 = Solution2()
-    so2.constructPrintLIS(nums2, len(nums2))
+    so2.constructPrintLIS(nums, len(nums))
