@@ -34,8 +34,6 @@ class Solution:
         inversions += self.merge(a, aux, lo, mid, hi)
         return inversions
 
-
-
     def reversePairs(self, nums):
         aux = [0] * len(nums)
         return self.count(nums, aux, 0, len(nums) - 1)
