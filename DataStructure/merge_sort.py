@@ -1,38 +1,43 @@
 # -*- coding: utf-8 -*-
-# Author：sen
-# Date：2020/3/4 16:08
+# @Time : 2020/4/24 10:57
 
-# Recursively implementation of Merge Sort
-def merge(left, right):
-    result = []
-    while left and right:
-        if left[0] <= right[0]:
-            result.append(left.pop(0))
-        else:
-            result.append(right.pop(0))
-    if left:
-        result += left
-    if right:
-        result += right
-    return result
+"""
+参考算法第4版
+https://algs4.cs.princeton.edu/22mergesort/Merge.java.html
+"""
+from typing import List
+class Solution:
+    def merge(self, a, aux, lo, mid, hi):
+        inversions = 0
+        for k in range(lo, hi + 1):
+            aux[k] = a[k]
+        i, j = lo, mid + 1
+        for k in range(lo, hi + 1):
+            if i > mid:
+                a[k] = aux[j]
+                j += 1
+            elif j > hi:
+                a[k] = aux[i]
+                i += 1
+            elif aux[j] < aux[i]:
+                a[k] = aux[j]
+                j += 1
+            else:
+                a[k] = aux[i]
+                i += 1
+        return inversions
 
+    def mergeSort(self, a, aux, lo, hi):
+        if hi <= lo:
+            return 0
+        mid = lo + (hi - lo) // 2
+        self.mergeSort(a, aux, lo, mid)
+        self.mergeSort(a, aux, mid+1, hi)
+        self.merge(a, aux, lo, mid, hi)
 
-def merge_sort(L):
-    if len(L) <= 1:
-        # When D&C to 1 element, just return it
-        return L
-    mid = len(L) // 2
-    left = L[:mid]
-    right = L[mid:]
-
-    left = merge_sort(left)
-    right = merge_sort(right)
-    # conquer sub-problem recursively
-    return merge(left, right)
-    # return the answer of sub-problem
-
-
-if __name__ == "__main__":
-    test = [1, 4, 2, 3.6, -1, 0, 25, -34, 8, 9, 1, 0]
-    print("original:", test)
-    print("Sorted:", merge_sort(test))
+if __name__ == '__main__':
+    so = Solution()
+    nums = [9, 8, 7, 6, 5, 4, 3, 2, 1]
+    aux =[0] * len(nums)
+    so.mergeSort(nums, aux, 0, len(nums) - 1)
+    print(nums)
