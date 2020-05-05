@@ -25,7 +25,7 @@ class Solution:
 
     def findDiagonalOrder2(self, nums: List[List[int]]) -> List[int]:
         d = defaultdict(list)
-        for row in range(len(nums)):  # 如果正序遍历的话实际上是题目中每条线反过来
+        for row in range(len(nums)):  # 如果正序遍历的话实际上是题目中每条线反过来（从右上往左下指）
             for col in range(len(nums[row])):
                 print(nums[row][col], end=" ")
                 d[row + col].append(nums[row][col])
