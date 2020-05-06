@@ -69,7 +69,7 @@ def height(root):
 if __name__ == '__main__':
     vals = [1, 2, 3, 4, 5, 6, 7, 8]
     root = None
-    from DataStructure.ch04_tree import in_order
+    from DataStructure.tree import in_order
     for v in vals:
         root = insert(root, v)
     tree_in_order = in_order(root)
