@@ -34,7 +34,7 @@ def createTree():
     p5.right = p11
 
     root = p2
-    return root, p9, p10
+    return root, p8, p9
 
 
 class Solution:
@@ -52,6 +52,6 @@ class Solution:
 
 if __name__ == '__main__':
     so = Solution()
-    root, p9, p10 = createTree()
-    res = so.lowestCommonAncestor(root, p9, p10)
-    print(res)
+    root, p8, p9 = createTree()
+    res = so.lowestCommonAncestor(root, p8, p9)
+    print(res.val)
