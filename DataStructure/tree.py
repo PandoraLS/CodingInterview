@@ -51,7 +51,6 @@ def level_order(r):
         for i in range(level_len):
             r = queue.popleft()
             levels[-1].append(r.val)
-            # levels.append(r.val)
             if r.left:
                 queue.append(r.left)
             if r.right:
@@ -94,6 +93,28 @@ def createTree():
 
     return root
 
+def createTree2():
+    """
+    //            2
+    //          /   \
+    //         4     5
+    //               /\
+    //             10  11
+    :return:
+    """
+    p2 = TreeNode(2)
+    p4 = TreeNode(4)
+    p5 = TreeNode(5)
+    p10 = TreeNode(10)
+    p11 = TreeNode(11)
+    p2.left = p4
+    p2.right = p5
+    p5.left = p10
+    p5.right = p11
+
+    root = p2
+    return root
+
 
 def build_tree_pre_in(preorder, inorder):
     # 前序中序;建树
@@ -118,13 +139,15 @@ def build_tree_in_post(inorder, postorder):
 
 
 if __name__ == '__main__':
-    root = createTree()
+    root = createTree2()
     preorder = pre_order(root)
     inorder = in_order(root)
     postorder = post_order(root)
+    levels = level_order(root)
     print('pre_order:  ', preorder)
     print('in_order:  ', inorder)
     print('post_order:  ', postorder)
+    print("层次遍历：",levels)
 
     print('前序中序;建树')
     pre_in_root = build_tree_pre_in(preorder, inorder)
