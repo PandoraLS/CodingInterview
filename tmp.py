@@ -25,3 +25,5 @@ if __name__ == '__main__':
     minCnt = max(cntArr)
     print(str(minCnt))
 
+
+from copy import deepcopy
