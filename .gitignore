@@ -112,3 +112,6 @@ venv.bak/
 */.vscode/
 *.exe
 *.o
+
+# 多余的文件夹
+LeetCodeHot100/C++/.vscode/
