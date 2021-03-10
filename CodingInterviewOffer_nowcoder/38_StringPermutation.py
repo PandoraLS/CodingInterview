@@ -61,6 +61,7 @@ class Solution:
                 pStr.append(charlist[i] + j)
         return pStr
 
+
 if __name__ == '__main__':
     string = 'abcd'
     so = Solution()
