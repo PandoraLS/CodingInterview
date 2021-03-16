@@ -2,10 +2,15 @@
  * @Author: seenli
  * @Date: 2021-03-11 00:10:42
  * @LastEditors: seenli
- * @LastEditTime: 2021-03-11 01:20:21
- * @FilePath: \C++\02.cpp
+ * @LastEditTime: 2021-03-16 13:40:03
+ * @FilePath: \C++\02_AddTwoNumbers.cpp
  * @Description: LeetCode Hot 100
  */
+
+/*
+    参考本地运行部分
+    ref: https://leetcode-cn.com/problems/add-two-numbers/solution/cjie-ti-de-wan-zheng-dai-ma-bao-gua-sheng-cheng-ce/
+*/
 
 #include <iostream>
 #include <vector>
@@ -30,6 +35,7 @@ public:
         ListNode* p = l1;
         ListNode* q = l2;
 
+        // 统计两ListNode的长度
         while(p->next != nullptr) {
             len1++;
             p = p->next;
@@ -67,11 +73,11 @@ public:
             p = p->next;
             q = q->next;
         }
-        if (carry) {        // 如果还有进位则添加1到下一位
+        if (carry) {                                // 如果还有进位则添加1到下一位
             r->next = new ListNode(1);
             r = r->next;
         }
-        return res->next;
+        return res->next;                           // 返回结果列表
     }
 };
 
@@ -95,10 +101,11 @@ int main()
     return 0;
 }
 
+// 生成list
 ListNode* generateListNode(vector<int> vals) 
 {
     ListNode *res = nullptr;
-    ListNode *last = nullptr;
+    ListNode *last = nullptr;                       // 确定是否走到list最后
     for(auto val : vals) {
         if(last) {
             last->next = new ListNode(val);
@@ -112,16 +119,6 @@ ListNode* generateListNode(vector<int> vals)
     return res;
 }
 
-void freeListNode(ListNode* head)
-{
-    ListNode* node = head;
-    while(node) {
-        auto temp = node->next;
-        delete node;
-        node = temp;
-    }
-}
-
 void printListNode(ListNode* head)
 {
     ListNode* node = head;
@@ -130,4 +127,14 @@ void printListNode(ListNode* head)
         node = node->next;
     }
     cout << endl;
+}
+
+void freeListNode(ListNode* head)
+{
+    ListNode* node = head;
+    while(node) {
+        auto temp = node->next;
+        delete node;
+        node = temp;
+    }
 }
