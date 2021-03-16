@@ -114,4 +114,4 @@ venv.bak/
 *.o
 
 # 多余的文件夹
-LeetCodeHot100/C++/.vscode/
+ProgrammingOJ/LeetCodeTopInterview/C++/.vscode/
